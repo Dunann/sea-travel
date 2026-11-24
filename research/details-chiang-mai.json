@@ -1,0 +1,989 @@
+{
+  "city": "Chiang Mai",
+  "intro": "Chiang Mai was the capital of the Lanna kingdom from 1296, and its square, moated old city still holds more than 30 temples within a 1.5 km walk. It is greener, slower and cooler than Bangkok: early January is the best weather of the year, with crisp mornings, warm dry afternoons and no smoke haze yet. This leg mixes the old city's teak and brick temples by day and floodlight, a day in the Mae Taeng and Mae Rim valleys with rescued elephants, and the traveler's own adventure: hiking up Doi Suthep on the Monk's Trail and sleeping in a tent near the top of Doi Pui, then a Saturday of south-west temples ending at the silver street of Wua Lai.",
+  "stay": [
+    {
+      "area": "Old City (south-west quarter, near Wat Phra Singh / Chiang Mai Gate)",
+      "why": "Walk to Wat Chedi Luang at night, the Chiang Mai Gate food market and the Wua Lai Saturday street; quiet lanes, many guesthouses; 15 min by Grab from the airport and from the Monk's Trail trailhead.",
+      "example_hotels": [
+        "Tamarind Village",
+        "Rachamankha",
+        "99 The Heritage Hotel",
+        "The Inside House"
+      ]
+    },
+    {
+      "area": "Nimmanhaemin / Suthep Road (west of the old city)",
+      "why": "Closest base to Doi Suthep, the Monk's Trail, Wat Umong and Wat Suan Dok; cafés and a younger, modern feel; old city 10 min by Grab.",
+      "example_hotels": [
+        "Akyra Manor Chiang Mai",
+        "Art Mai Gallery Nimman Hotel",
+        "Hotel Nimman"
+      ]
+    },
+    {
+      "area": "Riverside / Tha Phae Gate east",
+      "why": "Charming teak-house hotels along the Ping River, near Warorot market and the night bazaar; a 10–20 min walk to the old city.",
+      "example_hotels": [
+        "137 Pillars House",
+        "Anantara Chiang Mai Resort",
+        "Riverside House"
+      ]
+    }
+  ],
+  "arrival": "Chiang Mai International Airport (CNX) is only ~4 km south-west of the old city. Grab or Bolt from the arrivals pick-up point costs ~120–180 THB (US$3.50–5) and takes 15–20 min; the official airport taxi counter in arrivals is a fixed ~150–200 THB. Hotels in the old city will usually hold bags from the morning. Flights from Bangkok (Wed 6 Jan): ~1h10, many daily from both BKK (Thai Airways, Bangkok Airways, Thai AirAsia, Thai Vietjet) and DMK (Thai AirAsia, Nok Air, Thai Lion Air); an 07:00–08:00 departure lands you in town by ~10:00. If you take the overnight sleeper train instead (Bangkok Krung Thep Aphiwat ~18:40 → Chiang Mai ~07:15), the station is ~3 km east of the old city: red songthaew or Grab ~100 THB.",
+  "getting_around": "Old city on foot. Grab and Bolt work well everywhere in town (short hops 60–120 THB, airport 120–180 THB); download both and add a card. Red songthaews (rot daeng) are shared trucks that you flag down: 30–40 THB per person inside town if you are going where the driver is going; for anything else agree a charter price before getting in. Doi Suthep songthaews leave from the zoo / Chiang Mai University gate on Huay Kaew Road and go when ~8–10 people have gathered (Doi Suthep ~40–60 THB, Bhubing ~70–90 THB, Doi Pui Hmong village ~90–120 THB one way). Bicycles from rental shops in the old city: ~50–100 THB/day (good for the Wat Umong / Wat Suan Dok loop). Scooters ~250–350 THB/day, but you legally need an International Driving Permit with a motorcycle category plus your home motorcycle licence (police check points around the moat fine 500 THB, and travel insurance usually won't pay out without it). A car with driver for a day out of town (Mae Taeng/Mae Rim) costs ~1,800–2,800 THB (US$50–80) for 8–10 h incl. fuel; book through your hotel, a travel desk, or the Grab 'Rent' option.",
+  "weather": "Early January is peak cool season: dry, sunny, 28–30 °C in the afternoon and 13–16 °C at dawn in town. On Doi Suthep–Pui (1,500–1,685 m) nights drop to about 5–12 °C and it is often windy, so bring a fleece, a warm hat and long trousers for the camping night. Rain is very unlikely. The smoky 'burning season' starts in February–March, so views should be clear. Sunrise ~06:58, sunset ~18:00 (6–10 Jan); it is fully dark by ~18:30.",
+  "etiquette": "Temples: cover shoulders and knees (no tight or see-through clothes), take shoes off before entering any hall, never point feet at a Buddha image or monk, and women should not touch monks or hand things to them directly. Some Lanna halls are men-only: the silver ordination hall (ubosot) of Wat Sri Suphan, the City Pillar shrine at Wat Chedi Luang, and the inner chedi terrace at some temples — signs say 'Ladies not allowed'. Respect for the monarchy is enforced by law: don't joke about the royal family, and stand when the anthem plays in cinemas. Vaping is illegal in Thailand (heavy fines). Scams: 'sanctuaries' that still offer elephant bathing or riding; tuk-tuk or songthaew drivers quoting charter prices as if shared — agree prices first; overpriced 'tours' to Doi Suthep that you can do yourself. Cash (small notes) is needed for temples, markets, songthaews and the national park; cards work in hotels, malls and larger restaurants. ATMs charge foreign cards ~220 THB per withdrawal.",
+  "days": [
+    {
+      "id": "CM1",
+      "date": "2027-01-06",
+      "title": "Old city on foot",
+      "summary": "Fly up from Bangkok in the morning, drop bags and spend the afternoon walking the moated old city: gates, Wat Phra Singh, the Three Kings. In the late afternoon talk with a monk at Wat Chedi Luang, then stay as the ruined chedi is floodlit, and finish with dinner at the Chiang Mai Gate night food market.",
+      "notes": [
+        "Changed: Wat Sri Suphan (Silver Temple) moved to Saturday (CM4). On Saturdays it stays open until ~23:00, is lit up after dark and sits in the middle of the Wua Lai walking street; on a Wednesday it closes around 17:30–18:00, which clashes with the evening plan here.",
+        "Changed: Wat Chedi Luang now comes before the street food, so you catch the monk chat tables (until ~18:00) and dusk, then the floodlights, then eat.",
+        "Wednesday bonus: Wat Suan Dok holds its 'monk chat' only Mon/Wed/Fri 17:00–19:00 — if you would rather do that than Chedi Luang's chat tables, Grab there (10 min) at 17:00 and come back for the lit chedi at ~19:15.",
+        "If tired after the early flight: cut the Three Kings / moat loop and go straight from Wat Phra Singh to a café, then Chedi Luang."
+      ],
+      "stops": [
+        {
+          "id": "cm-arrive",
+          "name": "Arrive Chiang Mai (CNX), drop bags",
+          "time": "10:00–11:30",
+          "description": "A short morning flight from Bangkok lands at Chiang Mai International, one of the closest airports to a city centre in Asia — the old city walls are only about 4 km away. Take a Grab to your hotel, drop bags and have a first khao soi (curry noodle soup, the northern speciality) for lunch. Khao Soi Mae Sai or Khao Soi Khun Yai (only open late morning to ~14:00, closed Sundays) are local favourites just north of the moat.",
+          "tips": [
+            "Grab pick-up is at the signed 'Ride-hailing' point outside arrivals; the queue at the official taxi counter (fixed price) can be faster at busy times.",
+            "Buy a Thai SIM/eSIM before you leave Bangkok or use the AIS/True counters in arrivals.",
+            "Book a flight landing before ~10:30 to keep the afternoon free."
+          ],
+          "hours": "Airport open 24 h",
+          "cost": "Grab ~120–180 THB (US$3.50–5)",
+          "coords": [
+            18.76684,
+            98.96488
+          ],
+          "from_previous": "Flight from Bangkok BKK/DMK ~1h10 (book ahead; ~1,200–2,500 THB / US$35–75)",
+          "optional": false,
+          "image": null,
+          "image_credit": null,
+          "video": null,
+          "links": [
+            "https://chiangmaiairportthai.com/en/",
+            "https://www.grab.com/th/en/"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-old-city",
+          "name": "Old city walk: Tha Phae Gate, Wat Phra Singh, Three Kings Monument, moat",
+          "time": "12:30–16:30",
+          "description": "King Mangrai founded Chiang Mai ('new city') in 1296 as the capital of Lanna, laying out a near-perfect 1.6 km square surrounded by a moat and brick walls, of which the corner bastions and five gates survive. Start at Tha Phae Gate on the east side, then walk west along Ratchadamnoen Road to Wat Phra Singh, the city's most revered temple: its small Wihan Lai Kham (c. 1345) is the classic Lanna hall, with gold-on-red stencilling, carved gables and murals of 19th-century northern life around the Phra Buddha Sihing image. Head north-east to the Three Kings Monument, which shows Mangrai with the kings of Sukhothai and Phayao who helped him choose the site; the Lanna Folklife Museum and City Arts & Cultural Centre sit right behind it. Wat Chiang Man, the oldest temple in the city (1296), with a chedi supported by stone elephants, is a 10-minute walk further north-east.",
+          "tips": [
+            "Walk the inner lanes (sois) rather than the busy ring roads: they are quiet, shaded and full of small temples and cafés.",
+            "At Wat Phra Singh pay the small foreigner fee at the Wihan Lai Kham (the murals are the highlight) and look for the gold chedi behind the main hall.",
+            "Lanna Folklife Museum (08:30–17:00, closed Mon; 90 THB) is worth 45 min if you want context on northern daily life and temple art.",
+            "Wat Chiang Man is free and usually almost empty."
+          ],
+          "hours": "Wat Phra Singh grounds ~06:00–20:00 (main halls incl. Wihan Lai Kham ~08:00–17:00); Wat Chiang Man ~06:00–17:00; Three Kings square always open; all open on Wednesday",
+          "cost": "Wat Phra Singh 40–50 THB (~US$1.20–1.50) for foreigners for the main halls (grounds free); Wat Chiang Man free; Lanna Folklife Museum 90 THB",
+          "coords": [
+            18.78821,
+            98.98138
+          ],
+          "from_previous": "From the hotel: walk (or Grab to Tha Phae Gate, 5–10 min, ~60–80 THB)",
+          "optional": false,
+          "image": "images/cm-old-city.jpg",
+          "image_credit": "Stefan Fussan, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Chiang_Mai_-_Wat_Phra_Singh_-_0001.jpg",
+          "video": {
+            "id": "_enulk5K5NY",
+            "title": "Chiang Mai, THAILAND - Old City of Chiang Mai 2026 4K Walking Tour",
+            "channel": "Walking Expedition"
+          },
+          "links": [
+            "https://en.wikipedia.org/wiki/Wat_Phra_Singh",
+            "https://www.cmocity.com/"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-wat-chedi-luang",
+          "name": "Wat Chedi Luang & Wat Phan Tao: monk chat, dusk and floodlights",
+          "time": "16:45–19:15",
+          "description": "Wat Chedi Luang's brick chedi was finished around 1475 and, at about 82 m, was the tallest structure in Lanna until an earthquake in 1545 brought down its top third; it was partly restored in the 1990s, and the Emerald Buddha was kept in its eastern niche from 1468 to 1551. Stone naga stairways and elephant sculptures still climb its sides, and at night it is floodlit against the dark sky with very few people around. In the afternoon, student monks from Mahachulalongkorn Buddhist University sit at 'Monk Chat' tables on the north side of the grounds and are happy to talk in English about Buddhism, monastic life or Thailand. Next door, Wat Phan Tao is a rare all-teak wihan (built as a royal residence in the 1800s) with a carved peacock over the doorway; at dusk its pond garden and lanterns are the most atmospheric spot in the old city.",
+          "tips": [
+            "Arrive ~16:45 for monk chat (tables are usually staffed until ~18:00), then watch the light fade at Wat Phan Tao and return to the chedi after 18:30 when the floodlights are on.",
+            "Best night photo: from the south-east corner of the grounds, with the elephant stairway in front.",
+            "The City Pillar shrine (Sao Inthakhin) in the grounds is men-only; the chedi itself can be seen by everyone.",
+            "Wat Phan Tao is free; look inside the dim teak hall with its old gilded Buddhas."
+          ],
+          "hours": "Grounds ~06:00–22:00 (TAT lists 08:00–22:00); ticket desk staffed in daytime; monk chat roughly 09:00–18:00 daily; chedi floodlit after dark (~18:30)",
+          "cost": "Wat Chedi Luang 50 THB (~US$1.50) for foreigners, cash; Wat Phan Tao free",
+          "coords": [
+            18.78714,
+            98.98678
+          ],
+          "from_previous": "Walk from the Three Kings Monument, ~600 m / 8 min south along Phra Pokklao Road",
+          "optional": false,
+          "image": "images/cm-wat-chedi-luang-night.jpg",
+          "image_credit": "Vyacheslav Argenberg, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Wat_Chedi_Luang_at_night%2C_Chiang_Mai%2C_Thailand.jpg",
+          "video": {
+            "id": "AL_nfNpU-7U",
+            "title": "We Made Gold Leaf Offerings at This 14th Century Temple | Wat Chedi Luang Chiang Mai",
+            "channel": "Jon & Lucy Travels"
+          },
+          "links": [
+            "https://en.wikipedia.org/wiki/Wat_Chedi_Luang",
+            "https://en.wikipedia.org/wiki/Wat_Phan_Tao"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-street-food",
+          "name": "Chiang Mai Gate night food market",
+          "time": "19:15–21:00",
+          "description": "Every evening the roadside and the covered market at Chiang Mai Gate, on the south side of the moat, fill with food stalls used mainly by locals. This is the place to try northern dishes in small portions: khao soi, sai ua (herby northern sausage), nam prik ong and nam prik noom (chilli dips with pork crackling and vegetables), khanom jeen nam ngiao noodles, grilled pork skewers, and mango sticky rice or roti for dessert. Everything costs 40–80 THB and you eat at shared tables or take food to a bench by the moat. It is a 7-minute walk from Wat Chedi Luang and less touristy than the Sunday Walking Street or the Night Bazaar.",
+          "tips": [
+            "Pick the stalls with queues of locals. The famous 'Cowboy Hat Lady' stewed pork leg on rice (khao kha moo) is at the Chang Phueak Gate night market on the north side of the moat, 10 min by Grab, if you want to add it.",
+            "Bring small notes; most stalls are cash only (some take Thai QR payment).",
+            "Lots of stalls close by ~22:00; the busiest time is 18:30–20:00."
+          ],
+          "hours": "Daily ~17:00–23:00 (day market inside the building ~06:00–14:00)",
+          "cost": "Dishes 40–80 THB (~US$1.20–2.50); dinner ~150–250 THB",
+          "coords": [
+            18.78127,
+            98.98823
+          ],
+          "from_previous": "Walk ~650 m / 8 min south from Wat Chedi Luang along Phra Pokklao Road to Chiang Mai Gate",
+          "optional": false,
+          "image": "images/cm-street-food.jpg",
+          "image_credit": "Takeaway, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2014_11_Street_food_stall_Chiang_Mai.jpg",
+          "video": {
+            "id": "BBl4NOQ7LSU",
+            "title": "Chiang Mai Gate Night Market | Authentic Thai Street Food | 4K Walking Tour | No Talking",
+            "channel": "EchoSteps"
+          },
+          "links": [
+            "https://en.wikivoyage.org/wiki/Chiang_Mai"
+          ],
+          "warning": null
+        }
+      ]
+    },
+    {
+      "id": "CM2",
+      "date": "2027-01-07",
+      "title": "Elephants, Wat Ban Den and Mon Cham sunset",
+      "summary": "A morning watching rescued elephants at Elephant Nature Park in the Mae Taeng valley, then a hired car north to the glittering hillside temple of Wat Ban Den and up into the Mae Rim hills for sunset over the terraces of Mon Cham. A long, varied day out of the city — book the elephant visit and the driver in advance.",
+      "notes": [
+        "Changed: all four planned stops do not fit in one day with a standard elephant half-day, because ethical sanctuaries include their own transport and return you to town around 13:30–14:00 (no self-drive drop-ins). Default plan: Elephant Nature Park morning → driver from 14:00 → Wat Ban Den [8] → Mon Cham sunset [7]; Queen Sirikit Botanic Garden [7] is now optional.",
+        "To fit all four: ask Elephant Nature Park when booking whether your own driver may collect you at the park at ~13:00 instead of riding their van back (not guaranteed). If yes: ENP → Wat Ban Den (20 min) 13:30–14:30 → Botanic Garden (45 min) 15:15–16:30 → Mon Cham (30 min) 17:00–18:30.",
+        "If you prefer nature over temples, swap Wat Ban Den for the Botanic Garden: from town at 14:00 it is 40 min to the garden, then 30 min to Mon Cham — the gentlest version of the day.",
+        "Scooter vs driver: a driver (~1,800–2,800 THB / US$50–80 for ~10 h) is the right choice. The day is 130–150 km, the last road up to Mon Cham is steep and twisty, you would ride back down in the dark when it is ~12 °C, and Grab cars are rare up there after sunset. A scooter (~300 THB + fuel) only makes sense for an experienced rider with an IDP motorcycle licence.",
+        "Thursday is a weekday: Mon Cham and Wat Ban Den will be quiet (both are packed with Thai visitors at weekends)."
+      ],
+      "stops": [
+        {
+          "id": "cm-elephants",
+          "name": "Ethical elephant half-day: Elephant Nature Park (morning)",
+          "time": "07:30–14:00",
+          "description": "Elephant Nature Park, founded by Sangduen 'Lek' Chailert in the 1990s, is the best-known rescue sanctuary in Thailand: about 100 elephants, many retired from logging, trekking or street begging, live in a 100+ hectare valley beside the Mae Taeng river with no riding, no shows and no chains. The half-day morning visit drives you 1 h north, then you watch the herds from walkways and the elevated platform, help prepare and hand out fruit from the feeding platform, and walk with a guide who explains each elephant's story; there is a large vegetarian buffet lunch. Guests no longer bathe elephants — if they go to the river, you watch. Ethical alternatives for Thursday: ChangChill (Mae Wang, 1.5 h south-west; strictly observation-only with a guided forest walk, set up with World Animal Protection; half-day morning visits at its Hillside and View Doi sites) — very good but in the opposite direction from Wat Ban Den and Mon Cham. Burm & Emily's (BEES) and Kindred Spirit (both Mae Chaem, 3 h away) are excellent but run only multi-day stays (BEES' one-day walk is Tue/Wed/Fri), so they don't fit.",
+          "tips": [
+            "Book now on elephantnaturepark.org — half-day places sell out weeks ahead in the New Year period. Choose 'Half Day Morning Visit', hotel pick-up.",
+            "Wear clothes that can get muddy and closed shoes; bring sunscreen, cash for drinks/souvenirs.",
+            "Avoid anything advertised as 'sanctuary' that still includes bathing with elephants, mud spa, or riding: World Animal Protection and Responsible Travel do not support Elephant Jungle Sanctuary, Kanta, Mae Sa, Patara or Chiang Dao elephant camps.",
+            "Ask ENP at booking if your driver may collect you at the park at ~13:00 — that unlocks the Botanic Garden as well (see notes)."
+          ],
+          "hours": "Half Day Morning: hotel pick-up 07:30–08:00, at the park ~09:00–13:00, back in town ~14:00. Operates daily incl. Thursday.",
+          "cost": "Elephant Nature Park half day 2,500 THB (~US$73) incl. transport, lunch, guide. ChangChill half day ~US$65–90 via resellers (book direct via changchill.com / WhatsApp +66 86 329 3380).",
+          "coords": [
+            19.21468,
+            98.86164
+          ],
+          "from_previous": "ENP minivan from your hotel, ~1 h",
+          "optional": false,
+          "image": "images/cm-elephants.jpg",
+          "image_credit": "Nina R from Africa, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Elephant_Nature_Park_(49418413298).jpg",
+          "video": {
+            "id": "Jtrnl3ALQ4E",
+            "title": "Our AMAZING Overnight Elephant Nature Park Experience | Chiang Mai, Thailand 🇹🇭 ",
+            "channel": "Jason and Melissa Travel"
+          },
+          "links": [
+            "https://www.elephantnaturepark.org/",
+            "https://www.changchill.com/",
+            "https://www.responsibletravel.com/holidays/elephant-conservation/travel-guide/elephant-sanctuaries-which-we-do-and-dont-support"
+          ],
+          "warning": "Booking needed now (sells out over New Year). Default ENP transfers return you to town; ask whether a private driver may collect you at the park."
+        },
+        {
+          "id": "cm-wat-ban-den",
+          "name": "Wat Ban Den (Wat Den Salee Sri Muang Gan)",
+          "time": "14:50–15:50",
+          "description": "Wat Ban Den is a sprawling hillside complex near Mae Taeng built since the 1990s by the revered abbot Kruba Thueang Natsilo, entirely in lavish Lanna style. Dozens of white-and-gold halls, multi-tiered roofs, naga staircases, a huge mirror-mosaic ubosot and twelve chedis — one for each year of the Chinese zodiac, where Thais pray at the one for their birth year — spread over terraces with the hills behind. Some buildings are still under construction, which is part of the charm: you can see wood-carvers and gilders at work. It is free, rarely crowded with foreigners, and the late-afternoon light on the gold is beautiful.",
+          "tips": [
+            "Ask the driver to park at the main (upper) car park and walk downhill through the complex.",
+            "Find your own zodiac chedi; a small donation buys a flag or flowers to place there.",
+            "Cover shoulders and knees; sarongs can be borrowed at the entrance."
+          ],
+          "hours": "Daily ~06:00–18:00 (open Thursday)",
+          "cost": "Free (donations welcome)",
+          "coords": [
+            19.15764,
+            98.97812
+          ],
+          "from_previous": "Driver collects you at your hotel/ENP office ~14:00; 45 km / ~50 min north on Route 107 (or 20 min from ENP if collected at the park)",
+          "optional": false,
+          "image": "images/cm-wat-ban-den.jpg",
+          "image_credit": "ManoiCMU, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wat_Ban_Den%2C_Chiang_Mai.jpg",
+          "video": {
+            "id": "zF5y2988_78",
+            "title": "Wat Ban Den, Chiang Mai, Thailand: Exploring a Magnificent Temple World",
+            "channel": "Thailand Edits"
+          },
+          "links": [
+            "https://www.thailandee.com/en/visit-thailand/wat-ban-den-chiang-mai-373",
+            "https://en.wikipedia.org/wiki/Mae_Taeng_district"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-botanic-garden",
+          "name": "Queen Sirikit Botanic Garden & canopy walkway",
+          "time": "15:15–16:30 (only in the 'all four' version)",
+          "description": "Thailand's leading botanic garden covers about 1,000 hectares of forested hills in the Mae Sa valley, founded in 1993 and named after Queen Sirikit. The highlight is the Canopy Walkway, a ~400 m steel walkway up to 20 m above the forest floor, with a glass-floored section and views across the valley to Doi Suthep–Pui. Below it, a cluster of glasshouses holds orchids, lotus and water plants, desert plants and a tropical rainforest house with a waterfall. The grounds are hilly and spread out, so you drive between areas.",
+          "tips": [
+            "Go straight to the Canopy Walkway (signposted 'Canopy Walkway / Glasshouse Complex'), then the glasshouses right next to it.",
+            "Cars pay 100 THB to drive inside — worth it, as walking between areas takes long.",
+            "Be at the canopy walk by ~15:45; staff start closing areas from ~16:30."
+          ],
+          "hours": "Daily 08:30–17:00 (some sources say 16:30; last entry ~16:00)",
+          "cost": "100 THB (~US$3) foreign adult; car 100 THB, scooter 30 THB",
+          "coords": [
+            18.89003,
+            98.86041
+          ],
+          "from_previous": "From Wat Ban Den by car, ~35 km / 45 min via Mae Rim and Route 1096 (from town directly: 27 km / 40 min)",
+          "optional": true,
+          "image": "images/cm-queen-sirikit-botanic-garden.jpg",
+          "image_credit": "Supanut Arunoprayote, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Queen_Sirikit_Botanic_Garden_%28III%29.jpg",
+          "video": {
+            "id": "9mpiIwWosi0",
+            "title": "Queen Sirikit Botanic Garden (Chiang Mai) สวนพฤกษศาสตร์สมเด็จพระนางเจ้าสิริกิติ์ [4K, no commentary]",
+            "channel": "4K Walking Videos by Explorertom"
+          },
+          "links": [
+            "https://www.qsbg.org/",
+            "https://en.wikipedia.org/wiki/Queen_Sirikit_Botanic_Garden"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-mon-cham",
+          "name": "Mon Cham (Mon Jam) sunset",
+          "time": "17:00–18:45",
+          "description": "Mon Cham is a ridge at about 1,300 m above the Mae Sa valley where Hmong farmers of the Nong Hoi Royal Project grow flowers, strawberries and vegetables on terraces. Small bamboo viewing platforms, cafés and tent pitches are scattered along the crest, looking west and south over layers of hills; at sunset the valleys fill with blue haze and on cold mornings with mist. On a weekday in January it is calm; weekends bring crowds of Thai campers. Have a hot drink and a simple dinner (grilled meats, hot pot) at one of the cafés before the drive down.",
+          "tips": [
+            "Walk to the far end of the ridge, past the first cafés, for the quietest terraces facing west.",
+            "Bring a warm layer: it is ~10 °C cooler than town after sunset.",
+            "Leave by ~18:45 so the driver tackles the steep upper road soon after dark; back in town ~20:00."
+          ],
+          "hours": "Open daily; best 16:30–18:30 (sunset ~18:01)",
+          "cost": "Entry ~20–30 THB (US$1); drinks/snacks 40–150 THB",
+          "coords": [
+            18.93952,
+            98.8215
+          ],
+          "from_previous": "By car ~45 km / 1h10 from Wat Ban Den via Mae Rim and the Mae Sa road (Route 1096), last 6 km steep; from the Botanic Garden 15 km / 30 min",
+          "optional": false,
+          "image": "images/cm-mon-cham.jpg",
+          "image_credit": "::::=UT=::::, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%88%E0%B9%88%E0%B8%A1_%E0%B8%95%E0%B8%B3%E0%B8%9A%E0%B8%A5_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%A3%E0%B8%A1_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2_-_panoramio.jpg",
+          "video": {
+            "id": "IXeIKgf604M",
+            "title": "PERFECT Day Trip From Chiang Mai: Mon Jam (Flower Fields, Jungle Coaster & More!)",
+            "channel": "Julez"
+          },
+          "links": [
+            "https://en.wikipedia.org/wiki/Mon_Cham"
+          ],
+          "warning": "Steep road; go by car with driver rather than scooter after dark."
+        }
+      ]
+    },
+    {
+      "id": "CM3",
+      "date": "2027-01-08",
+      "title": "Monk's Trail, Doi Suthep and a night on Doi Pui",
+      "summary": "Hike from the edge of the city up through the forest on the Monk's Trail to the moss-covered temple of Wat Pha Lat and on to Wat Phra That Doi Suthep, the city's holy mountain temple. Ride up past Bhubing Palace to the Hmong village of Doi Pui, and finish at the national park campground near the 1,685 m summit, with the lights of Chiang Mai below.",
+      "notes": [
+        "Camping is legal only at the national park's designated campgrounds. The right one for 'camp at the peak' is the Doi Pui Campground (Lan Kang Tent Doi Pui, ~1,500 m), 3.8 km up a side road north of Bhubing Palace; the other, Montha Than Waterfall campsite, is low on the mountain.",
+        "Pack light for the hike: rent the tent and sleeping bag at the campground, carry only warm clothes (night ~5–12 °C), headlamp, water, cash. Leave main bags at the hotel (keep the room or ask them to store bags for one night).",
+        "Bhubing Palace is usually closed to visitors when the royal family is in residence (often January–March). Check the same morning (ask your hotel to phone, or ask the songthaew drivers at Doi Suthep, who know); if closed, spend the time in the Hmong village or on the Doi Pui summit trail.",
+        "Since 1 Oct 2025 the national park charges foreigners 100 THB at the Pha Lat trail and at Doi Pui; keep your receipt and ask whether it covers the other checkpoint the same day.",
+        "If you'd rather not hike the steep upper section (Wat Pha Lat → Doi Suthep, 1–1.5 h), walk back down from Wat Pha Lat and take a songthaew from the zoo instead."
+      ],
+      "stops": [
+        {
+          "id": "cm-monks-trail",
+          "name": "Monk's Trail to Wat Pha Lat (and on up to Doi Suthep)",
+          "time": "07:00–10:00",
+          "description": "The Monk's Trail is the old forest path monks used to walk from the city to Doi Suthep before the road was built in 1935. From the trailhead at the end of Suthep Road, next to the Army TV station, an easy-to-moderate 1.5 km climb (about 45 min, 160 m up) under dipterocarp forest brings you to Wat Pha Lat, a small 14th-century hermitage beside a waterfall-fed stream, with mossy stone stairs, naga guardians, a Burmese-style chedi and a terrace looking out over the city. The upper section continues across the main road and climbs steeply another ~2 km (1–1.5 h, about 500 m up, roots and loose soil) to Wat Phra That Doi Suthep. Early morning is cool, quiet and often misty; monks still use the temple as a meditation retreat, so keep voices low.",
+          "tips": [
+            "Grab to 'Wat Pha Lat Hike (Monk's Trail)' trailhead (~100–150 THB from the old city); if the access road is closed, walk the last ~350 m.",
+            "Follow the saffron/coloured banners; at Wat Pha Lat, the upper trail starts on the far side of the main road a few metres uphill.",
+            "Download an offline map (Mapy.com or Maps.me) — the upper section is poorly marked.",
+            "Wear real shoes, carry 1.5 L water; it's dry and slippery with dust and leaves in January."
+          ],
+          "hours": "Trail open daylight hours (park checkpoint ~06:00–18:00); Wat Pha Lat ~06:00–18:00",
+          "cost": "Park fee 100 THB (~US$3) for foreigners at the Pha Lat trail since Oct 2025; Wat Pha Lat free",
+          "coords": [
+            18.79768,
+            98.9422
+          ],
+          "from_previous": "Grab from the old city ~15 min, ~100–150 THB",
+          "optional": false,
+          "image": "images/cm-monks-trail.jpg",
+          "image_credit": "Stefan Fussan, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Chiang_Mai_-_Wat_Pha_Lat_-_0001.jpg",
+          "video": {
+            "id": "twNlEgFSyVI",
+            "title": "Hiking the Monk's Trail to Wat Pha Lat in Chiang Mai, Thailand",
+            "channel": "Quadzilla Hikes"
+          },
+          "links": [
+            "https://www.thainationalparks.com/doi-suthep-pui-national-park",
+            "https://www.nextleveloftravel.com/thailand/how-to-hike-the-wat-pha-lat-monks-trail"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-doi-suthep-temple",
+          "name": "Wat Phra That Doi Suthep",
+          "time": "10:00–11:30",
+          "description": "Wat Phra That Doi Suthep was founded in 1383 when, according to legend, a white elephant carrying a relic of the Buddha climbed the mountain, trumpeted three times and died on this spot. A 306-step staircase flanked by long naga serpents (or a small funicular) leads up to a cloister around the gleaming gold-plated chedi, surrounded by gilded umbrellas, bells and Buddha images; pilgrims walk around it three times clockwise with lotus buds. From the terrace at 1,050 m you look over the whole Chiang Mai valley. Arriving from the forest trail, before the mid-day tour groups, is the best way to see it.",
+          "tips": [
+            "The upper Monk's Trail comes out on the road just below the temple; walk uphill to the naga staircase.",
+            "Shoes off at the upper terrace; cover shoulders/knees (sarongs to borrow).",
+            "Coffee and lunch at the stalls along the stairs or the cafés by the car park; this is also where songthaews to Bhubing and Doi Pui leave."
+          ],
+          "hours": "Daily ~06:00–20:00 (Friday no restrictions)",
+          "cost": "30 THB (~US$1) foreigners; funicular ~20–50 THB",
+          "coords": [
+            18.80501,
+            98.92218
+          ],
+          "from_previous": "On foot: upper Monk's Trail from Wat Pha Lat, ~2 km steep, 1–1.5 h",
+          "optional": false,
+          "image": "images/cm-doi-suthep-temple.jpg",
+          "image_credit": "JJ Harrison, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wat_Phra_That_Doi_Suthep_-_Chiang_Mai.jpg",
+          "video": {
+            "id": "I4rrfFU8xlc",
+            "title": "Walking Wat Phra That Doi Suthep Thailand 🇹🇭 | Stunning Chiang Mai Temple in 4K",
+            "channel": "Adventurous A"
+          },
+          "links": [
+            "https://en.wikipedia.org/wiki/Wat_Phra_That_Doi_Suthep"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-bhubing",
+          "name": "Bhubing Palace (Phu Phing Rajanives) gardens",
+          "time": "12:00–13:30",
+          "description": "Bhubing Palace, built in 1961, is the royal family's winter residence and guesthouse for state visitors, 4 km above Doi Suthep at about 1,300 m. Visitors can't enter the buildings but walk through its gardens: rose gardens (at their best in the cool season), a reservoir lined with royal ferns, coffee bushes, a bamboo grove and a fountain garden, with cool pine-scented air. It is a calm, well-kept park rather than a palace visit, and a pleasant lunch-time stroll on the way up the mountain.",
+          "tips": [
+            "Strict dress code: women must wear a long skirt (sarongs for hire at the gate), no shorts, no sleeveless tops.",
+            "Last tickets ~15:30.",
+            "If closed, take the songthaew straight on to Doi Pui Hmong village."
+          ],
+          "hours": "Normally daily 08:30–16:30 (tickets until 15:30); usually closed when the royal family is in residence (often January–March)",
+          "cost": "50 THB (~US$1.50) foreigners",
+          "coords": [
+            18.80449,
+            98.89945
+          ],
+          "from_previous": "Red songthaew from the Doi Suthep car park, 4 km / 10 min, ~40–60 THB shared (charter ~200–300 THB)",
+          "optional": false,
+          "image": "images/cm-bhubing.jpg",
+          "image_credit": "whyyan, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bhubing_Palace_(7981858020).jpg",
+          "video": null,
+          "links": [
+            "https://www.thainationalparks.com/doi-suthep-pui-national-park"
+          ],
+          "warning": "Often closed to visitors in January when the royal family is in residence — check the same morning."
+        },
+        {
+          "id": "cm-doi-pui",
+          "name": "Doi Pui Hmong village and summit trail",
+          "time": "13:30–16:00",
+          "description": "Ban Mong Doi Pui is a Hmong hill-tribe village about 4 km past the palace, settled in the 1950s–60s, whose people once grew opium and now live from flowers, coffee, embroidery and tourism. A lane of stalls with indigo batik and embroidered textiles leads up to a terraced flower garden at the top of the village and a small Hilltribe Opium Museum about Hmong life. From the campground, an easy forest trail (~30 min) leads to the 1,685 m summit of Doi Pui, the highest point of the park, and on a few minutes to the Doi Hua Mu viewpoint with views over the range. Do the summit walk in the late afternoon after checking in at the campground.",
+          "tips": [
+            "Skip the lower souvenir lane quickly and climb to the flower garden (~10–20 THB) for the views.",
+            "Village songthaews stop here; there is no regular service the last 3.8 km to the campground — charter one (~200–300 THB) or walk up (about 1 h).",
+            "The summit itself is forested; the view is from Doi Hua Mu viewpoint just beyond it."
+          ],
+          "hours": "Village and garden ~08:00–17:00; summit trail daylight only",
+          "cost": "Village garden ~10–20 THB; park fee 100 THB (Doi Pui checkpoint, if not already paid)",
+          "coords": [
+            18.81667,
+            98.88346
+          ],
+          "from_previous": "Red songthaew from Bhubing Palace, ~4 km / 10 min, ~30–50 THB shared (or charter)",
+          "optional": false,
+          "image": "images/cm-doi-pui.jpg",
+          "image_credit": "Tle.sorakrai, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Hmong_tribal_village_in_the_middle_of_Doi_Suthep-Pui_mountain.jpg",
+          "video": {
+            "id": "lIYNEFO3UDg",
+            "title": "Doi Pui Hmong Tribal Village Walking Tour in 4K | Chiang Mai Cultural & Mountain Adventure| Thailand",
+            "channel": "Nomad Footprint"
+          },
+          "links": [
+            "https://en.wikipedia.org/wiki/Doi_Pui_(village)",
+            "https://www.thainationalparks.com/doi-suthep-pui-national-park"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-camp",
+          "name": "Night at Doi Pui Campground (national park)",
+          "time": "16:00 → night",
+          "description": "The Doi Pui Campground is a national park camping ground on a grassy slope near the summit at about 1,500 m, with five zones for up to ~100 tents, toilets and showers, a small visitor centre and a restaurant/shop. Thai families come here for the cold air, the sea of city lights after dark and sunrise over the valley. You rent everything on the spot: tents for 2–3 people, sleeping bags, mats and blankets. On a Friday night it is lively but not full; Saturday nights and holidays are the busy ones.",
+          "tips": [
+            "Rent a tent 'with all accessories' (405 THB) and an extra blanket or sleeping bag — nights in January can drop to ~5–10 °C.",
+            "Booking: the park's online system (DNP) has been unreliable in 2026; call the campground 086-196-4285 or park office 053-210-244 (ask a Thai-speaking hotel receptionist to help). Walk-ins on a Friday in January are usually fine.",
+            "The restaurant closes early (~19:00–20:00); bring snacks, water and a headlamp.",
+            "Ask the restaurant staff or a songthaew driver for a phone number to arrange your ride down in the morning."
+          ],
+          "hours": "Campground staffed ~08:30–16:30 (check in before 16:30); overnight stay",
+          "cost": "Camping fee 30 THB pp/night; tent 2–3 pers. 225 THB, with all accessories 405 THB; sleeping bag/mat from 60 THB; park entry 100 THB foreigners (~US$3)",
+          "coords": [
+            18.82499,
+            98.89468
+          ],
+          "from_previous": "Charter songthaew from Doi Pui village / Bhubing junction ~3.8 km / 10 min (~200–300 THB), or walk ~1 h uphill",
+          "optional": false,
+          "image": "images/cm-camp.jpg",
+          "image_credit": "Vyacheslav Argenberg, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Doi_Pui_mountains,_Chiang_Mai,_Thailand.jpg",
+          "video": {
+            "id": "rGQKc1xeFhA",
+            "title": "ดอยปุย กางเต็นท์ 1คืน บรรยากาศปลายฝนต้นหนาว Doi Pui Camping in November 2026 ",
+            "channel": "WOLF Studio"
+          },
+          "links": [
+            "https://www.thainationalparks.com/doi-suthep-pui-national-park",
+            "https://www.nationthailand.com/life/travel/40043959"
+          ],
+          "warning": "Call ahead if possible (086-196-4285); check-in before 16:30."
+        }
+      ]
+    },
+    {
+      "id": "CM4",
+      "date": "2027-01-09",
+      "title": "Sunrise on the mountain, south-west temples, Saturday walking street",
+      "summary": "Wake up above the clouds for sunrise, ride a red truck down the mountain, and spend the morning at the hilltop temple of Doi Kham and the royal gardens of Rajapruek. After a shower and rest, cycle out to the forest tunnels of Wat Umong and the white chedis of Wat Suan Dok, then end at the silver temple and the Saturday night market on Wua Lai Road.",
+      "notes": [
+        "Changed: Wat Sri Suphan (Silver Temple) moved here from CM1 — it stays open until ~23:00 on Saturdays and stands inside the Wua Lai walking street.",
+        "Changed: after Rajapruek go back to the hotel for a shower and to pick up a bicycle — the bike part (Umong, Suan Dok) starts from the old city.",
+        "What to cut if tired after the camping night: Royal Park Rajapruek first (it's the least special), then Wat Suan Dok. Keep Wat Umong and the evening.",
+        "Saturday crowds: Doi Kham and Wat Umong are busier with Thai visitors at weekends; go early to Doi Kham."
+      ],
+      "stops": [
+        {
+          "id": "cm-sunrise",
+          "name": "Sunrise over Chiang Mai from Doi Pui",
+          "time": "06:15–07:30",
+          "description": "From the campground's east-facing slope the sun comes up at about 06:55 over the Chiang Mai valley, often above a layer of mist with the city lights still shining below. In January the cold, dry air gives the clearest mornings of the year. For a wilder view, walk 25–30 min in the dark up the summit trail to the Doi Hua Mu viewpoint. Have a hot coffee from the campground shop and pack up.",
+          "tips": [
+            "Be outside by 06:20: the sky colours start ~30 min before sunrise.",
+            "Wear everything warm you have; it is often 5–10 °C with wind.",
+            "Return rented gear to the office by ~08:00."
+          ],
+          "hours": "Sunrise ~06:55 (Sat 9 Jan)",
+          "cost": "Free",
+          "coords": [
+            18.82499,
+            98.89468
+          ],
+          "from_previous": "Out of your tent",
+          "optional": false,
+          "image": "images/cm-sunrise.jpg",
+          "image_credit": "SUTHATCMU, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:ลมหายใจแห่งป่าดอยสุเทพ.jpg",
+          "video": null,
+          "links": [
+            "https://www.thainationalparks.com/doi-suthep-pui-national-park"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-descend",
+          "name": "Down the mountain by red songthaew",
+          "time": "07:45–09:00",
+          "description": "The red songthaews (rot daeng, 'red car') are Chiang Mai's shared pick-up trucks with two benches in the back. Shared trucks run between the Chiang Mai Zoo / CMU gate, Doi Suthep, Bhubing and Doi Pui village and leave when ~8–10 seats are filled — in the early morning they mostly come up, not down, so going down from the campground needs a little planning. Easiest: arrange the evening before (via the campground restaurant or the driver who brought you) a red truck to pick you up at ~08:00 and take you straight down the mountain to Doi Kham, ~25 km / 50 min. Budget option: walk down 3.8 km to the Doi Pui village junction (~45 min) and catch a shared truck to the zoo (~90 THB), then Grab to Doi Kham (~150–200 THB).",
+          "tips": [
+            "Agree the price for the whole truck before getting in (~600–900 THB to Doi Kham or the old city; cheaper if other campers share).",
+            "Grab cars will usually accept a pick-up at Doi Suthep temple car park, rarely at the campground.",
+            "If you'd rather go to the hotel first, the charter to the old city is similar in price; then do Doi Kham by Grab."
+          ],
+          "hours": "Shared songthaews from ~07:00–08:00 until ~17:00",
+          "cost": "Charter ~600–900 THB (US$18–26) per truck; shared ~40–90 THB pp",
+          "coords": [
+            18.80501,
+            98.92218
+          ],
+          "from_previous": "Pre-arranged songthaew pick-up at the campground",
+          "optional": false,
+          "image": "images/cm-descend.jpg",
+          "image_credit": "Patiparn.Nice2002bkk, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Red_Car_Chiang_Mai_(4).jpg",
+          "video": null,
+          "links": [
+            "https://www.thainationalparks.com/doi-suthep-pui-national-park/get-there"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-doi-kham",
+          "name": "Wat Phra That Doi Kham",
+          "time": "09:00–10:00",
+          "description": "Wat Phra That Doi Kham ('temple of the golden mountain') sits on a small hill south-west of the city and is said to date from 687, the time of the Haripunchai kingdom, making it older than Chiang Mai itself. Its gold chedi is surrounded by a big white seated Buddha about 17 m high, which looks out over the airport, the city and Doi Suthep behind. Thais come here to make wishes and, when they come true, return to offer jasmine garlands — you will see thousands of them hanging around the Buddha. It is quieter and more local than Doi Suthep.",
+          "tips": [
+            "Drive up to the top car park (the staircase from the bottom has ~300 steps).",
+            "Look for the jasmine garland sellers at the steps — buying one to offer is a nice gesture (~20 THB).",
+            "Morning light is behind you when looking at the big Buddha."
+          ],
+          "hours": "Daily ~06:00–17:00/18:00 (Saturday open)",
+          "cost": "~30 THB (~US$1) foreigners (some visitors report free entry; donations welcome)",
+          "coords": [
+            18.75944,
+            98.91909
+          ],
+          "from_previous": "Songthaew charter down the mountain, ~25 km / 50 min (or Grab from the zoo ~20 min, ~150–200 THB)",
+          "optional": false,
+          "image": "images/cm-doi-kham.jpg",
+          "image_credit": "ManoiCMU, CC BY 4.0, https://commons.wikimedia.org/wiki/File:17-meter-tall_seated_Buddha_image,_Wat_Phra_That_Doi_Kham.jpg",
+          "video": {
+            "id": "MDRX8erRkGY",
+            "title": "WAT PHRA THAT DOI KHAM (Temple of the Golden Mountain): Chiang Mai, Thailand (4K)",
+            "channel": "Andy's Awesome Adventures"
+          },
+          "links": [
+            "https://en.wikipedia.org/wiki/Wat_Phra_That_Doi_Kham"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-rajapruek",
+          "name": "Royal Park Rajapruek",
+          "time": "10:15–12:00",
+          "description": "Royal Park Rajapruek was created for the 2006 International Horticultural Exposition marking King Bhumibol's 60 years on the throne and is now an 80-hectare botanical park at the foot of Doi Suthep. Its centrepiece is Ho Kham Luang, a huge pavilion in classic Lanna temple architecture with gilded roofs and fine wood carving, set behind a lotus pond. Around it are themed gardens donated by different countries, an orchid house, a bougainvillea tunnel and a tropical greenhouse, all at their freshest in the cool season. It is open, sunny and well kept — a calm walk after the camping night.",
+          "tips": [
+            "Take the hop-on tram (around 20 THB or included) to the far gardens and walk back to Ho Kham Luang.",
+            "Best photo of Ho Kham Luang: from across the reflecting pond in front.",
+            "Little shade between gardens: hat and water."
+          ],
+          "hours": "Daily 08:00–18:00 (last tickets ~17:00)",
+          "cost": "Foreign adult ~200 THB (~US$6); tram ~20 THB",
+          "coords": [
+            18.74989,
+            98.92476
+          ],
+          "from_previous": "Grab from Doi Kham ~2 km / 5 min (~60–80 THB) — they are neighbours",
+          "optional": false,
+          "image": "images/cm-rajapruek.jpg",
+          "image_credit": "Supanut Arunoprayote, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Ho_Kum_Luang_(I).jpg",
+          "video": {
+            "id": "CCxo3t-g_q0",
+            "title": "Royal Park Rajapruek 👑 | Chiang Mai Thailand | [4K 60 FPS HDR]",
+            "channel": "Relaxing Routes"
+          },
+          "links": [
+            "https://www.royalparkrajapruek.org/",
+            "https://en.wikipedia.org/wiki/Royal_Park_Rajapruek"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-wat-umong",
+          "name": "Wat Umong (by bike)",
+          "time": "14:00–15:30",
+          "description": "Wat Umong Suan Puthatham is a forest temple at the foot of Doi Suthep, founded by King Mangrai in the late 13th century for a monk who liked to meditate in the woods. Its unique feature is a set of brick tunnels (umong) built under a large mound in the 1300s, with Buddha images in niches and traces of old murals, under a ruined chedi you can climb behind. Around it are big trees hung with signs of Buddhist proverbs ('talking trees'), a pond with fish and turtles, an emaciated 'fasting Buddha' statue and a broken Buddha garden. It is still an active meditation centre and feels peaceful even at weekends.",
+          "tips": [
+            "Cycle via the quiet Suthep Road / CMU side lanes rather than the busy Canal Road.",
+            "Shoes off before the tunnels; they are dim and cool.",
+            "Buy fish food at the pond (10 THB) for the turtles; walk the forest loop behind the chedi."
+          ],
+          "hours": "Daily ~06:00–18:00",
+          "cost": "Free (donations welcome)",
+          "coords": [
+            18.7831,
+            98.95258
+          ],
+          "from_previous": "Grab back to the hotel after Rajapruek (~20 min, ~150 THB), rest, then bicycle from the old city ~5 km / 25 min (bike rental ~50–100 THB/day)",
+          "optional": false,
+          "image": "images/cm-wat-umong.jpg",
+          "image_credit": "Hotcatssan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:The_buddha_in_the_tunnel_(Wat_Umong).jpg",
+          "video": {
+            "id": "hxWe4gYDe0M",
+            "title": "CHIANG MAI - Underground tunnel Temple - Wat Umong",
+            "channel": "Asia@Night"
+          },
+          "links": [
+            "https://en.wikipedia.org/wiki/Wat_Umong"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-wat-suan-dok",
+          "name": "Wat Suan Dok",
+          "time": "15:45–16:45",
+          "description": "Wat Suan Dok ('flower garden temple') was built in 1370 by King Kuena in his royal flower garden for a visiting Sukhothai monk. A field of brilliant white chedis holds the ashes of Chiang Mai's royal family, set around a large bell-shaped gold chedi containing a relic of the Buddha. The big open-sided wihan holds a 500-year-old bronze Buddha, and the temple also houses a campus of the Buddhist monastic university. Late afternoon light on the white chedis, with Doi Suthep behind, is the classic view.",
+          "tips": [
+            "Best photo: from the west side of the white chedi field with Doi Suthep in the background (late afternoon).",
+            "Monk chat runs here only Mon/Wed/Fri 17:00–19:00 — not on Saturday.",
+            "Short ride (2 km) back along Suthep Road towards the old city."
+          ],
+          "hours": "Daily ~06:00–20:00",
+          "cost": "Free / small donation",
+          "coords": [
+            18.78788,
+            98.96736
+          ],
+          "from_previous": "Bicycle ~2 km / 10 min east along Suthep Road",
+          "optional": false,
+          "image": "images/cm-wat-suan-dok.jpg",
+          "image_credit": "KOSIN SUKHUM, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wat_suan_dok.jpg",
+          "video": null,
+          "links": [
+            "https://en.wikipedia.org/wiki/Wat_Suan_Dok"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-silver-temple",
+          "name": "Wat Sri Suphan (Silver Temple)",
+          "time": "17:15–18:30",
+          "description": "Wat Sri Suphan, founded in 1500, is the temple of the Wua Lai silversmiths' quarter, whose craftsmen came from Burma-ruled villages two centuries ago. Since 2004 the community has covered its ordination hall (ubosot) inside and out in hand-hammered silver and aluminium panels showing Buddhist stories, Lanna patterns and even a few cartoon characters. At dusk the panels catch the light, and on Saturday evenings the temple is lit up and open late while the walking street runs past its gate. Silversmiths often work in the open workshop in the grounds.",
+          "tips": [
+            "Only men may enter the silver ubosot (it is an active ordination hall with relics buried underneath); women can see it from outside and visit the rest of the grounds, the wihan and the workshop.",
+            "Arrive before 18:00 to see it in daylight and then lit up.",
+            "Some evenings there is a free meditation/monk chat session — ask at the gate."
+          ],
+          "hours": "Saturday ~06:00–23:00 (Sun–Fri ~06:00–18:00)",
+          "cost": "50 THB (~US$1.50) foreigners",
+          "coords": [
+            18.77854,
+            98.98332
+          ],
+          "from_previous": "Bicycle back into the old city and out through Chiang Mai Gate, ~3 km / 15 min (return the bike or leave it at the hotel)",
+          "optional": false,
+          "image": "images/cm-silver-temple.jpg",
+          "image_credit": "Michael Jenselius from Chiang Mai, Thailand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Wat_Si_Suphan,_Chiang_Mai.jpg",
+          "video": {
+            "id": "ncMgJcTh9Ck",
+            "title": "【4K Stroll】Wat Sri Suphan - Chiang Mai - Thailand / The World's First Silver Temple",
+            "channel": "DokoDemoDoor"
+          },
+          "links": [
+            "https://en.wikipedia.org/wiki/Wat_Sri_Suphan"
+          ],
+          "warning": "Men only inside the silver ordination hall."
+        },
+        {
+          "id": "cm-wua-lai",
+          "name": "Wua Lai Saturday Walking Street",
+          "time": "18:30–21:30",
+          "description": "Every Saturday evening Wua Lai Road, the old silversmiths' street running south from Chiang Mai Gate, closes to traffic for about 1 km and fills with stalls. It is smaller and more local than the famous Sunday market: silver jewellery and bowls from the street's own workshops, handmade crafts, clothes, and lots of food — grilled river fish, sai ua sausage, khanom krok coconut cakes, fresh juices. Temples along the street (Wat Sri Suphan, Wat Muen San) open their grounds as food courts with tables. Street musicians, many of them blind or students, play along the way.",
+          "tips": [
+            "Walk the full length from Chiang Mai Gate south and back; food courts inside temple grounds are the best places to sit.",
+            "Peak crush is 19:00–20:30; it thins after 21:00.",
+            "Bargain gently on crafts; food prices are fixed."
+          ],
+          "hours": "Saturdays ~16:00–23:00 (busiest 18:00–21:00)",
+          "cost": "Free; food 30–80 THB per dish",
+          "coords": [
+            18.78091,
+            98.98789
+          ],
+          "from_previous": "Wat Sri Suphan is on Wua Lai Road, 1 min walk",
+          "optional": false,
+          "image": "images/cm-wua-lai-walking-street.jpg",
+          "image_credit": "chootrong, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Chiangmai_walking_street_%28Saturday_only%2C_Wualai_Rd.%29_-_panoramio_%282%29.jpg",
+          "video": {
+            "id": "Or5r3Y7fY28",
+            "title": "Chiang Mai Night Market 4K Walk | Wua Lai Saturday Walking Street, Thailand Walkthrough",
+            "channel": "Hardik Bhatia"
+          },
+          "links": [
+            "https://en.wikivoyage.org/wiki/Chiang_Mai"
+          ],
+          "warning": null
+        }
+      ]
+    },
+    {
+      "id": "CM5",
+      "date": "2027-01-10",
+      "title": "Coconut Market, ancient-tree park, fly to Siem Reap",
+      "summary": "A slow last morning north of the city: breakfast among the palms at the weekend Coconut Market, then the new Changthong Heritage Park, a garden of rescued ancient trees. Collect your bags and fly out at midday via Bangkok to Siem Reap.",
+      "notes": [
+        "Identified: 'Changthong Heritage Park' is a privately created park of rescued ancient and rare trees in San Phi Suea, ~8 km north of the old city, opened in November 2024. It is ~5.5 km (12 min) north of the Coconut Market, so the two pair well.",
+        "Timing depends on your flight: with a ~12:00–13:00 departure from Chiang Mai, do the market at 07:30 and the park at opening (09:30), and leave the park by 10:45. With a later flight (14:00+), you can relax both visits.",
+        "If the flight is earlier than 11:30, skip Changthong and do only the Coconut Market."
+      ],
+      "stops": [
+        {
+          "id": "cm-coconut-market",
+          "name": "Coconut Market (Talad Maprao), Fa Ham",
+          "time": "07:30–08:45",
+          "description": "The Coconut Market is a weekend morning market held in an old coconut plantation in Fa Ham, about 5 km north-east of the old city. Stalls of local food, coffee and crafts line a narrow canal between rows of tall palms, with bamboo platforms to sit on, live acoustic music and a small farm corner with goats. It is a relaxed, photogenic place for breakfast: khao soi, grilled pork and sticky rice, khanom krok, fresh coconut water and coconut ice cream served in the shell. Mostly Thai visitors; get there early before it gets busy and hot.",
+          "tips": [
+            "Come as it opens: soft light through the palms and no crowds before ~09:30.",
+            "Try 'burnt' (roasted) coconut water and coconut ice cream.",
+            "Cash only at most stalls; songthaews and Grab drop off at the soi entrance."
+          ],
+          "hours": "Fri–Sun ~07:00/08:00–14:00/15:00 (sources vary; vendors pack up from ~13:30); open Sunday 10 Jan",
+          "cost": "Free entry; food 30–80 THB",
+          "coords": [
+            18.8143,
+            99.0098
+          ],
+          "from_previous": "Grab from the old city ~6 km / 15 min (~100–130 THB)",
+          "optional": false,
+          "image": null,
+          "image_credit": null,
+          "video": {
+            "id": "hlSt2xC6ecs",
+            "title": "Hidden Market in Chiang Mai, Thailand | Coconut Market | 4K Walking Tour",
+            "channel": "EchoSteps"
+          },
+          "links": [
+            "https://www.visitthailandtoday.com/markets-shopping/chiang-mai/coconut-market"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-changthong",
+          "name": "Changthong Heritage Park (ancient-tree park)",
+          "time": "09:30–10:45",
+          "description": "Changthong Heritage Park is a 12-hectare 'museum without walls' of living trees created by landscape designer Bunrak Thanacharoenrot, who spent 25 years finding and transplanting more than 2,000 old and rare trees from northern Thailand — some bought from farmers, others saved from construction sites. A winding path leads through themed areas such as the Blackwood Tunnel and Red Trunk Tunnel, a mossy 'Forest Heart' cascade, a cycad grove and a lake ringed by coconut palms with twisted and split trunks; some trees are thought to be 400–500 years old. Trees are labelled in Thai and English, and misters create a cool, misty atmosphere. It opened in November 2024 and is still little known among foreign visitors.",
+          "tips": [
+            "Arrive at opening (09:30) for the quietest paths and the mist.",
+            "Allow 1–1.5 h for a loop; there is a café on site.",
+            "Ask the Grab driver to wait or book the next one to the airport before you leave (~13 km / 25 min)."
+          ],
+          "hours": "Daily 09:30–16:30 (open Sunday)",
+          "cost": "250 THB (~US$7) foreigners (150 THB Thais)",
+          "coords": [
+            18.86411,
+            98.99254
+          ],
+          "from_previous": "Grab from the Coconut Market ~5.5 km / 12 min (~90–120 THB)",
+          "optional": false,
+          "image": null,
+          "image_credit": null,
+          "video": {
+            "id": "WTzmwaX2Ed4",
+            "title": "Discovering Changthong Heritage Park: A Hidden Gem in Chiang Mai",
+            "channel": "Good Life in Chiang Mai Thailand"
+          },
+          "links": [
+            "https://www.instagram.com/changthongheritagepark/",
+            "https://www.thaipbsworld.com/lifestyle/museum-without-walls",
+            "https://news.mongabay.com/2025/08/thailands-living-floral-heritage-takes-root-in-a-park-of-rare-and-ancient-trees/"
+          ],
+          "warning": null
+        },
+        {
+          "id": "cm-fly-sr",
+          "name": "Fly Chiang Mai → Siem Reap (via Bangkok)",
+          "time": "11:00 → evening",
+          "description": "There is no direct flight from Chiang Mai to Siem Reap: you connect in Bangkok. Recommended: one booking on Bangkok Airways (e.g. PG 224 CNX 12:10 → BKK 13:35, then PG 907 BKK 17:25 → SAI ~18:45), or Thai AirAsia via Don Mueang (e.g. CNX ~11:30 → DMK 12:45, then FD 614 DMK 15:50 → SAI 16:55). See 'transport_out' for all options, prices and the Cambodian entry paperwork. Siem Reap Angkor International (SAI) is ~50 km from town: shuttle bus ~US$8 or taxi ~US$30–35, 50–60 min.",
+          "tips": [
+            "Pick up your bags at the hotel on the way: Changthong → old city → airport is ~35 min in total.",
+            "Be at CNX 1h30 before departure (international connections check in at domestic counters).",
+            "Fill in the Cambodia e-Arrival card online (free) within 7 days before arrival."
+          ],
+          "hours": "CNX airport 24 h",
+          "cost": "Grab Changthong → airport ~200–250 THB; flights ~4,000–9,000 THB (US$115–260) one way, see transport_out",
+          "coords": [
+            18.76684,
+            98.96488
+          ],
+          "from_previous": "Grab from Changthong ~13 km / 25–35 min (via hotel for bags)",
+          "optional": false,
+          "image": null,
+          "image_credit": null,
+          "video": null,
+          "links": [
+            "https://www.bangkokair.com/",
+            "https://www.airasia.com/",
+            "https://www.arrival.gov.kh/"
+          ],
+          "warning": "Book flights now: Sunday connections via Bangkok are limited."
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "id": "cm-x-chiang-rai",
+      "name": "Chiang Rai: White Temple, Blue Temple, Black House (day trip or 1 night)",
+      "time": "Day trip 07:00–20:30, or overnight",
+      "description": "Chiang Rai, 180 km north-east of Chiang Mai, is home to three modern art temples unlike anything else in Thailand. Wat Rong Khun (the White Temple), begun in 1997 by artist Chalermchai Kositpipat, is an all-white fantasy of mirror mosaics reached across a bridge over a pit of reaching hands, with murals inside mixing Buddhist hell with pop culture. Wat Rong Suea Ten (the Blue Temple, 2016) glows sapphire and gold around a white Buddha, and Baan Dam (the Black House) is artist Thawan Duchanee's eerie complex of ~40 dark teak buildings filled with horns, skulls and animal skins. Add the giant white Guanyin of Wat Huay Pla Kang on a hill north of town. Day trip: leave at 07:00 by private car (3–3.5 h each way; ~3,500–4,500 THB / US$100–130 for the day) → White Temple ~10:00 (it is on the way, 13 km south of town) → lunch → Blue Temple → Baan Dam → Wat Huay Pla Kang → back in Chiang Mai ~20:30 (about 7 h of driving, a long day). One night (better): Green Bus from Chiang Mai Arcade terminal (~3–3.5 h, ~200–300 THB, frequent from ~06:30) → afternoon Blue Temple and Baan Dam, evening Clock Tower light show and night bazaar (or the Saturday walking street) → next morning White Temple at 08:00 and Wat Huay Pla Kang, then the bus back, or continue to Doi Mae Salong or Phu Chi Fa. You could also fly out from Chiang Rai (CEI) via Bangkok Don Mueang to Siem Reap instead of returning to Chiang Mai.",
+      "tips": [
+        "Be at the White Temple at opening (08:00): tour buses from Chiang Mai arrive ~10:30–11:00.",
+        "The White Temple fee for foreigners doubled to 200 THB from 1 Jan 2026 (includes the art gallery); the Blue Temple is free; Baan Dam ~80 THB.",
+        "The Clock Tower in town (also by Chalermchai) has a light-and-music show at 19:00, 20:00 and 21:00."
+      ],
+      "hours": "White Temple daily 08:00–17:30 (last entry ~17:00); Blue Temple ~07:00–20:00; Baan Dam ~09:00–17:00",
+      "cost": "White Temple 200 THB (~US$6); Baan Dam ~80 THB; Blue Temple free; bus 200–300 THB each way; private car 3,500–4,500 THB/day",
+      "coords": [
+        19.82431,
+        99.76327
+      ],
+      "from_previous": "Green Bus from Chiang Mai Arcade Bus Terminal 2, ~3–3.5 h; or private car",
+      "optional": true,
+      "image": "images/cm-chiang-rai-temples.jpg",
+      "image_credit": "JJ Harrison (https://www.jjharrison.com.au/), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wat_Rong_Khun_-_Chiang_Rai.jpg",
+      "video": {
+        "id": "-uVpE86APP8",
+        "title": "CHIANG RAI, Thailand 4K Walk with Captions- White Temple, Blue Temple and Temple of Mercy",
+        "channel": "wandering moo"
+      },
+      "links": [
+        "https://en.wikipedia.org/wiki/Wat_Rong_Khun",
+        "https://en.wikipedia.org/wiki/Baan_Dam_Museum",
+        "https://www.greenbusthailand.com/"
+      ],
+      "warning": null,
+      "what_to_swap": "Best with an extra (17th) night: insert it as a full day after CM4 and fly to Siem Reap on Mon 11 Jan (or take the night from Siem Reap). Within 16 nights: as a day trip it replaces CM2 (elephants/Mae Rim); as one night (Sat→Sun) it replaces the CM4 afternoon, the Wua Lai market and the Sunday morning, and you fly to Siem Reap from Chiang Rai (CEI → DMK → SAI) instead."
+    },
+    {
+      "id": "cm-x-sukhothai",
+      "name": "Sukhothai & Si Satchanalai (1 night between Bangkok and Chiang Mai)",
+      "time": "2 days: Wed 6 – Thu 7 Jan",
+      "description": "Sukhothai ('dawn of happiness') was the capital of the first great Thai kingdom from about 1238 to 1438, the period that produced the Thai alphabet and the graceful 'walking Buddha' style. The UNESCO-listed historical park, 12 km west of the modern town, spreads ~190 ruins across moated lawns and lotus ponds that you explore by bicycle: Wat Mahathat with its lotus-bud chedi and rows of standing Buddhas, the Khmer-style towers of Wat Si Sawai, Wat Sa Si on its island, and outside the walls the giant seated Buddha peering through a slit in the walls of Wat Si Chum. Si Satchanalai, 55 km north, was Sukhothai's twin city: a quieter, forested park beside the Yom river, with Wat Chang Lom's chedi ringed by 39 elephant sculptures and very few visitors. Sunset and sunrise at Wat Mahathat, reflected in the ponds, are the highlights. From Bangkok: Bangkok Airways flies BKK → Sukhothai (THS) about once or twice a day (~1h10, ~2,500–4,000 THB; the airport is ~30 km from town, with an airline shuttle); or bus from Mo Chit (Transport Co., Win Tour, Phitsanulok Yanyon) ~6–7 h, ~350–450 THB; or train to Phitsanulok (5–6 h) and a 1 h bus. Onward to Chiang Mai: buses from Sukhothai bus terminal (Win Tour, Green Bus) take ~5–5.5 h, ~250–320 THB, with several departures from morning to early afternoon. Suggested plan: Wed 6 Jan fly or bus to Sukhothai, afternoon by bike in the central zone and sunset at Wat Mahathat; Thu 7 Jan sunrise, Wat Si Chum by bike, then either Si Satchanalai by hired car (~1 h each way) or the late-morning bus to Chiang Mai, arriving early evening.",
+      "tips": [
+        "Stay in Old Sukhothai (next to the park), not the new town, so you can cycle in at sunrise.",
+        "Rent a bicycle opposite the central-zone gate (~30–50 THB): the central zone is flat and the outer zones are 1–3 km apart.",
+        "Each zone has its own ticket (~100 THB each)."
+      ],
+      "hours": "Sukhothai central zone ~06:30–19:30 (outer zones ~07:30–17:30); Si Satchanalai ~08:00–17:00",
+      "cost": "~100 THB (~US$3) per zone plus ~10–50 THB per bike/car; Si Satchanalai 100 THB",
+      "coords": [
+        17.017,
+        99.704
+      ],
+      "from_previous": "From Bangkok: flight 1h10 or bus 6–7 h; on to Chiang Mai: bus 5–5.5 h",
+      "optional": true,
+      "image": "images/cm-sukhothai.jpg",
+      "image_credit": "Gary Todd, Public domain, https://commons.wikimedia.org/wiki/File:13th_Century_Thai_City_of_Sukhothai-_Wat_Mahathat%2C_Sukhothai_Historical_Park.jpg",
+      "video": {
+        "id": "ftMDb-ckdVs",
+        "title": "SUKHOTHAI: Ancient Kingdom of Thailand! (4K)",
+        "channel": "Andy's Awesome Adventures"
+      },
+      "links": [
+        "https://whc.unesco.org/en/list/574/",
+        "https://en.wikipedia.org/wiki/Sukhothai_Historical_Park",
+        "https://en.wikipedia.org/wiki/Si_Satchanalai_Historical_Park"
+      ],
+      "warning": null,
+      "what_to_swap": "Replaces the Wed 6 Jan Bangkok → Chiang Mai flight and CM1: you arrive in Chiang Mai on Thu 7 Jan evening. Do the old city and Wat Chedi Luang by night that evening and drop CM2 (elephants/Mae Rim) — the cost is one Chiang Mai day."
+    },
+    {
+      "id": "cm-x-lampang",
+      "name": "Lampang: Wat Phra That Lampang Luang & horse carts",
+      "time": "Day trip",
+      "description": "Lampang, 100 km south-east of Chiang Mai, is a calm provincial town known for teak mansions, Burmese-style temples and the horse-drawn carriages that still carry visitors around. Its great sight is Wat Phra That Lampang Luang, 18 km outside town: a walled 13th–15th-century hilltop temple, perhaps the finest surviving Lanna wooden temple, where a pinhole in a dark hall projects an upside-down image of the gold chedi. In town see Baan Sao Nak (a teak house on 116 pillars) and Wat Si Rong Muang (Burmese teak), and walk the riverside Kad Kong Ta street (walking street on weekend evenings). The traveler already ruled out Wat Chaloem Phra Kiat (the cliff-top chedis), which is a separate trip.",
+      "tips": [
+        "Train from Chiang Mai station (~2 h, scenic, a few departures daily) or bus/van (~1.5 h).",
+        "Hire a songthaew from Lampang town to Lampang Luang (~400–500 THB return with waiting).",
+        "A horse-cart tour of town costs ~300–400 THB for 30–60 min."
+      ],
+      "hours": "Wat Phra That Lampang Luang daily ~07:30–17:00; Baan Sao Nak ~10:00–17:00",
+      "cost": "Temple free / donation; Baan Sao Nak ~50 THB",
+      "coords": [
+        18.218,
+        99.389
+      ],
+      "from_previous": "Train ~2 h or bus ~1.5 h from Chiang Mai",
+      "optional": true,
+      "image": "images/cm-lampang.jpg",
+      "image_credit": "Kittipong khunnen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wat_Phra_That_Lampang_Luang_01.jpg",
+      "video": {
+        "id": "pwtxARBoX5w",
+        "title": "Lampang | Provinces of Thailand: Travel Guide",
+        "channel": "Navigate Thailand"
+      },
+      "links": [
+        "https://en.wikipedia.org/wiki/Wat_Phra_That_Lampang_Luang",
+        "https://en.wikipedia.org/wiki/Lampang"
+      ],
+      "warning": null,
+      "what_to_swap": "Replaces CM2 or the CM4 afternoon; also fits as a stop on the Sukhothai → Chiang Mai bus route."
+    },
+    {
+      "id": "cm-x-doi-mae-salong",
+      "name": "Doi Mae Salong (Santikhiri)",
+      "time": "1 night, from Chiang Rai",
+      "description": "A mountain-top village at ~1,200 m near the Myanmar border, founded by Chinese Kuomintang soldiers who retreated from Yunnan after 1949, now surrounded by oolong tea terraces. Taste tea at plantations such as 101 Tea, eat Yunnanese noodles and dumplings, visit the KMT memorial museum, walk the early-morning market where Akha and Lisu traders sell vegetables, and climb to the Princess Mother's chedi for the view over ranges of hills. January is cold (~5–8 °C at night) and in some years brings cherry blossom. It is ~1.5 h from Chiang Rai (3.5–4 h from Chiang Mai), so it only makes sense combined with a Chiang Rai overnight.",
+      "tips": [
+        "Go up the afternoon before: morning mist over the tea terraces is the reason to stay.",
+        "Public transport: bus to Mae Chan, then a yellow songthaew up the mountain (infrequent); a hired car from Chiang Rai is much easier."
+      ],
+      "hours": "Village always open; tea houses ~08:00–18:00",
+      "cost": "Guesthouses ~600–2,000 THB; tea tastings free–100 THB",
+      "coords": [
+        20.163,
+        99.627
+      ],
+      "from_previous": "Car ~1.5 h from Chiang Rai",
+      "optional": true,
+      "image": "images/cm-doi-mae-salong.jpg",
+      "image_credit": "Takeaway, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2014_0601_Mae_Salong_tea_plantations.jpg",
+      "video": {
+        "id": "6kpwswf1ApQ",
+        "title": "Doi Mae Salong Walk 4K UHD | Spectacular Mountain Scenery and Sea of Clouds | Chiang Rai, Thailand",
+        "channel": "TreadAsia"
+      },
+      "links": [
+        "https://en.wikipedia.org/wiki/Mae_Salong"
+      ],
+      "warning": null,
+      "what_to_swap": "Only as part of a 2-night Chiang Rai extension; would replace CM2 and CM4 or needs extra nights."
+    },
+    {
+      "id": "cm-x-phu-chi-fa",
+      "name": "Phu Chi Fa sunrise",
+      "time": "1 night, from Chiang Rai",
+      "description": "A knife-edge cliff at ~1,600 m on the Laos border, where at dawn a sea of clouds fills the Mekong valley below you — one of the best sunrise views in Thailand, and December–January is the peak season. You sleep in Phu Chi Fa village or nearby resorts, walk 20–40 min up in the dark with a torch, and watch the sun rise at ~06:45 over the clouds. It is 2–2.5 h from Chiang Rai on winding roads (4.5 h from Chiang Mai), so it needs a car and an overnight; it is very crowded with Thai visitors at weekends.",
+      "tips": [
+        "Go on a weekday and book a room in the village in advance.",
+        "Local songthaews shuttle from the village to the start of the path (~30–40 THB) from ~05:00.",
+        "Bring gloves and a hat: it can be close to 0–5 °C at dawn."
+      ],
+      "hours": "Open 24 h; sunrise ~06:45",
+      "cost": "Free; rooms ~500–1,500 THB; car with driver ~4,000 THB/day",
+      "coords": [
+        19.853,
+        100.45
+      ],
+      "from_previous": "Car ~2–2.5 h from Chiang Rai",
+      "optional": true,
+      "image": "images/cm-phu-chi-fa.jpg",
+      "image_credit": "SAFEOWN, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:First_Light_Over_the_Foggy_Ridge.jpg",
+      "video": {
+        "id": "Ut1WGe4D3cM",
+        "title": "Phu Chi Fa | Sunrise with sea mist Over Chiang Rai Mountains",
+        "channel": "CineChill"
+      },
+      "links": [
+        "https://en.wikipedia.org/wiki/Phu_Chi_Fa_Forest_Park"
+      ],
+      "warning": null,
+      "what_to_swap": "Only with a 2-night Chiang Rai extension. You already have a mountain sunrise on Doi Pui (CM4), so this is lower priority."
+    }
+  ],
+  "transport_out": "Chiang Mai → Siem Reap, Sun 10 Jan 2027. There is NO direct flight from Chiang Mai (CNX) to Siem Reap Angkor International (SAI); you connect in Bangkok (the Thailand–Cambodia land border is closed, so flying is the only option). Option 1 (recommended, one ticket, simplest): Bangkok Airways via Suvarnabhumi, e.g. PG 224 CNX 12:10 → BKK 13:35, then PG 907 BKK 17:25 → SAI ~18:45 (about 6.5 h end to end; 20 kg bag checked through; the connection is protected). Thai Airways CNX → BKK (e.g. TG 105 12:15 → 13:35) also connects onto the Bangkok Airways flight on one ticket. Option 2 (often cheapest): Thai AirAsia via Don Mueang, e.g. CNX ~11:30 → DMK 12:45, then FD 614 DMK 15:50 → SAI 16:55 (there is also FD 610 DMK 10:00 → SAI 11:05 if you take a 06:30–08:30 flight from CNX and skip the Sunday morning). Book it as one connecting itinerary on airasia.com ('Fly-Thru' at DMK) so bags go through and a missed connection is rebooked; add checked baggage when booking. Option 3 (late): any CNX → BKK flight, then Emirates EK 370 BKK 19:50 → SAI 21:10 (a 777 on its way to Dubai's network; separate ticket; you reach Siem Reap ~22:30). Separate-ticket risk: if you book two separate tickets, allow at least 3 h at Bangkok (you must collect bags, re-check and pass emigration), and never connect between BKK and DMK (1 h+ by taxi). Typical one-way fares: AirAsia ~3,500–6,000 THB (US$100–175) with a bag; Bangkok Airways/Thai ~5,000–9,000 THB (US$145–260). Times above are from current 2026 schedules — check the exact Sunday times when booking, and book now (high season). Arrival in Cambodia: fill in the free Cambodia e-Arrival card (immigration, customs and health in one) at arrival.gov.kh within 7 days before landing — mandatory for air arrivals; airport kiosks are only a fallback. Visa: most Western passports need a tourist visa: e-Visa at evisa.gov.kh (~US$36 incl. fee, apply at least 3 business days ahead; use only the .gov.kh site) or visa on arrival at SAI (US$30 cash; passport valid 6 months; bring a passport photo). SAI is ~50 km east of Siem Reap town: airport shuttle bus ~US$8 (about 1 h) or taxi ~US$30–35 (45–60 min)."
+}

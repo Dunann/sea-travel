@@ -1,28 +1,55 @@
 {
  "city": "Siem Reap",
- "intro": "",
- "stay": [],
- "arrival": "",
- "getting_around": "",
- "weather": "",
- "etiquette": "",
+ "intro": "Siem Reap is a relaxed riverside town that exists, these days, as the gateway to Angkor: the remains of the Khmer Empire's capital, spread over some 400 km² of forest and rice fields just to the north. This leg is about seeing the great temples at the quietest times — a walk-in sunrise at Angkor Wat, forest paths between Ta Keo, Ta Prohm and Banteay Kdei, and a long e-bike loop around Angkor Thom and the Grand Circuit. One day off the temples shows the countryside and the stilt-house fishing towns of the Tonle Sap lake. January is the dry, cool peak season, so the plan aims to stay one step ahead of the crowds.",
+ "stay": [
+  {
+   "area": "Old Market / riverside / Wat Bo",
+   "why": "Walkable to restaurants, Pub Street, the river path and the airport shuttle stop; tuk-tuks everywhere. Wat Bo (east bank) is quieter with boutique hotels. It is 7–8 km to Angkor Wat.",
+   "example_hotels": [
+    "Jaya House River Park",
+    "Shinta Mani Angkor",
+    "Viroth's Hotel",
+    "FCC Angkor by Avani"
+   ]
+  },
+  {
+   "area": "North of town (Charles de Gaulle Blvd / Angkor National Museum)",
+   "why": "Closest to the temples: makes the walk to Angkor Wat for sunrise 5–6 km instead of 7.5 km, and the e-bike ride shorter. Leafy and quiet, a 10–15 min walk or short tuk-tuk ride to the Old Market.",
+   "example_hotels": [
+    "Raffles Grand Hotel d'Angkor",
+    "Heritage Suites Hotel",
+    "Angkor Village Resort"
+   ]
+  },
+  {
+   "area": "Salakomreuk / Kandal Village (east of the river)",
+   "why": "Residential lanes with small pool villas and cafés; peaceful but 5–10 min from the centre by tuk-tuk.",
+   "example_hotels": [
+    "Sala Lodges"
+   ]
+  }
+ ],
+ "arrival": "Fly in to Siem Reap Angkor International Airport (SAI), 47 km east of town (there is no direct Chiang Mai flight; connect in Bangkok — BKK with Bangkok Airways/Thai/Cambodia Airways or DMK with Thai AirAsia — and the Thai–Cambodian land border is closed). Before flying: complete Cambodia's free e-Arrival card (arrival.gov.kh, within 7 days before arrival) and ideally the e-Visa (evisa.gov.kh, US$30 + fee); visa on arrival is also available (US$30 cash, photo). Into town: airport shuttle bus about US$8 (60–70 min, ends at CDF Duty Free near Wat Bo; buy at the desk in arrivals), fixed-price taxi about US$25–35 per car (50–60 min), or a hotel pickup US$25–35. Tuk-tuks from the airport take ~90 min (about US$15) and are dusty. ATMs at the airport dispense US dollars.",
+ "getting_around": "Grab and PassApp work well in town: tuk-tuk (remork) rides cost about US$1–3; choose the larger remork option for luggage. Tuk-tuk day hire: small circuit about US$15–20, Grand Circuit US$20–25, add US$5 for a sunrise start; agree the route and price the evening before. Car with driver to Kompong Khleang about US$35–60. Bicycles rent for about US$3–6 a day and e-bikes for about US$10–15 a day (24 h) from shops around Sivatha Blvd and the Old Market; there is also a 23 km APSARA cycle path through the park (old Charles de Gaulle checkpoint → Prasat Kravan → Banteay Kdei → Ta Keo, and Srah Srang → Pre Rup → Angkor Thom). US dollars are the main currency for anything over a dollar; change comes in riel (about 4,000 riel = US$1).",
+ "weather": "January is the heart of the dry season: almost no rain, low humidity by Cambodian standards, cool mornings around 20–22°C and afternoons of 30–32°C. Roads and temple paths are dusty. Sunrise is about 06:31 and sunset about 17:55 (first light from about 06:05; dark by about 18:20). Bring sunscreen, a hat and 2–3 litres of water on temple days.",
+ "etiquette": "Temples: cover shoulders and knees (enforced at Angkor Wat's Bakan, Baphuon's upper level and Phnom Bakheng; no short shorts or vest tops), remove hats in sanctuaries, do not touch or sit on carvings, and do not climb roped-off areas. Monks: women should not touch a monk or hand things directly to one. Drones need a permit. Scams: only buy Angkor passes from the official office, kiosks, app or angkorenterprise.gov.kh; ignore 'free' blessings with red string that end in a donation demand; avoid buying milk powder for begging mothers (it is resold); agree tuk-tuk prices in advance; children selling at temples are often kept out of school, so do not buy from them. Money: US dollars in small, clean, untorn notes; cards work in hotels, better restaurants and the ticket centre, but bring cash for tuk-tuks, boats, markets and the quad ride.",
  "days": [
   {
    "id": "SR1",
    "date": "2027-01-10",
-   "title": "Arrival, Angkor pass and a balloon at sunset",
-   "summary": "Fly in from Chiang Mai (via Bangkok; there is no direct flight), ride 50 minutes into town and settle in. In the late afternoon buy the 3-day Angkor pass dated for Monday: after 16:45 it also lets you into the park this evening for free. Watch sunset from the Angkor Balloon above Angkor Wat's moat, then wander the Old Market and eat on the riverside.",
+   "title": "Arrival evening: Old Market and the river",
+   "summary": "You land in the late afternoon or evening after connecting in Bangkok, ride about an hour into town, and settle in. Keep it easy: a walk through the Old Market and along the river, dinner, and an early night before the 04:10 start for Angkor Wat sunrise.",
    "notes": [
+    "Changed: the Chiang Mai → Siem Reap connections land at 16:55 (AirAsia via Don Mueang) or 18:45 (Bangkok Airways via Suvarnabhumi), so there is no time for the ticket counter or a sunset in the park today. Buy the pass online instead, and the balloon moves to an optional sunrise ride on SR4.",
+    "Alternative: an early flight (CNX 06:30–08:30, then FD 610 DMK 10:00 → SAI 11:05) gets you here by noon with time for the pass counter and sunset, but skips the Coconut Market and Changthong on Sunday morning.",
     "Angkor pass plan: buy a 3-day pass with Mon 11 Jan as the start date. Holding a ticket dated for tomorrow lets you enter from 16:45 today for sunset, and this evening does not count as a pass day.",
-    "Use the 3 pass days on Mon 11 (SR2), Wed 13 (SR4) and either Thu 14 (sunrise before the airport, if your flight leaves after about 12:00) or Tue 12 (only if you swap Kompong Khleang for Phnom Krom sunset, which needs the pass). Kompong Khleang, the museum and the balloon do not need the pass.",
-    "The ticket counters on Road 60 close at 17:30. If your flight lands after about 15:00, buy the pass online beforehand (angkorenterprise.gov.kh, photo upload needed for multi-day passes) and skip the counter.",
-    "If you are tired or the balloon is not flying: skip it and go straight to the Old Market. Sunset can be seen from Srah Srang or Pre Rup (open to 19:00) using the free evening entry instead."
+    "Use the 3 pass days on Mon 11 (SR2), Wed 13 (SR4) and either Thu 14 (sunrise before the airport, if your flight leaves after about 12:00) or Tue 12 (only if you swap Kompong Khleang for Phnom Krom sunset, which needs the pass). Kompong Khleang, the museum and the balloon do not need the pass."
    ],
    "stops": [
     {
      "id": "sr-arrive",
      "name": "Arrive at Siem Reap Angkor International Airport (SAI)",
-     "time": "~13:00–15:30 (depends on your flight)",
+     "time": "~17:00–19:00 (depends on your flight)",
      "description": "Siem Reap's new airport (SAI) opened in October 2023, about 47 km east of town, replacing the old airport next to the temples. It is a large, quiet terminal with ATMs (USD), SIM card counters and a fixed-price taxi desk in arrivals. Cambodia issues visas on arrival (US$30, cash, passport photo) or you can get an e-Visa in advance. The road into town runs through flat rice country and takes 50–60 minutes.",
      "tips": [
       "Get an e-Visa (evisa.gov.kh) before you fly to skip the visa-on-arrival queue.",
@@ -54,7 +81,7 @@
     {
      "id": "sr-pass",
      "name": "Buy the 3-day Angkor pass (Angkor Ticket Centre, Road 60)",
-     "time": "16:45–17:15",
+     "time": "Before you fly (online)",
      "description": "All of the Angkor Archaeological Park, plus Roluos, Banteay Srei, Beng Mealea and Phnom Krom, is covered by one pass sold by Angkor Enterprise. The 3-day pass (US$62) covers any 3 days within its validity window (7 days according to the 2026 ticket card; older guides say 10), so the days do not need to be consecutive. Multi-day passes carry your photo, taken by webcam at the counter or uploaded when you buy online. The counters are a large hall on Road 60, about 4 km north-east of the Old Market, on the way to the temples.",
      "tips": [
       "After 16:45 you can buy a pass dated for tomorrow and enter the park this evening for sunset for free; the evening does not use a pass day.",
@@ -78,38 +105,7 @@
       "https://adventurescambodia.com/blog/angkor-wat-tickets/",
       "https://helloangkor.com/angkor-ticket-prices/"
      ],
-     "warning": "Ticket counters close at 17:30; if you land late, buy online in advance."
-    },
-    {
-     "id": "sr-balloon",
-     "name": "Angkor Balloon at sunset",
-     "time": "17:15–17:50",
-     "description": "A tethered helium balloon that rises about 120–200 m on a cable from a field just west of Angkor Wat's moat and hangs there for 10–15 minutes. From the basket you see the five towers of Angkor Wat rising out of the forest inside their square moat, Phnom Bakheng on its hill, the West Baray reservoir and, on clear evenings, the Tonle Sap lake. It is a short, simple ride, not a hot-air balloon flight, but it is the only easy bird's-eye view of Angkor Wat. The launch site is outside the temple checkpoints, so no pass is needed.",
-     "tips": [
-      "Look for the yellow balloon in the sky as you ride up: if it is not up, it is probably not flying (wind).",
-      "Aim for the last ride before sunset (~17:15–17:30): the light falls on Angkor Wat's west face, which is the side you look at.",
-      "Do not confuse it with the 'Angkor hot-air balloon' tours sold online, which are a different company and fly from the countryside at sunrise."
-     ],
-     "hours": "Sundays 05:15–18:15 (weekday hours are shorter); flights only in calm weather",
-     "cost": "US$20 daytime · US$25 sunrise/sunset slot (cash)",
-     "coords": [
-      13.41365,
-      103.85005
-     ],
-     "from_previous": "From the ticket centre: tuk-tuk 15 min (7.5 km), about US$4–5",
-     "optional": true,
-     "image": "images/sr-angkor-balloon.jpg",
-     "image_credit": "jokertrekker, CC BY 3.0, https://commons.wikimedia.org/wiki/File%3AAngkor_Wat_from_the_Balloon_-_panoramio.jpg",
-     "video": {
-      "id": "uTQF8jFGgIs",
-      "title": "Riding a Hot Air Balloon Over Angkor Wat",
-      "channel": "Phirom Walker"
-     },
-     "links": [
-      "https://www.siemreap.net/category/visit/angkor",
-      "https://www.tripadvisor.com/Attraction_Review-g297390-d1595144-Reviews-Angkor_Balloon-Siem_Reap_Siem_Reap_Province.html"
-     ],
-     "warning": "The most recent reviews found are from late 2024; confirm it is operating (ask your hotel or tuk-tuk driver) before planning around it."
+     "warning": "With the default Chiang Mai flights you land at 16:55 or 18:45, after the 17:30 counter closing. Buy the 3-day pass online at angkorenterprise.gov.kh before 10 Jan (photo upload needed), dated to start Mon 11 Jan."
     },
     {
      "id": "sr-old-market",
@@ -130,8 +126,8 @@
      ],
      "from_previous": "From the balloon: tuk-tuk 15–20 min (7 km), about US$4–5",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/sr-old-market.jpg",
+     "image_credit": "Hzh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:A_view_of_the_Old_Market_in_Siem_Reap.JPG",
      "video": {
       "id": "6OXrBh48lzQ",
       "title": "Siem Reap - Peaceful Morning Walk [4K, No Commentary]",
@@ -176,8 +172,8 @@
      ],
      "from_previous": "On foot from the Old Market, 7.5 km, about 1 h 35 (or tuk-tuk 20 min, about US$5–8 one way before dawn)",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/sr-angkor-wat.jpg",
+     "image_credit": "Christophe95, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Angkor_Wat_at_sunrise_3.jpg",
      "video": {
       "id": "8Sikr6yUQbk",
       "title": "ANGKOR WAT (Cambodia) | Largest Temple in the World | Full Tour & Documentary in 4K",
@@ -207,8 +203,8 @@
      ],
      "from_previous": "On foot from Angkor Wat's east gate: about 4.8 km by the forest track and road, 60 min",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/sr-ta-keo.jpg",
+     "image_credit": "Jakub Hałun, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:20171128_Ta_Keo_Angkor_5452_DxO.jpg",
      "video": {
       "id": "v362ciktLbA",
       "title": "Ta Keo Temple - Angkor's Grandest Unfinished Masterpiece",
@@ -237,8 +233,8 @@
      ],
      "from_previous": "On foot from Ta Keo: about 1.2 km to Ta Prohm's north gate, 15 min",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/sr-ta-prohm.jpg",
+     "image_credit": "lumoplank, CC0, https://commons.wikimedia.org/wiki/File:Ta_Prohm_-_TaProhm1265.jpg",
      "video": {
       "id": "pR6vjE1gvU8",
       "title": "Amazing abandoned temple with trees in the jungle of Cambodia | Ta Prohm Temple Walking Tour | 4K",
@@ -267,8 +263,8 @@
      ],
      "from_previous": "On foot from Ta Prohm's east gate: 600 m, 8 min",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/sr-banteay-kdei.jpg",
+     "image_credit": "Marcin Konsek, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2016_Angkor%2C_Banteay_Kdei_%2808%29.jpg",
      "video": {
       "id": "3cAyLPBGVNw",
       "title": "Banteay Kdei Temple Tour 4K - Siem Reap Cambodia 2023",
@@ -326,8 +322,8 @@
      ],
      "from_previous": "Tuk-tuk from East Mebon: about 5 km, 12 min",
      "optional": true,
-     "image": null,
-     "image_credit": null,
+     "image": "images/sr-banteay-samre.jpg",
+     "image_credit": "Photo Dharma from Penang, Malaysia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Banteay_Samre_-_001_Buildings_%288584547430%29.jpg",
      "video": {
       "id": "lYaeeTEI5CE",
       "title": "The Timeless Elegance of the Banteay Samre Temple, Siem Reap, Cambodia 2023",
@@ -356,8 +352,8 @@
      ],
      "from_previous": "Tuk-tuk from Banteay Samre: about 6 km, 15 min (or 1.3 km from East Mebon, 3 min)",
      "optional": true,
-     "image": null,
-     "image_credit": null,
+     "image": "images/sr-pre-rup.jpg",
+     "image_credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Angkor_SiemReap_Cambodia_Pre_Rup-02.jpg",
      "video": {
       "id": "XgiWyIgJgRI",
       "title": "AMAZING SUNSET VIEWS at Angkor Wat | Pre Rup Temple",
@@ -369,8 +365,497 @@
      "warning": null
     }
    ]
+  },
+  {
+   "id": "SR3",
+   "date": "2027-01-12",
+   "title": "Off-temple day: countryside, museum and the stilt village",
+   "summary": "A rest from temples that still fills the day. Ride a quad through red-dirt village tracks and rice fields in the cool of the morning, spend late morning in the air-conditioned Angkor National Museum to put the temples in context, then drive an hour east to Kompong Khleang, the largest stilt-house town on the Tonle Sap lake, and take a boat out to the floating houses and open water for the late-afternoon light.",
+   "notes": [
+    "No Angkor pass is needed today unless you choose Phnom Krom (which would use pass day 2 of 3).",
+    "Kompong Khleang and Phnom Krom are on opposite sides of town (about 85 min apart by car), so choose one for the afternoon. Kompong Khleang is the more unusual experience; Phnom Krom is the easier, shorter half-day with a sunset over the lake.",
+    "Traveler prefers unguided: the quad ride always has a lead rider (you cannot go alone), but Kompong Khleang works fine with just a hired car and the village boat — no guide needed.",
+    "If tired: skip the quad and sleep in after yesterday's 04:00 start; start with the museum at 08:30 instead."
+   ],
+   "stops": [
+    {
+     "id": "sr-quad",
+     "name": "Quad bike ride through the countryside",
+     "time": "07:30–09:45",
+     "description": "Several operators run guided quad (ATV) rides from bases on the edge of town into the countryside south and west of Siem Reap. You ride your own quad behind a lead rider along dirt tracks between rice paddies, palm-sugar trees, small pagodas and wooden stilt houses, with stops to see village life. In January the fields are harvested and golden and the tracks are dry and dusty. The oldest operator, Quad Adventure Cambodia, has morning departures at 07:00–07:30, and the cool early hours are the most pleasant time to ride.",
+     "tips": [
+      "Quad Adventure Cambodia (since 2006): 'Discovery' 2 h 15 at 07:30 or 'Explorer' 3 h at 07:30; free hotel pickup; cash only (USD/riel). Book 1–2 days ahead via their website or WhatsApp.",
+      "Expect about US$50–80 for a 2-hour solo ride; private 2-hour tours via booking sites run US$120+.",
+      "Wear long trousers, closed shoes and sunglasses, and take a scarf or buff for the dust (masks are usually provided).",
+      "Unguided alternative: rent a bicycle (US$3–6) and ride the quiet roads along the Siem Reap river south to Wat Athvea and the rice fields."
+     ],
+     "hours": "Departures 07:00/07:30 (morning), 13:00, and 15:00–15:45 (sunset)",
+     "cost": "About US$50–80 per rider for 2–3 h (not covered by the Angkor pass)",
+     "coords": [
+      13.34801,
+      103.85892
+     ],
+     "from_previous": "Free hotel pickup by the operator (10–15 min)",
+     "optional": false,
+     "image": null,
+     "image_credit": null,
+     "video": {
+      "id": "5gumqTn7kJo",
+      "title": "ATV with Cambodia Quadbike. Siem Reap",
+      "channel": "Sokha Sees World"
+     },
+     "links": [
+      "https://www.quad-adventure-cambodia.com/"
+     ],
+     "warning": "Prices are not published online; confirm the price and the 07:30 slot when booking."
+    },
+    {
+     "id": "sr-museum",
+     "name": "Angkor National Museum",
+     "time": "10:30–12:30",
+     "description": "Opened in 2007 on the road to the temples, the museum explains the Khmer Empire and how Angkor was built, using statues and carvings brought in from the temples for safekeeping. Highlights are the Hall of a Thousand Buddhas, with rows of small Buddha images from different periods, and galleries on the kings Jayavarman VII and Suryavarman II, on religion, and on Angkor Wat. Short films and clear English labels make it a good place to understand what you saw yesterday and will see tomorrow. It is cool and quiet, ideal for the late-morning heat.",
+     "tips": [
+      "Start with the short introductory film; it sets out the whole timeline.",
+      "The audio guide is worth renting if you like detail (extra cost at the desk).",
+      "Photography is not allowed in most galleries.",
+      "Lunch: the museum café, or the restaurants on Charles de Gaulle Blvd and Sivatha Blvd nearby."
+     ],
+     "hours": "08:30–18:30 (Oct–Mar hours)",
+     "cost": "US$12 (≈ 48,000 riel); under-12s free",
+     "coords": [
+      13.36643,
+      103.85953
+     ],
+     "from_previous": "Operator drops you at the hotel; then tuk-tuk 5 min (2 km, about US$1.50–2) or walk 25 min from the Old Market",
+     "optional": false,
+     "image": "images/sr-museum.jpg",
+     "image_credit": "Supanut Arun, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Angkor_National_Museum_%28I%29.jpg",
+     "video": {
+      "id": "Ho4Tk2OUZ-0",
+      "title": "Angkor National Museum Siem Reap Cambodia",
+      "channel": "What A World"
+     },
+     "links": [
+      "https://www.angkornationalmuseum.com/"
+     ],
+     "warning": null
+    },
+    {
+     "id": "sr-kompong-khleang",
+     "name": "Kompong Khleang stilt village and Tonle Sap boat",
+     "time": "13:30 depart · 15:00–17:30 in the village · back ~19:15",
+     "description": "Kompong Khleang is the largest settlement on the Tonle Sap lake: a working fishing town of around 1,000 families whose wooden houses stand on stilts up to 8–10 m tall, with schools, pagodas and a market, and a floating section of houseboats further out on the lake. The lake rises and falls by several metres each year; in January the water is high to medium, so the boat can still run along the main channel between the stilt houses and out to the floating village and the open lake. Unlike Chong Kneas and Kampong Phluk, it sees few tourists, so it feels like a real town rather than a show. A late-afternoon boat gives warm light on the houses and, from the lake edge, sunset over the water.",
+     "tips": [
+      "Go unguided: hire a car and driver for the afternoon (about US$35–60 return; 75–90 min each way) — a tuk-tuk takes about 2 h each way and is dusty.",
+      "Buy the boat at the jetty: about US$20–25 per person (no posted price, agree before boarding); 1–1.5 h through the village to the floating houses and the lake.",
+      "Ask the boatman to stop so you can also walk the stilt-house street and the pagoda; there are few toilets, so plan ahead.",
+      "Stay on the lake for sunset (~17:55) if your driver agrees to a later return; bring repellent for dusk."
+     ],
+     "hours": "Village always open; boats run in daylight (roughly 07:00–18:00)",
+     "cost": "Boat US$20–25 per person; car and driver US$35–60 return; not on the Angkor pass",
+     "coords": [
+      13.10639,
+      104.12631
+     ],
+     "from_previous": "Car from the museum: 52 km, 75–90 min via National Road 6 and Dam Dek",
+     "optional": false,
+     "image": "images/sr-kompong-khleang.jpg",
+     "image_credit": "Radek Kucharski, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Kampong_Khleang_Village.jpg",
+     "video": {
+      "id": "yt9aXUddfnQ",
+      "title": "Siem Reap's BEST Kept Secret Kompong Khleang Floating Village 4K",
+      "channel": "Alberto Carvalho"
+     },
+     "links": [
+      "https://www.angkortourism.org/tonle-sap-lake-guide/",
+      "https://theroamingrenegades.com/siem-reap-floating-village-kampong-khleang-cambodia/"
+     ],
+     "warning": "Boat prices are negotiated; a few 2025 visitors were charged a US$15 village entry when arriving without a boat booking."
+    },
+    {
+     "id": "sr-phnom-krom",
+     "name": "Phnom Krom sunset (alternative to Kompong Khleang)",
+     "time": "16:30–18:30",
+     "description": "Phnom Krom is a 140 m hill 12 km south of town, right at the edge of the Tonle Sap. On top stand three late-9th-century sandstone towers built by King Yasovarman I to Shiva, Vishnu and Brahma, next to a working pagoda. From the summit you look over flooded fields, the Chong Kneas floating village and the lake, and the sun sets over the water. It is quiet compared with Phnom Bakheng and an easy half-day if you skip Kompong Khleang.",
+     "tips": [
+      "Ride up by tuk-tuk (the road goes to the top) or climb the ~300 steps from the bottom.",
+      "Stop at Wat Athvea, a quiet 12th-century temple, on the way (5 km south of town).",
+      "Your pass is checked at the top, so this would use one of your 3 pass days."
+     ],
+     "hours": "05:00–19:00 (sunset site)",
+     "cost": "Angkor pass (3-day pass, US$62) — pass checked at the summit",
+     "coords": [
+      13.28599,
+      103.81225
+     ],
+     "from_previous": "Tuk-tuk from town: 12 km, 25–30 min (about US$10–12 return with waiting)",
+     "optional": true,
+     "image": "images/sr-phnom-krom.jpg",
+     "image_credit": "Stefan Fussan, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File%3APhnom_Krom_006.jpg",
+     "video": {
+      "id": "YmRDbaD5G8E",
+      "title": "【4K】PHNOM KROM / Cambodia - Virtual Tour - Trip to Siem Reap",
+      "channel": "virtual trip"
+     },
+     "links": [
+      "https://en.wikipedia.org/wiki/Phnom_Krom"
+     ],
+     "warning": null
+    }
+   ]
+  },
+  {
+   "id": "SR4",
+   "date": "2027-01-13",
+   "title": "Angkor Thom and the Grand Circuit by e-bike",
+   "summary": "A full day on two wheels (about 45 km in total). Ride out past Angkor Wat to the South Gate of Angkor Thom, the walled royal city, walk a quiet stretch of its 8 m-high wall, then see the stone faces of the Bayon, the Baphuon and the royal terraces with their hidden inner walls. After lunch, leave by the North Gate for the Grand Circuit temples of Preah Khan, Neak Pean and Ta Som, then ride back to climb Phnom Bakheng for sunset.",
+   "notes": [
+    "Changed: the Angkor Balloon moved here from SR1 as an optional sunrise ride before the wall walk, because the Sunday flight lands too late for a sunset ride.",
+    "Pass day 2 of 3. Sunrise 06:31, sunset 17:55.",
+    "Changed: the Angkor Thom wall walk moves to the start of the day, at the South Gate (where you enter anyway), so you walk it in the cool early morning instead of doubling back later.",
+    "Distances by bike: town → South Gate 8.8 km; South Gate → Bayon 1.7 km; Bayon area → North Gate 1–2 km; North Gate → Preah Khan 2.6 km; Preah Khan → Neak Pean 2.7 km; Neak Pean → Ta Som 2.2 km; Ta Som → Phnom Bakheng about 11 km (back via Preah Khan and through Angkor Thom); Bakheng → town 9 km. Total about 42–45 km, plus about 3 km on the wall.",
+    "An e-bike is strongly recommended over a pedal bike for this distance in 32°C heat; check its range covers 50 km or note where the rental company's charging points are.",
+    "Phnom Bakheng allows only about 300 people at the summit at a time. Be at the base by 16:00–16:15. If the queue is too long, watch sunset from the South Gate causeway or the SW corner of the Angkor Thom wall instead.",
+    "If tired: cut the wall walk first, then Ta Som; Neak Pean is a 15-minute stop."
+   ],
+   "stops": [
+    {
+     "id": "sr-balloon",
+     "name": "Angkor Balloon at sunrise",
+     "time": "06:00–06:45",
+     "description": "A tethered helium balloon that rises about 120–200 m on a cable from a field just west of Angkor Wat's moat and hangs there for 10–15 minutes. From the basket you see the five towers of Angkor Wat rising out of the forest inside their square moat, Phnom Bakheng on its hill, the West Baray reservoir and, on clear evenings, the Tonle Sap lake. It is a short, simple ride, not a hot-air balloon flight, but it is the only easy bird's-eye view of Angkor Wat. The launch site is outside the temple checkpoints, so no pass is needed.",
+     "tips": [
+      "Look for the yellow balloon over the trees as you ride out: if it is not up, it is probably not flying (wind).",
+      "At sunrise the sun comes up behind Angkor Wat, so you see the towers in silhouette with the forest glowing; it is calm and nearly empty at this hour.",
+      "From the launch field it is about 3 km by e-bike to the South Gate of Angkor Thom for the wall walk.",
+      "Do not confuse it with the hot-air balloon tours sold online, which are a different company and fly from the countryside."
+     ],
+     "hours": "Sundays 05:15–18:15 (weekday hours are shorter); flights only in calm weather",
+     "cost": "US$20 daytime · US$25 sunrise/sunset slot (cash)",
+     "coords": [
+      13.41365,
+      103.85005
+     ],
+     "from_previous": "From town: e-bike or tuk-tuk 15–20 min (about 6 km)",
+     "optional": true,
+     "image": "images/sr-angkor-balloon.jpg",
+     "image_credit": "jokertrekker, CC BY 3.0, https://commons.wikimedia.org/wiki/File%3AAngkor_Wat_from_the_Balloon_-_panoramio.jpg",
+     "video": {
+      "id": "uTQF8jFGgIs",
+      "title": "Riding a Hot Air Balloon Over Angkor Wat",
+      "channel": "Phirom Walker"
+     },
+     "links": [
+      "https://www.siemreap.net/category/visit/angkor",
+      "https://www.tripadvisor.com/Attraction_Review-g297390-d1595144-Reviews-Angkor_Balloon-Siem_Reap_Siem_Reap_Province.html"
+     ],
+     "warning": "The most recent reviews found are from late 2024; confirm it is operating (ask your hotel or tuk-tuk driver) before planning around it."
+    },
+    {
+     "id": "sr-thom-walls",
+     "name": "Angkor Thom South Gate and wall walk",
+     "time": "07:30–08:40",
+     "description": "Angkor Thom ('Great City') was the last capital of the Khmer Empire, built by Jayavarman VII in the late 12th century and enclosed by a 3 km-square wall 8 m high and a wide moat. The South Gate causeway is lined with 54 gods and 54 demons holding a giant naga serpent, leading to a 23 m gate tower topped by four huge faces. A shaded dirt path runs along the top of the wall: from the South Gate it is about 1.5 km west to the small south-west corner shrine, Prasat Chrung, with views over the moat. Very few visitors walk up here, so it feels like a private forest path.",
+     "tips": [
+      "Get on the wall from inside the South Gate: pass through the gate, and the path up is on the left (west) side, a short slope.",
+      "Walk (or push the bike) 1.5 km to the SW Prasat Chrung and back: about 1 h. Motorbikes are banned on the wall since 2021; bicycles are allowed.",
+      "Stop on the causeway before the gate early, before the tour buses (from about 08:30), for photos of the gods and demons.",
+      "The North Gate, Victory Gate and Gate of the Dead (east side) are also quiet; you pass the North Gate later today."
+     ],
+     "hours": "Park hours (about 05:00–18:30); the wall path has no gate",
+     "cost": "Angkor pass (3-day pass, US$62)",
+     "coords": [
+      13.42756,
+      103.85952
+     ],
+     "from_previous": "From the balloon field: about 3 km north by e-bike past Angkor Wat to the South Gate (10–15 min). E-bike from town via Angkor Wat: 8.8 km, 35–40 min",
+     "optional": false,
+     "image": "images/sr-angkor-thom-walls.jpg",
+     "image_credit": "Ekrem Canli, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File%3AAngkor_Thom_Victory_gate_2016.jpg",
+     "video": {
+      "id": "gCpBTO7yVgA",
+      "title": "SECRET Angkor Thom wall walk! 5 ancient gates! Stunning views! Siem Reap, Cambodia, 2023!",
+      "channel": "For Riel"
+     },
+     "links": [
+      "https://helloangkor.com/the-secret-angkor-thom-wall-trail-and-its-hidden-prasats/",
+      "https://en.wikipedia.org/wiki/Angkor_Thom"
+     ],
+     "warning": null
+    },
+    {
+     "id": "sr-bayon",
+     "name": "Bayon",
+     "time": "08:50–10:00",
+     "description": "The Bayon stands at the exact centre of Angkor Thom and was Jayavarman VII's state temple, built around 1200 as a Buddhist temple. Its upper terrace is a crowded forest of 37 surviving towers carrying more than 200 huge, calmly smiling stone faces, usually thought to show the bodhisattva Avalokiteshvara, the king, or both. The outer gallery has some of Angkor's best bas-reliefs, showing not only battles with the Cham navy but everyday life: markets, cooking, cockfights and a woman giving birth. Its maze-like layout means every corner gives a new arrangement of faces.",
+     "tips": [
+      "Walk the outer gallery first (east side, then clockwise along the south side) for the everyday-life reliefs, then go up to the faces.",
+      "The upper terrace is best before 10:00, before the heat and the groups; the faces are lit from the east in the morning.",
+      "Park the bike at the stands on the north side; vendors will watch it for a tip."
+     ],
+     "hours": "06:00–18:30 (2026 schedule)",
+     "cost": "Angkor pass (3-day pass, US$62)",
+     "coords": [
+      13.4412,
+      103.85936
+     ],
+     "from_previous": "E-bike from the South Gate: 1.7 km, 7 min",
+     "optional": false,
+     "image": "images/sr-bayon.jpg",
+     "image_credit": "Dudva, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Stone_faces_in_Bayon%2C_Angkor.JPG",
+     "video": {
+      "id": "oOPaBwqSkak",
+      "title": "4K Bayon Temple Walking Tour | Amazing temple in the center of Angkor Thom",
+      "channel": "WorldTraveler 4K"
+     },
+     "links": [
+      "https://en.wikipedia.org/wiki/Bayon"
+     ],
+     "warning": null
+    },
+    {
+     "id": "sr-baphuon",
+     "name": "Baphuon, Phimeanakas and Preah Palilay",
+     "time": "10:05–11:20",
+     "description": "Baphuon is an 11th-century temple-mountain reached by a 200 m raised walkway on short columns. French archaeologists took it apart in the 1960s to rebuild it, the records were lost during the Khmer Rouge years, and it was finally reassembled like a 300,000-piece jigsaw, reopening in 2011. Its west side was rebuilt in the 16th century as a huge reclining Buddha, which you can still make out. Behind it, inside the old royal palace grounds, is Phimeanakas, a small, steep pyramid that was the king's temple, and in the forest to the north, Preah Palilay, a lonely tree-shaded sanctuary with fine Buddhist carvings.",
+     "tips": [
+      "Baphuon's top level needs covered shoulders and knees and has steep stairs; the view over the treetops is worth it.",
+      "Walk around to the west side of Baphuon to see the outline of the reclining Buddha.",
+      "From Phimeanakas, follow the path north through the palace grounds (past the royal pools) to Preah Palilay and Tep Pranam."
+     ],
+     "hours": "06:00–18:30 (2026 schedule; Baphuon's upper level may close earlier)",
+     "cost": "Angkor pass (3-day pass, US$62)",
+     "coords": [
+      13.44379,
+      103.85622
+     ],
+     "from_previous": "On foot from the Bayon: 400 m, 6 min (leave the bike or push it)",
+     "optional": false,
+     "image": "images/sr-baphuon-palilay.jpg",
+     "image_credit": "Jean-Pierre Dalbéra from Paris, France, CC BY 2.0, https://commons.wikimedia.org/wiki/File%3ABaphuonEasternFacade2011.jpg",
+     "video": {
+      "id": "d6dvAZeC8oE",
+      "title": "Baphuon Temple (Angkor Wat), Cambodia - Walking Tour [4K, no_commentary]",
+      "channel": "4K Walking Videos by Explorertom"
+     },
+     "links": [
+      "https://en.wikipedia.org/wiki/Baphuon",
+      "https://en.wikipedia.org/wiki/Phimeanakas",
+      "https://en.wikipedia.org/wiki/Preah_Palilay"
+     ],
+     "warning": null
+    },
+    {
+     "id": "sr-terraces",
+     "name": "Terrace of the Elephants and Terrace of the Leper King (with hidden inner walls)",
+     "time": "11:20–12:00",
+     "description": "The Terrace of the Elephants is a 350 m-long royal viewing platform in front of the palace, where the king watched parades; its wall is carved with near life-size elephants and hunting scenes. At its north end stands the Terrace of the Leper King, named after a statue whose lichen-covered surface looked like leprosy (the original is now in the National Museum in Phnom Penh). The secret here is the 'hidden wall': when French restorers rebuilt the outer wall they found an older, inner wall behind it, and you can walk along the narrow trench between them past rows of almost untouched carvings of nagas, kings, apsaras and sea creatures. A similar hidden inner wall with a five-headed horse sits at the north end of the Elephant Terrace.",
+     "tips": [
+      "The entrance to the Leper King's inner wall passage is at the south-front corner of the terrace: follow the narrow gap that zig-zags behind the outer wall.",
+      "For the Elephant Terrace inner wall, look for the small passage at the terrace's north stairway (five-headed horse relief).",
+      "The trench is shaded and cool — a good midday stop.",
+      "Lunch: stalls and small restaurants across the road from the terraces (US$4–6)."
+     ],
+     "hours": "06:00–18:30 (2026 schedule)",
+     "cost": "Angkor pass (3-day pass, US$62)",
+     "coords": [
+      13.44768,
+      103.85887
+     ],
+     "from_previous": "On foot from Preah Palilay: 400 m, 5 min",
+     "optional": false,
+     "image": "images/sr-leper-king-terrace.jpg",
+     "image_credit": "Jorge Láscar from Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File%3ATerrace_of_the_Leper_King_%286208375256%29.jpg",
+     "video": {
+      "id": "fUWo9wQeeQE",
+      "title": "Unveiling the Secrets: Inner Wall of Angkor Thom's Leper King | Documentary Tour 2023 4k",
+      "channel": "StrollAsia"
+     },
+     "links": [
+      "https://en.wikipedia.org/wiki/Terrace_of_the_Leper_King",
+      "https://en.wikipedia.org/wiki/Terrace_of_the_Elephants"
+     ],
+     "warning": null
+    },
+    {
+     "id": "sr-preah-khan",
+     "name": "Preah Khan",
+     "time": "12:50–14:00",
+     "description": "Preah Khan ('Sacred Sword') was built by Jayavarman VII in 1191 on the site of a victory over the Cham, and dedicated to his father. It was a huge monastery and teaching centre with over 1,000 teachers, and its long, straight corridors with hundreds of doorways in a row are its signature view. Parts are restored and parts are left in a romantic state of collapse, with trees on the walls, as at Ta Prohm, but with far fewer people. Look for the unusual two-storey building with round columns, which looks almost Greek, and the 'Hall of Dancers' carved with apsaras.",
+     "tips": [
+      "Enter by the west gate (approach road with a giant garuda on the wall) and walk the main corridor east; have the bike collected or push it round to the east gate.",
+      "The central stupa replaced a statue of the Buddha; look for the chiselled-out Buddha images, defaced during a Hindu revival in the 13th century."
+     ],
+     "hours": "06:00–18:30 (2026 schedule)",
+     "cost": "Angkor pass (3-day pass, US$62)",
+     "coords": [
+      13.46193,
+      103.87163
+     ],
+     "from_previous": "E-bike from the terraces through the North Gate: about 3.7 km, 15 min",
+     "optional": false,
+     "image": "images/sr-preah-khan.jpg",
+     "image_credit": "Satdeep Gill, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Entrance_to_the_Preah_Khan_temple%2C_Angkor%2C_Cambodia.jpg",
+     "video": {
+      "id": "o79Jyteb9C0",
+      "title": "Walking Tour of Preah Khan Temple in the Jungle | Temple complex of Angkor, Cambodia | 4K",
+      "channel": "WorldTraveler 4K"
+     },
+     "links": [
+      "https://en.wikipedia.org/wiki/Preah_Khan"
+     ],
+     "warning": null
+    },
+    {
+     "id": "sr-neak-poan",
+     "name": "Neak Pean",
+     "time": "14:10–14:35",
+     "description": "Neak Pean ('Entwined Serpents') is a small 12th-century shrine on a round island in the middle of a square pool, in what was once the middle of a large reservoir. It represents Lake Anavatapta in the Himalayas, whose waters were believed to cure illness; four smaller pools around it are fed through spouts shaped as an elephant, a lion, a horse and a human head. Pilgrims came to bathe here for healing. You reach it on a long wooden boardwalk across a lake full of dead trees, which is part of the atmosphere.",
+     "tips": [
+      "You cannot enter the pools; the best view is from the platform at the end of the boardwalk.",
+      "In January the reservoir usually still has water around the boardwalk, giving good reflections."
+     ],
+     "hours": "06:00–18:30 (2026 schedule)",
+     "cost": "Angkor pass (3-day pass, US$62)",
+     "coords": [
+      13.46324,
+      103.89485
+     ],
+     "from_previous": "E-bike from Preah Khan's east side: 2.7 km, 10 min",
+     "optional": false,
+     "image": "images/sr-neak-poan.jpg",
+     "image_credit": "Marcin Konsek, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2016_Angkor%2C_Neak_Pean_%2801%29.jpg",
+     "video": null,
+     "links": [
+      "https://en.wikipedia.org/wiki/Neak_Pean"
+     ],
+     "warning": null
+    },
+    {
+     "id": "sr-ta-som",
+     "name": "Ta Som",
+     "time": "14:45–15:20",
+     "description": "Ta Som is a small temple built by Jayavarman VII in the late 12th century, with Bayon-style face towers on its gates. Its famous sight is the eastern gate, almost swallowed by a huge strangler fig whose roots frame the stone face. Inside are quiet, crumbling galleries with well-preserved devata (female deity) carvings. It has the jungle-ruin feel of Ta Prohm with a fraction of the visitors.",
+     "tips": [
+      "Walk straight through to the east gate for the tree-gate view, best seen from outside the gate looking back.",
+      "This is the turnaround point: from here ride back west the way you came for Phnom Bakheng (about 11 km, 40 min)."
+     ],
+     "hours": "06:00–18:30 (2026 schedule)",
+     "cost": "Angkor pass (3-day pass, US$62)",
+     "coords": [
+      13.46455,
+      103.91321
+     ],
+     "from_previous": "E-bike from Neak Pean: 2.2 km, 8 min",
+     "optional": true,
+     "image": "images/sr-ta-som.jpg",
+     "image_credit": "Ussfa344, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File%3ATa_Som_Temple.jpg",
+     "video": null,
+     "links": [
+      "https://en.wikipedia.org/wiki/Ta_Som"
+     ],
+     "warning": null
+    },
+    {
+     "id": "sr-bakheng",
+     "name": "Phnom Bakheng at sunset",
+     "time": "16:10–18:20",
+     "description": "Phnom Bakheng is the oldest temple-mountain of the Angkor capital, built around 900 AD by King Yasovarman I on a natural hill as the centre of his city, Yasodharapura. Its five-tiered pyramid once carried 108 small towers, a number full of cosmic meaning. From the top you see Angkor Wat's towers in the forest to the south-east, the West Baray shining to the west and plains stretching to the horizon. It has been the classic sunset spot for over a century, which is why numbers at the top are now limited.",
+     "tips": [
+      "Walk up the zig-zag path on the east side (about 15–20 min); the old elephant rides have ended.",
+      "Only about 300 people are allowed on the summit at once; staff count you in. Arriving at the base by 16:00–16:15 normally gets you up; later you may queue until people leave.",
+      "Angkor Wat is seen side-on in the evening light; the real show is the sun going down over the West Baray (~17:55).",
+      "Guards clear the summit about 20 minutes before closing; you will ride the 9 km back to town in the dark — make sure the e-bike lights work."
+     ],
+     "hours": "05:00–19:00 (sunset site); summit capacity about 300 people at a time",
+     "cost": "Angkor pass (3-day pass, US$62)",
+     "coords": [
+      13.42377,
+      103.85615
+     ],
+     "from_previous": "E-bike from Ta Som: about 11 km back via Preah Khan, the North Gate and through Angkor Thom to the South Gate, 40–45 min",
+     "optional": false,
+     "image": "images/sr-bakheng.jpg",
+     "image_credit": "LBM1948, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Phnom_Bakheng_1.jpg",
+     "video": {
+      "id": "21z-nW0xCbw",
+      "title": "Sunset from Phnom Bakheng - 9th Century Khmer Temple - Angkor Cambodia 2024",
+      "channel": "Endless Journey"
+     },
+     "links": [
+      "https://en.wikipedia.org/wiki/Phnom_Bakheng",
+      "https://adventurescambodia.com/blog/angkor-temple-opening-hours"
+     ],
+     "warning": "Summit capacity is capped (about 300); arrive at the base by 16:15."
+    }
+   ]
+  },
+  {
+   "id": "SR5",
+   "date": "2027-01-14",
+   "title": "Last sunrise and departure",
+   "summary": "If your flight leaves after about midday, use the third pass day for a quiet sunrise at Srah Srang and an early, nearly empty Ta Prohm, then head to the airport about three hours before departure. With an early flight, just allow about 1 h for the drive and 2 h at the airport.",
+   "notes": [
+    "SAI is 47 km from town: allow 50–60 min by car, and arrive 2 h before an international flight. Leave town about 3 h before departure.",
+    "Pass day 3 of 3 (if not used on Tue for Phnom Krom). Thu 14 Jan: Bakan at Angkor Wat closes from 13:00 (the 14th of every month), which does not affect this plan.",
+    "Book your airport car or the shuttle the day before; Grab drivers may refuse the long airport run early in the morning."
+   ],
+   "stops": [
+    {
+     "id": "sr-last-sunrise",
+     "name": "Sunrise at Srah Srang, then Ta Prohm at opening",
+     "time": "05:45–08:00",
+     "description": "Srah Srang, the 10th-century royal bathing reservoir opposite Banteay Kdei, is a much calmer sunrise spot than Angkor Wat: the sun comes up over the far end of the water, behind palms, with the lion-guarded landing stage in the foreground. Afterwards, Ta Prohm is 1 km away and is at its best in the first hour after opening, in soft light and with few people, before the sunrise groups arrive. It is a peaceful last look at Angkor before you leave.",
+     "tips": [
+      "Tuk-tuk from town: 25 min (14 km) — about US$12–15 for the pickup, waiting and return by 08:30.",
+      "Sit on the stone landing stage; the sun appears around 06:31.",
+      "No pass day left? Walk to Wat Bo pagoda's murals and the quiet lanes of Kandal Village, or the local Psar Leu market, instead."
+     ],
+     "hours": "Srah Srang 05:00–19:00; Ta Prohm from 06:00 (2026 schedule)",
+     "cost": "Angkor pass (3-day pass, US$62) (day 3)",
+     "coords": [
+      13.43146,
+      103.90688
+     ],
+     "from_previous": "Tuk-tuk from town: 14 km, 25 min",
+     "optional": true,
+     "image": "images/sr-last-sunrise.jpg",
+     "image_credit": "Diego Delso, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Srah_Srang%2C_Angkor%2C_Camboya%2C_2013-08-16%2C_DD_02.JPG",
+     "video": null,
+     "links": [
+      "https://en.wikipedia.org/wiki/Srah_Srang"
+     ],
+     "warning": null
+    },
+    {
+     "id": "sr-depart",
+     "name": "Transfer to Siem Reap Angkor International Airport (SAI)",
+     "time": "Leave town ~3 h before your flight",
+     "description": "The drive back to SAI takes 50–60 minutes on the new road east through rice fields. The terminal is modern and quiet, with cafés and duty-free; check-in for international flights usually opens 2–3 hours before departure. Spend the last riel at the airport or give it away: it is hard to change outside Cambodia.",
+     "tips": [
+      "Airport shuttle bus from the CDF Duty Free stop near Wat Bo: US$8, about 60–70 min; departures to the airport (early-2025 timetable) 05:30, 07:00, 08:00, 10:00, 12:00, 13:30, 16:00, 17:30, 19:00 — check the current times.",
+      "Hotel car or taxi: US$25–35; book the day before.",
+      "Confirm whether your onward country needs an arrival form (e.g. Thailand's TDAC, Malaysia's MDAC)."
+     ],
+     "hours": "Airport open for all flights",
+     "cost": "Shuttle US$8; car US$25–35",
+     "coords": [
+      13.36783,
+      104.21551
+     ],
+     "from_previous": "Car from town: 47 km, 50–60 min",
+     "optional": false,
+     "image": null,
+     "image_credit": null,
+     "video": null,
+     "links": [
+      "https://movetocambodia.com/transportation/how-to-get-from-the-airport-into-siem-reap/"
+     ],
+     "warning": null
+    }
+   ]
   }
  ],
  "extras": [],
- "transport_out": ""
+ "transport_out": "Thu 14 Jan, destination not yet chosen. Direct flights from SAI (2026 network): Bangkok Suvarnabhumi (Bangkok Airways, Cambodia Airways, Emirates, Thai Airways seasonal; ~1 h 05, about US$80–150), Bangkok Don Mueang (Thai AirAsia; ~1 h), Kuala Lumpur (AirAsia Cambodia; ~2 h), Singapore (Singapore Airlines; ~2 h), Hanoi (VietJet, Vietnam Airlines; ~1 h 45), Ho Chi Minh City (Vietnam Airlines, Air Cambodia; ~1 h), Da Nang (Air Cambodia), Phnom Penh (Air Cambodia, Cambodia Airways; ~45 min), Luang Prabang (Lao Airlines/Vietnam Airlines, seasonal), Pakse, Dubai (Emirates) and several Chinese cities. By road, Phnom Penh is 5–6 h by bus (Giant Ibis, Mekong Express; about US$15–20) — the land border with Thailand remains closed. Book now: the onward flight (peak season; Bangkok flights are cheapest booked early), and decide whether a midday-or-later departure lets you use the last pass day for a Thursday sunrise. Leave town about 3 h before departure (47 km to SAI)."
 }
