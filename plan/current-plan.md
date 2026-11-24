@@ -1,7 +1,7 @@
 # Current plan (transcribed from SEA.pdf)
 
-Trip: Southeast Asia, December–January, 15–17 nights total.
-Base split: 3 KL (maybe 2) · 5 Bangkok · 3 Chiang Mai · 2 Chiang Rai · 4 Siem Reap
+Trip: Southeast Asia, December–January, most likely 15–16 nights total.
+Base split: 2–3 KL · 5 Bangkok · 4 Chiang Mai · 4 Siem Reap (Chiang Rai dropped) = 15–16 nights. The day-by-day sections below are the most accurate version of the plan.
 
 Traveler preferences: peaceful vibes, a sense of adventure, historical & cultural marvels,
 impressive skylines and historical sights, soaking up the vibes of a place. Has done a lot of
@@ -29,7 +29,7 @@ research already; prefers suggestions that are not at the very top of tourist li
 - Already ruled out this trip: Doi Inthanon, Pai, Wat Phra That Hariphunchai (Lamphun), Wat Chaloem Phra Kiat (Lampang), Mae Kampong, Wat Tham Chiang Dao
 
 ## Chiang Rai
-- 2 nights planned, no details yet (White Temple / Blue Temple / Black House are presumably known).
+- DROPPED (the "2 Chiang Rai" line was a mistake). Traveler is open to being convinced otherwise about the northern leg.
 
 ## Siem Reap
 - SR1: arrive midday; buy 3-day Angkor pass; a couple hours in the park; Old Market
