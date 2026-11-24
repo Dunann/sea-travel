@@ -1,0 +1,380 @@
+<title>SEA Trip Idea Ratings</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Figtree:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: sticky filter bar over a responsive card grid; each card = photo, facts, 1–10 rating row. */
+:root {
+  --bg: #eef1ee;          /* rain-washed stone */
+  --surface: #ffffff;
+  --ink: #17211d;
+  --muted: #5b6862;
+  --line: #d5dcd7;
+  --accent: #c7700f;      /* monk-robe saffron */
+  --accent-ink: #ffffff;
+  --river: #1f6f6a;       /* Mekong teal */
+  --chip: #e3e9e5;
+  --score-low: #b8473a;
+  --score-mid: #b98a12;
+  --score-high: #2f7d4f;
+  --font-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --font-body: "Figtree", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #101614; --surface: #18201d; --ink: #e8eeea; --muted: #9aa8a1; --line: #2c3833;
+    --accent: #e8922f; --accent-ink: #1a1206; --river: #5fb8b0; --chip: #23302b;
+    --score-low: #e0786b; --score-mid: #dcb445; --score-high: #6cc48f;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #101614; --surface: #18201d; --ink: #e8eeea; --muted: #9aa8a1; --line: #2c3833;
+  --accent: #e8922f; --accent-ink: #1a1206; --river: #5fb8b0; --chip: #23302b;
+  --score-low: #e0786b; --score-mid: #dcb445; --score-high: #6cc48f;
+  color-scheme: dark;
+}
+body { background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 15px; line-height: 1.5; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.wrap { max-width: 1280px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+
+header.intro { padding-block: 28px 8px; display: grid; gap: 10px; }
+h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(1.9rem, 4vw, 2.8rem); line-height: 1.05; margin: 0; text-wrap: balance; letter-spacing: -0.01em; }
+.lede { margin: 0; color: var(--muted); max-width: 65ch; }
+.scale { display: flex; flex-wrap: wrap; gap: 6px 14px; font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+.scale b { color: var(--ink); font-weight: 500; }
+
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+.bar .wrap { padding-block: 10px; display: grid; gap: 8px; }
+.tabs { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; }
+.tab { flex: none; border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 999px; padding: 6px 12px; font: 600 13px var(--font-body); cursor: pointer; display: inline-flex; gap: 6px; align-items: center; }
+.tab .code { font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
+.tab[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.tab[aria-pressed="true"] .code { color: var(--bg); opacity: .7; }
+.controls { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; font-size: 13px; }
+.controls label { display: inline-flex; gap: 6px; align-items: center; color: var(--muted); }
+select { font: 500 13px var(--font-body); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 5px 8px; }
+.progress { margin-left: auto; display: flex; gap: 10px; align-items: center; font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+.meter { width: 120px; height: 6px; background: var(--chip); border-radius: 99px; overflow: hidden; }
+.meter i { display: block; height: 100%; background: var(--accent); width: 0; transition: width .3s; }
+.sync { font-family: var(--font-mono); font-size: 11px; color: var(--muted); }
+.sync.warn { color: var(--score-low); }
+
+main { padding-block: 18px 60px; }
+.region-head { display: flex; align-items: baseline; gap: 10px; margin: 26px 0 12px; }
+.region-head:first-child { margin-top: 4px; }
+.region-head h2 { font-family: var(--font-display); font-weight: 700; font-size: 1.45rem; margin: 0; }
+.region-head span { font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 330px), 1fr)); gap: 16px; }
+
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; min-width: 0; }
+.card.rated { border-color: color-mix(in srgb, var(--accent) 45%, var(--line)); }
+.photo { position: relative; aspect-ratio: 16 / 10; background: var(--chip); max-width: 100%; }
+.photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.photo .noimg { position: absolute; inset: 0; display: grid; place-items: center; font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+.photo .tag { position: absolute; left: 10px; top: 10px; background: rgba(10,14,12,.72); color: #fff; font: 500 11px var(--font-mono); padding: 3px 7px; border-radius: 6px; letter-spacing: .04em; }
+.photo .myscore { position: absolute; right: 10px; top: 10px; min-width: 34px; height: 34px; border-radius: 50%; display: grid; place-items: center; font: 700 15px var(--font-display); color: #fff; box-shadow: 0 2px 8px rgba(0,0,0,.3); }
+.body { padding: 14px 16px 16px; display: grid; gap: 10px; flex: 1; align-content: start; }
+.title-row { display: grid; gap: 2px; }
+.card h3 { font-family: var(--font-display); font-weight: 700; font-size: 1.18rem; line-height: 1.2; margin: 0; text-wrap: balance; }
+.area { font-size: 13px; color: var(--muted); }
+.meta { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; font-size: 12px; }
+.cat { background: var(--chip); border-radius: 6px; padding: 2px 8px; font-weight: 600; }
+.crowd { display: inline-flex; gap: 6px; align-items: center; color: var(--muted); }
+.dots { display: inline-flex; gap: 3px; }
+.dots i { width: 7px; height: 7px; border-radius: 50%; background: var(--line); }
+.dots i.on { background: var(--river); }
+.blurb { margin: 0; }
+.why { margin: 0; font-size: 14px; color: var(--muted); }
+.why b { color: var(--river); font-weight: 600; }
+details { border-top: 1px solid var(--line); padding-top: 8px; font-size: 13px; }
+summary { cursor: pointer; color: var(--muted); font-weight: 600; }
+dl { display: grid; grid-template-columns: max-content 1fr; gap: 4px 12px; margin: 8px 0 0; }
+dt { font-family: var(--font-mono); font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; padding-top: 2px; }
+dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+.links { display: flex; flex-wrap: wrap; gap: 6px 12px; margin-top: 8px; }
+.links a, .credit a { color: var(--river); }
+.credit { font-size: 11px; color: var(--muted); margin-top: 6px; overflow-wrap: anywhere; }
+
+.rate { display: grid; gap: 6px; border-top: 1px solid var(--line); padding-top: 10px; margin-top: auto; }
+.rate-label { display: flex; justify-content: space-between; font-size: 12px; color: var(--muted); }
+.rate-label b { color: var(--ink); }
+.nums { display: grid; grid-template-columns: repeat(10, 1fr); gap: 4px; }
+.nums button { aspect-ratio: 1; min-width: 0; border: 1px solid var(--line); background: var(--bg); color: var(--ink); border-radius: 7px; font: 600 13px var(--font-mono); cursor: pointer; padding: 0; }
+.nums button:hover { border-color: var(--accent); }
+.nums button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.nums button:focus-visible, .tab:focus-visible, select:focus-visible, textarea:focus-visible, .btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+textarea { width: 100%; box-sizing: border-box; resize: vertical; min-height: 34px; font: 13px var(--font-body); color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 6px 8px; }
+
+.empty { padding: 40px 0; color: var(--muted); }
+.ranked { display: grid; gap: 22px; }
+.ranked table { width: 100%; border-collapse: collapse; font-size: 14px; }
+.ranked td { padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.ranked td.s { font: 700 15px var(--font-display); width: 36px; text-align: center; font-variant-numeric: tabular-nums; }
+.ranked td.n { color: var(--muted); font-size: 13px; }
+.tablewrap { overflow-x: auto; }
+footer { padding-block: 10px 40px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; color: var(--muted); font-size: 13px; }
+.btn { border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 8px; padding: 7px 12px; font: 600 13px var(--font-body); cursor: pointer; }
+#copyArea { width: 100%; min-height: 80px; font-family: var(--font-mono); font-size: 11px; }
+@media (max-width: 560px) { .progress { margin-left: 0; width: 100%; } .meter { flex: 1; } }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<header class="wrap intro">
+  <h1>Ideas not in your plan yet</h1>
+  <p class="lede" id="lede">Researched suggestions for KL, Bangkok, Chiang Mai, Siem Reap, plus wildcard stops and journeys. Rate each one 1–10 by how much it excites you. Your scores save automatically and Claude reads them to build the final itinerary.</p>
+  <div class="scale" aria-label="Rating scale">
+    <span><b>1–3</b> skip</span><span><b>4–5</b> only if convenient</span><span><b>6–7</b> would enjoy</span><span><b>8–9</b> really want</span><span><b>10</b> must do</span>
+  </div>
+</header>
+
+<div class="bar">
+  <div class="wrap">
+    <div class="tabs" id="tabs" role="toolbar" aria-label="Region"></div>
+    <div class="controls">
+      <label for="cat">Type <select id="cat"><option value="">All types</option></select></label>
+      <label for="status">Show <select id="status"><option value="">All</option><option value="unrated">Not rated yet</option><option value="rated">Rated</option></select></label>
+      <label for="sort">Sort <select id="sort"><option value="default">Suggested order</option><option value="gem">Least touristy first</option><option value="score">My score, high to low</option></select></label>
+      <label for="view">View <select id="view"><option value="cards">Cards</option><option value="ranked">Ranked list</option></select></label>
+      <div class="progress"><span id="count">0 / 0 rated</span><div class="meter"><i id="meterFill"></i></div><span class="sync" id="sync">saving locally</span></div>
+    </div>
+  </div>
+</div>
+
+<main class="wrap" id="main"><p class="empty">Loading ideas…</p></main>
+
+<footer class="wrap">
+  <button class="btn" id="copyBtn" type="button">Copy all scores as text</button>
+  <span id="copyMsg">Backup option: paste this into the chat if saving ever fails.</span>
+  <textarea id="copyArea" hidden readonly aria-label="Scores as text"></textarea>
+</footer>
+
+<script>
+(function () {
+  const REGIONS = [
+    { key: "Kuala Lumpur", code: "KL", label: "Kuala Lumpur" },
+    { key: "Bangkok", code: "BKK", label: "Bangkok" },
+    { key: "Chiang Mai", code: "CM", label: "Chiang Mai" },
+    { key: "Northern Thailand", code: "N-TH", label: "Beyond Chiang Mai" },
+    { key: "Siem Reap", code: "SR", label: "Siem Reap" },
+    { key: "Wildcards", code: "WC", label: "Wildcards" }
+  ];
+  const CODE = Object.fromEntries(REGIONS.map(r => [r.key, r.code]));
+  const LS_KEY = "sea-ratings-v1";
+
+  let items = [];
+  let ratings = {};            // id -> {score, note}
+  let db = null;
+  let dbFailed = false;
+  const state = { region: "", cat: "", status: "", sort: "default", view: "cards" };
+  const writeChains = {};      // one write at a time per doc
+  const noteTimers = {};
+
+  // ---------- storage helpers ----------
+  function loadLocal() { try { return JSON.parse(localStorage.getItem(LS_KEY) || "{}") || {}; } catch (e) { return {}; } }
+  function saveLocal() { try { localStorage.setItem(LS_KEY, JSON.stringify(ratings)); } catch (e) {} }
+  ratings = loadLocal();
+
+  function setSync(text, warn) { const el = document.getElementById("sync"); el.textContent = text; el.classList.toggle("warn", !!warn); }
+
+  function persist(id) {
+    saveLocal();
+    if (!db || dbFailed) return;
+    const r = ratings[id];
+    const ref = db.doc("ratings/" + id);
+    const prev = writeChains[id] || Promise.resolve();
+    writeChains[id] = prev.then(() => {
+      setSync("saving…");
+      const op = (r && (r.score || r.note)) ? ref.set({ score: r.score || null, note: r.note || "", updatedAt: new Date().toISOString() }) : ref.delete();
+      return op.then(() => setSync("saved"), err => {
+        if (err && err.code === "invalid_argument") { dbFailed = true; setSync("can't save to the page; saved in this browser", true); }
+        else setSync("save failed; saved in this browser", true);
+      });
+    });
+  }
+
+  // ---------- escaping ----------
+  function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c])); }
+  function safeUrl(u) { return (typeof u === "string" && /^https:\/\//.test(u)) ? esc(u) : null; }
+  function scoreColor(s) { return s >= 8 ? "var(--score-high)" : s >= 5 ? "var(--score-mid)" : "var(--score-low)"; }
+
+  // ---------- filters ----------
+  function buildControls() {
+    const tabs = document.getElementById("tabs");
+    const present = REGIONS.filter(r => items.some(i => i.region === r.key));
+    const all = [{ key: "", code: "ALL", label: "All" }].concat(present);
+    tabs.innerHTML = all.map(r => {
+      const n = r.key ? items.filter(i => i.region === r.key).length : items.length;
+      return `<button class="tab" type="button" data-region="${esc(r.key)}" aria-pressed="${state.region === r.key}">${esc(r.label)} <span class="code">${n}</span></button>`;
+    }).join("");
+    tabs.onclick = e => { const b = e.target.closest(".tab"); if (!b) return; state.region = b.dataset.region; render(); };
+    const cats = [...new Set(items.map(i => i.category))].sort();
+    const sel = document.getElementById("cat");
+    sel.innerHTML = '<option value="">All types</option>' + cats.map(c => `<option>${esc(c)}</option>`).join("");
+    ["cat", "status", "sort", "view"].forEach(id => document.getElementById(id).onchange = e => { state[id] = e.target.value; render(); });
+  }
+
+  function filtered() {
+    let list = items.filter(i =>
+      (!state.region || i.region === state.region) &&
+      (!state.cat || i.category === state.cat) &&
+      (!state.status || (state.status === "rated") === !!(ratings[i.id] && ratings[i.id].score)));
+    if (state.sort === "gem") list = list.slice().sort((a, b) => (a.touristiness || 3) - (b.touristiness || 3));
+    if (state.sort === "score") list = list.slice().sort((a, b) => ((ratings[b.id] || {}).score || 0) - ((ratings[a.id] || {}).score || 0));
+    return list;
+  }
+
+  // ---------- rendering ----------
+  function card(i) {
+    const r = ratings[i.id] || {};
+    const t = Math.max(1, Math.min(5, i.touristiness || 3));
+    const dots = [1, 2, 3, 4, 5].map(n => `<i class="${n <= t ? "on" : ""}"></i>`).join("");
+    const crowdWord = ["", "hidden gem", "lightly visited", "known, not crowded", "popular", "top tourist sight"][t];
+    const img = i.image ? `<img src="${esc(i.image)}" alt="${esc(i.name)}" loading="lazy">` : `<span class="noimg">no photo found</span>`;
+    const links = (i.links || []).map(safeUrl).filter(Boolean).map((u, n) => `<a href="${u}" target="_blank" rel="noopener">Source ${n + 1} ↗</a>`);
+    const vid = safeUrl(i.video); if (vid) links.unshift(`<a href="${vid}" target="_blank" rel="noopener">Watch video ↗</a>`);
+    if (Array.isArray(i.coords) && i.coords.length === 2) links.unshift(`<a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(i.coords[0] + "," + i.coords[1])}" target="_blank" rel="noopener">Map ↗</a>`);
+    const nums = [1,2,3,4,5,6,7,8,9,10].map(n => `<button type="button" data-id="${esc(i.id)}" data-score="${n}" aria-pressed="${r.score === n}" aria-label="Rate ${n} of 10">${n}</button>`).join("");
+    const badge = r.score ? `<span class="myscore" style="background:${scoreColor(r.score)}">${r.score}</span>` : "";
+    return `<article class="card${r.score ? " rated" : ""}" id="card-${esc(i.id)}">
+      <div class="photo">${img}<span class="tag">${esc(CODE[i.region] || "")}</span>${badge}</div>
+      <div class="body">
+        <div class="title-row"><h3>${esc(i.name)}</h3><span class="area">${esc(i.area)}</span></div>
+        <div class="meta"><span class="cat">${esc(i.category)}</span><span class="crowd" title="Touristiness ${t} of 5"><span class="dots">${dots}</span>${crowdWord}</span></div>
+        <p class="blurb">${esc(i.blurb)}</p>
+        <p class="why"><b>Why you:</b> ${esc(i.why)}</p>
+        <details><summary>Time, cost, getting there</summary>
+          <dl>
+            <dt>Time</dt><dd>${esc(i.time_needed)}</dd>
+            <dt>Getting there</dt><dd>${esc(i.getting_there)}</dd>
+            <dt>Cost</dt><dd>${esc(i.cost)}</dd>
+            <dt>When</dt><dd>${esc(i.best_time)}</dd>
+          </dl>
+          <div class="links">${links.join("")}</div>
+          ${i.image_credit ? `<div class="credit">Photo: ${esc(i.image_credit)}</div>` : ""}
+        </details>
+        <div class="rate">
+          <div class="rate-label"><span>How excited are you?</span><b>${r.score ? r.score + " / 10" : "not rated"}</b></div>
+          <div class="nums">${nums}</div>
+          <textarea id="note-${esc(i.id)}" data-note="${esc(i.id)}" rows="1" placeholder="Optional note (e.g. only if near hotel)">${esc(r.note || "")}</textarea>
+        </div>
+      </div>
+    </article>`;
+  }
+
+  function renderCards(list) {
+    if (!list.length) return '<p class="empty">Nothing matches these filters.</p>';
+    if (state.region || state.sort !== "default") return `<div class="grid">${list.map(card).join("")}</div>`;
+    return REGIONS.map(reg => {
+      const sub = list.filter(i => i.region === reg.key);
+      if (!sub.length) return "";
+      return `<div class="region-head"><h2>${esc(reg.label)}</h2><span>${esc(reg.code)} · ${sub.length} ideas</span></div><div class="grid">${sub.map(card).join("")}</div>`;
+    }).join("");
+  }
+
+  function renderRanked(list) {
+    const groups = REGIONS.map(reg => {
+      const sub = list.filter(i => i.region === reg.key && ratings[i.id] && ratings[i.id].score)
+        .sort((a, b) => ratings[b.id].score - ratings[a.id].score);
+      if (!sub.length) return "";
+      const rows = sub.map(i => `<tr><td class="s" style="color:${scoreColor(ratings[i.id].score)}">${ratings[i.id].score}</td><td><b>${esc(i.name)}</b><br><span class="area">${esc(i.category)} · ${esc(i.time_needed)}</span></td><td class="n">${esc(ratings[i.id].note || "")}</td></tr>`).join("");
+      return `<section><div class="region-head"><h2>${esc(reg.label)}</h2><span>${sub.length} rated</span></div><div class="tablewrap"><table>${rows}</table></div></section>`;
+    }).join("");
+    return groups ? `<div class="ranked">${groups}</div>` : '<p class="empty">No scores yet. Switch to Cards and start rating.</p>';
+  }
+
+  function render() {
+    document.querySelectorAll(".tab").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.region === state.region)));
+    const list = filtered();
+    const main = document.getElementById("main");
+    const y = window.scrollY;
+    main.innerHTML = state.view === "ranked" ? renderRanked(list) : renderCards(list);
+    window.scrollTo(0, y);
+    updateProgress();
+  }
+
+  function updateProgress() {
+    const done = items.filter(i => ratings[i.id] && ratings[i.id].score).length;
+    document.getElementById("count").textContent = `${done} / ${items.length} rated`;
+    document.getElementById("meterFill").style.width = items.length ? (100 * done / items.length) + "%" : "0";
+  }
+
+  function updateCard(id) {
+    const i = items.find(x => x.id === id); if (!i) return;
+    const old = document.getElementById("card-" + id); if (!old) return;
+    const focusedNote = document.activeElement && document.activeElement.dataset && document.activeElement.dataset.note === id;
+    if (focusedNote) return; // don't disturb typing
+    const tmp = document.createElement("div"); tmp.innerHTML = card(i);
+    old.replaceWith(tmp.firstElementChild);
+    updateProgress();
+  }
+
+  // ---------- events ----------
+  document.getElementById("main").addEventListener("click", e => {
+    const b = e.target.closest(".nums button"); if (!b) return;
+    const id = b.dataset.id, n = Number(b.dataset.score);
+    const r = ratings[id] || {};
+    r.score = r.score === n ? null : n;   // clicking the same number clears it
+    ratings[id] = r;
+    persist(id);
+    updateCard(id);
+    const btn = document.querySelector(`#card-${CSS.escape(id)} .nums button[data-score="${n}"]`); if (btn) btn.focus();
+  });
+  document.getElementById("main").addEventListener("input", e => {
+    const id = e.target.dataset && e.target.dataset.note; if (!id) return;
+    const r = ratings[id] || {}; r.note = e.target.value; ratings[id] = r;
+    clearTimeout(noteTimers[id]); noteTimers[id] = setTimeout(() => persist(id), 900);
+  });
+
+  document.getElementById("copyBtn").onclick = () => {
+    const lines = items.filter(i => ratings[i.id] && (ratings[i.id].score || ratings[i.id].note))
+      .map(i => `${i.id}\t${ratings[i.id].score || "-"}\t${i.name}${ratings[i.id].note ? "\t" + ratings[i.id].note : ""}`);
+    const text = lines.join("\n") || "(no scores yet)";
+    const area = document.getElementById("copyArea");
+    area.value = text; area.hidden = false;
+    const msg = document.getElementById("copyMsg");
+    try {
+      navigator.clipboard.writeText(text).then(() => { msg.textContent = `Copied ${lines.length} scores.`; }, () => { area.select(); msg.textContent = "Select the text below and copy it."; });
+    } catch (e) { area.select(); msg.textContent = "Select the text below and copy it."; }
+  };
+
+  // ---------- data ----------
+  fetch("items.json").then(r => r.json()).then(data => {
+    items = data;
+    document.getElementById("lede").textContent = `${items.length} researched suggestions for KL, Bangkok, Chiang Mai and Siem Reap, plus wildcard stops and journeys. None are in your current plan. Rate each one 1–10 by how much it excites you. Scores save automatically and Claude reads them to build the final itinerary.`;
+    buildControls();
+    render();
+  }).catch(() => { document.getElementById("main").innerHTML = '<p class="empty">Could not load the list of ideas. Reload the page to try again.</p>'; });
+
+  // ---------- database (shared with Claude) ----------
+  if (window.claude && window.claude.use) {
+    window.claude.use("db").then(d => {
+      if (!d) { setSync("saving in this browser only", true); return; }
+      db = d;
+      setSync("connecting…");
+      let first = true;
+      const timer = setTimeout(() => setSync("can't reach saved scores yet", true), 10000);
+      db.collection("ratings").onSnapshot(snap => {
+        if (!snap.metadata.fromCache) clearTimeout(timer);
+        const remote = {};
+        snap.docs.forEach(doc => { const v = doc.data() || {}; remote[doc.id] = { score: v.score || null, note: v.note || "" }; });
+        if (first && !snap.metadata.fromCache) {
+          first = false;
+          // push scores made while offline / before the db connected
+          Object.keys(ratings).forEach(id => { if (!remote[id] && ratings[id] && (ratings[id].score || ratings[id].note)) persist(id); });
+        }
+        Object.keys(remote).forEach(id => {
+          const a = ratings[id] || {}, b = remote[id];
+          if (a.score !== b.score || (a.note || "") !== b.note) { ratings[id] = b; updateCard(id); }
+        });
+        saveLocal();
+        if (!snap.metadata.hasPendingWrites && !snap.metadata.fromCache) setSync("saved");
+      }, () => { clearTimeout(timer); setSync("saving in this browser only", true); });
+    });
+  } else {
+    setSync("saving in this browser only", true);
+  }
+})();
+</script>
