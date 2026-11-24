@@ -39,3 +39,6 @@ research already; prefers suggestions that are not at the very top of tourist li
 
 ## Logistics findings
 - Thailand–Cambodia land border is CLOSED (since 23 Jun 2025; no reopening date as of Nov 2026). Bangkok → Siem Reap must be a flight (~1 h, ~US$85–110+). Avoid areas within 20 km of the border (UK advice). Sources: gov.uk travel advice for Thailand and Cambodia.
+- Selangor closes forest reserves/eco parks/waterfalls 16 Nov 2026 – 31 Jan 2027 (check FRIM Skywalk). Royal Museum KL closed until 1 Feb 2027.
+- Angkor pass: $37 (1 day) / $62 (3 days) / $72 (7 days). Koh Ker ($15) and Phnom Kulen ($20) are extra. Preah Vihear closed.
+- Doi Luang Chiang Dao trekking bookings for 2026–27 already closed.

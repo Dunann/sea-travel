@@ -16,6 +16,17 @@ OUT_IMAGES = PAGE / "images"
 FILES = ["kl.json", "bangkok.json", "chiang-mai.json", "siem-reap.json", "wildcards.json"]
 MAX_WIDTH = 900
 
+# Ideas found by two researchers; keep one copy so nothing is rated twice.
+# Events stay with their city; whole-stop alternatives stay in Wildcards.
+DUPLICATES = {
+    "wc-nye-bangkok-river",        # = bkk-countdown-iconsiam
+    "wc-nye-chiang-mai-lanterns",  # = cm-new-year-eve
+    "wc-bo-sang-umbrella-festival",  # = cm-bo-sang-umbrella-festival
+    "wc-thaipusam-batu-caves",     # = kl-thaipusam
+    "cm-nan",                      # = wc-nan
+    "cm-sukhothai",                # = wc-sukhothai-si-satchanalai
+}
+
 
 def compress(src: Path, dest: Path) -> bool:
     try:
@@ -41,6 +52,8 @@ def main():
         data = json.loads(path.read_text(encoding="utf-8"))
         print(f"{name}: {len(data)} items")
         for item in data:
+            if item["id"] in DUPLICATES:
+                continue
             if item["id"] in seen:
                 print(f"  ! duplicate id {item['id']}")
                 continue

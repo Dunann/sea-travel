@@ -40,8 +40,8 @@
    13.4468,
    103.9203
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-east-mebon.jpg",
+  "image_credit": "Gary Todd from Xinzheng, China, CC0, https://commons.wikimedia.org/wiki/File%3AEast_Mebon_%289713398037%29.jpg",
   "video": null,
   "links": [
    "https://en.wikipedia.org/wiki/East_Mebon"
@@ -88,8 +88,8 @@
    13.4462,
    103.8722
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-thommanon-chau-say-tevoda.jpg",
+  "image_credit": "Gary Todd, CC0, https://commons.wikimedia.org/wiki/File%3AThommanon%2C_Ancient_Khmer_Temple.jpg",
   "video": null,
   "links": [
    "https://en.wikipedia.org/wiki/Thommanon",
@@ -113,8 +113,8 @@
    13.4475,
    103.8581
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-leper-king-terrace.jpg",
+  "image_credit": "Jorge Láscar from Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File%3ATerrace_of_the_Leper_King_%286208375256%29.jpg",
   "video": null,
   "links": [
    "https://en.wikipedia.org/wiki/Terrace_of_the_Leper_King",
@@ -188,8 +188,8 @@
    13.439,
    103.781
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-west-mebon-baray.jpg",
+  "image_credit": "Vladimir.ira, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File%3AWest_Baray.jpg",
   "video": null,
   "links": [
    "https://en.wikipedia.org/wiki/West_Baray",
@@ -213,8 +213,8 @@
    13.2853,
    103.8176
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-phnom-krom.jpg",
+  "image_credit": "Stefan Fussan, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File%3APhnom_Krom_006.jpg",
   "video": null,
   "links": [
    "https://en.wikipedia.org/wiki/Phnom_Krom",
@@ -238,8 +238,8 @@
    13.3359,
    103.974
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-roluos-group.jpg",
+  "image_credit": "Photo Dharma from Penang, Malaysia, CC BY 2.0, https://commons.wikimedia.org/wiki/File%3ARoulos_Group_-_005_Bakong_%288587796725%29.jpg",
   "video": null,
   "links": [
    "https://en.wikipedia.org/wiki/Roluos_(temples)",
@@ -263,8 +263,8 @@
    13.5989,
    103.963
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-banteay-srei.jpg",
+  "image_credit": "Olaf Tausch, CC BY 3.0, https://commons.wikimedia.org/wiki/File%3ABanteay_Srei_36.jpg",
   "video": null,
   "links": [
    "https://en.wikipedia.org/wiki/Banteay_Srei"
@@ -312,8 +312,8 @@
    13.5628,
    104.1086
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-phnom-kulen.jpg",
+  "image_credit": "yeowatzup, CC BY 2.0, https://commons.wikimedia.org/wiki/File%3APhnom_Kulen%2C_Cambodia_%282211419131%29.jpg",
   "video": null,
   "links": [
    "https://en.wikipedia.org/wiki/Phnom_Kulen",
@@ -337,9 +337,9 @@
    13.4763,
    104.2385
   ],
-  "image": null,
-  "image_credit": null,
-  "video": null,
+  "image": "images/sr-beng-mealea.jpg",
+  "image_credit": "PsamatheM, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File%3A07-Beng_Mealea-nX-3.jpg",
+  "video": "https://www.youtube.com/watch?v=wWbY_KixTRQ",
   "links": [
    "https://en.wikipedia.org/wiki/Beng_Mealea",
    "https://adventurescambodia.com/blog/beng-mealea-temple/"
@@ -387,8 +387,8 @@
    13.4098,
    104.8061
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-preah-khan-kompong-svay.jpg",
+  "image_credit": "Alison Kyra Carter, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File%3APrasat_Preah_Stung.jpg",
   "video": null,
   "links": [
    "https://en.wikipedia.org/wiki/Preah_Khan_Kompong_Svay"
@@ -411,8 +411,8 @@
    14.0716,
    103.0982
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-banteay-chhmar.jpg",
+  "image_credit": "Photo Dharma from Penang, Malaysia, CC BY 2.0, https://commons.wikimedia.org/wiki/File%3ABanteay_Chhmar_-_072_Striking_Face_%288594528980%29.jpg",
   "video": null,
   "links": [
    "https://en.wikipedia.org/wiki/Banteay_Chhmar",
@@ -461,8 +461,8 @@
    13.1308,
    104.347
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-spean-praptos.jpg",
+  "image_credit": "Pavel Kirillov from St.Petersburg, Russia, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File%3ASpean_Praptos_%2843692764382%29.jpg",
   "video": null,
   "links": [
    "https://en.wikipedia.org/wiki/Spean_Praptos",
@@ -487,7 +487,7 @@
    103.64
   ],
   "image": "images/sr-prek-toal.jpg",
-  "image_credit": "Remi Jouan, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File%3APrek_Toal_%281%29.JPG",
+  "image_credit": "shankar s. from Dubai, united arab emirates, CC BY 2.0, https://commons.wikimedia.org/wiki/File%3ALesser_Adjutants_in_conference_upon_a_tree_%2814144579450%29.jpg",
   "video": null,
   "links": [
    "https://en.wikipedia.org/wiki/Prek_Toal_Bird_Sanctuary",
@@ -508,8 +508,8 @@
   "cost": "~$18-38 (Section A $38); not on the Angkor pass",
   "best_time": "Nightly at 8 pm; from Nov 2026 to Mar 2027 also a 5 pm show on Wed, Fri and Sun. Book a few days ahead over Christmas/New Year.",
   "coords": [
-   13.3594,
-   103.8468
+   13.3565,
+   103.84
   ],
   "image": "images/sr-phare-circus.jpg",
   "image_credit": "flowcomm, CC BY 2.0, https://commons.wikimedia.org/wiki/File%3APhare_Circus%2C_Siem_Reap%2C_Cambodia.jpg",
@@ -536,8 +536,8 @@
    13.5383,
    103.9484
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-landmine-museum.jpg",
+  "image_credit": "Akiraclmmrf, CC BY 4.0, https://commons.wikimedia.org/wiki/File%3AArtilleries_at_Cambodia_Landmine_Museum.jpg",
   "video": null,
   "links": [
    "https://www.cambodialandminemuseum.org/plan-your-visit/",
@@ -561,8 +561,8 @@
    13.4005,
    103.757
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-angkor-silk-farm.jpg",
+  "image_credit": "Piseth1, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File%3AAngkor_Silk_Farm.JPG",
   "video": null,
   "links": [
    "https://artisansangkor.com/visit-us/angkor-silk-farm/"
@@ -610,8 +610,8 @@
    13.3591,
    103.8634
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-wat-bo-kandal.jpg",
+  "image_credit": "No(0)GoodNamesLeft, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File%3A01-Wat_Bo_Siem_Reap-NglL-06610.jpg",
   "video": null,
   "links": [
    "https://en.wikipedia.org/wiki/Wat_Bo"
@@ -634,8 +634,8 @@
    13.3615,
    103.881
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-psar-leu.jpg",
+  "image_credit": "Turaids, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File%3ANum_Krouch%2C_Num_Krong%2C_and_Num_Pong_Ansorng.jpg",
   "video": null,
   "links": [
    "https://www.lonelyplanet.com/cambodia/siem-reap"
@@ -682,8 +682,8 @@
    13.4243,
    103.8637
   ],
-  "image": null,
-  "image_credit": null,
+  "image": "images/sr-angkor-balloon.jpg",
+  "image_credit": "jokertrekker, CC BY 3.0, https://commons.wikimedia.org/wiki/File%3AAngkor_Wat_from_the_Balloon_-_panoramio.jpg",
   "video": null,
   "links": [
    "https://www.siemreap.net/category/visit/angkor"
