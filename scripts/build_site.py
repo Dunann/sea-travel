@@ -115,7 +115,14 @@ def main():
 
     cities = []
     for meta in cfg["cities"]:
-        det = load(f"research/details-{meta['key']}.json")
+        if not (ROOT / f"research/details-{meta['key']}.json").exists():
+            print(f"skipping {meta['key']}: no details yet")
+            continue
+        try:
+            det = load(f"research/details-{meta['key']}.json")
+        except json.JSONDecodeError as e:
+            print(f"skipping {meta['key']}: details file mid-write ({e})")
+            continue
         city = dict(meta)
         for k in ("intro", "stay", "arrival", "getting_around", "weather", "etiquette", "transport_out"):
             city.setdefault(k, det.get(k))

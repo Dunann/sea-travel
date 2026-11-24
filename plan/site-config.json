@@ -1,0 +1,27 @@
+{
+  "title": "Sixteen Nights: KL to Angkor",
+  "dates": "Tue 29 Dec 2026 – Thu 14 Jan 2027 · 16 nights",
+  "summary": "New Year's Eve under the Kuala Lumpur skyline, five days of temples and canals in Bangkok, the mountain temples of Chiang Mai, and four days among the ruins of Angkor.",
+  "hero": "images/sr-ta-som.jpg",
+  "hero_credit": "",
+  "extras_hero": "images/wc-sukhothai-si-satchanalai.jpg",
+  "practical_hero": "images/wc-bangkok-chiang-mai-sleeper.jpg",
+  "principles": [
+    "Your own day-by-day plan is the backbone; every stop you planned is kept unless it is closed on the day it falls on.",
+    "Ideas you scored 7–9 were slotted in where they sit next to something you had already planned, so they add little travel time.",
+    "Ideas you scored 4 or lower were dropped. Ideas you scored 5–6 appear as optional stops or in the backup list.",
+    "Days are deliberately overbooked. Optional stops (dashed numbers) are the first things to cut.",
+    "Days were checked against weekday opening rules — for example Chatuchak and Chiang Mai's Coconut Market are weekend-only, and Bangkok's National Museum is closed Monday and Tuesday."
+  ],
+  "cities": [
+    {"key": "kl", "name": "Kuala Lumpur", "short": "KL", "code": "KL", "color": "#2a5db0", "dates": "29–31 Dec", "nights": 3, "tagline": "Old colonial core, Putrajaya's domes, and New Year's Eve fireworks.", "center": [3.1478, 101.6953], "hero": "images/kl-masjid-wilayah.jpg"},
+    {"key": "bangkok", "name": "Bangkok", "short": "Bangkok", "code": "BKK", "color": "#b8860b", "dates": "1–5 Jan", "nights": 5, "tagline": "Rattanakosin's palaces, Thonburi's canals, Ayutthaya, and rooftop sunsets.", "center": [13.7525, 100.4935], "hero": "images/bkk-wat-ratchabophit.jpg"},
+    {"key": "chiang-mai", "name": "Chiang Mai", "short": "Chiang Mai", "code": "CM", "color": "#3f7d3a", "dates": "6–9 Jan", "nights": 4, "tagline": "Lanna temples, a night on Doi Suthep, and the valleys to the north.", "center": [18.7883, 98.9853], "hero": "images/cm-wat-chedi-luang-night.jpg"},
+    {"key": "siem-reap", "name": "Siem Reap", "short": "Siem Reap", "code": "SR", "color": "#a4502f", "dates": "10–13 Jan", "nights": 4, "tagline": "Angkor at sunrise on foot, the grand circuit by bike, and life on the Tonle Sap.", "center": [13.3671, 103.8448], "hero": "images/sr-baphuon-palilay.jpg"}
+  ],
+  "legs": [],
+  "route_options": [],
+  "checklist": [],
+  "practical": [],
+  "open_questions": []
+}

@@ -4,8 +4,8 @@
   "use strict";
   let trip = null;
   const app = document.getElementById("app");
-  const TILE_URL = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png";
-  const TILE_ATTR = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>';
+  const TILE_URL = "https://tile.openstreetmap.org/{z}/{x}/{y}.png";
+  const TILE_ATTR = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
   const DAY_COLORS = ["#c7700f", "#1f6f6a", "#7b4bb3", "#c23b5a", "#2a7fb8", "#5f7d1a", "#8a5a2b"];
 
   // ---------- helpers ----------
@@ -26,7 +26,7 @@
 
   function baseMap(el, opts) {
     const m = L.map(el, Object.assign({ scrollWheelZoom: false, zoomControl: true }, opts || {}));
-    L.tileLayer(TILE_URL, { attribution: TILE_ATTR, subdomains: "abcd", maxZoom: 19 }).addTo(m);
+    L.tileLayer(TILE_URL, { attribution: TILE_ATTR, maxZoom: 19 }).addTo(m);
     return m;
   }
   function numIcon(n, color, optional) {
