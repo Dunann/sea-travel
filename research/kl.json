@@ -320,5 +320,375 @@
    "https://www.thestar.com.my/metro/metro-news/2024/01/13/saturday-night-fever-in-the-city",
    "https://www.timeout.com/kuala-lumpur/shopping/best-night-markets-in-kl"
   ]
+ },
+ {
+  "id": "kl-forest-eco-park",
+  "region": "Kuala Lumpur",
+  "name": "KL Forest Eco Park canopy walk (Bukit Nanas)",
+  "area": "Bukit Nanas, city centre below KL Tower",
+  "category": "Nature & hikes",
+  "blurb": "Malaysia's oldest protected forest (gazetted 1906), a patch of real rainforest in the middle of the city. A canopy walkway of suspended bridges runs through the treetops with glimpses of KL Tower and the skyscrapers, and short trails lead past giant trees and macaque troops.",
+  "why": "Rainforest and skyline in one easy walk; it fits neatly with the KL Tower visit already on KL3.",
+  "touristiness": 3,
+  "time_needed": "1-1.5 h",
+  "getting_there": "Walk from Bukit Nanas monorail / Dang Wangi LRT, or down from KL Tower.",
+  "cost": "Small entry fee for foreigners (check at the gate; a few US$)",
+  "best_time": "Roughly 8:00-16:30 (recent reports say closed Fridays; canopy walk shuts in heavy rain). Go early morning before the afternoon storms common in Dec-Jan. Federal Territory park, so not affected by Selangor's monsoon closure.",
+  "coords": [
+   3.1527,
+   101.7032
+  ],
+  "image": "images/kl-forest-eco-park.jpg",
+  "image_credit": "RivieraBarnes, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:KL_Forest_Eco-Park_Canopy_Walk_8.jpg",
+  "video": null,
+  "links": [
+   "https://rollinggrace.com/2026/04/03/kl-forest-eco-park-canopy-walk/",
+   "https://www.malaysia.travel/explore/kl-forest-eco-park"
+  ]
+ },
+ {
+  "id": "kl-taman-tugu",
+  "region": "Kuala Lumpur",
+  "name": "Taman Tugu forest trails & National Monument",
+  "area": "Next to Perdana Botanical Gardens, 5 min from Merdeka Square",
+  "category": "Nature & hikes",
+  "blurb": "A 66-acre secondary rainforest restored as a free urban park, with about 5 km of shaded trails, streams and a tree nursery, right beside the bronze National Monument (Tugu Negara). You can walk from the forest straight to the monument's fountains and colonnade.",
+  "why": "Peaceful green space with almost no tourists, a short walk from Perdana Gardens and Seri Negara.",
+  "touristiness": 1,
+  "time_needed": "1-2 h",
+  "getting_there": "Main entrance on Persiaran Sultan Salahuddin; 5-min Grab from Merdeka Square or walk from Perdana Gardens.",
+  "cost": "Free",
+  "best_time": "Daily about 7:00-18:30 (last entry ~17:45). Early morning is coolest; trails can be muddy after afternoon storms.",
+  "coords": [
+   3.1555,
+   101.687
+  ],
+  "image": "images/kl-taman-tugu.jpg",
+  "image_credit": "Stress 043, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nursery_Trail_Taman_Tugu.jpg",
+  "video": null,
+  "links": [
+   "https://www.malaysia-traveller.com/taman-tugu-forest-trail.html",
+   "https://en.wikipedia.org/wiki/Taman_Tugu"
+  ]
+ },
+ {
+  "id": "kl-bukit-gasing",
+  "region": "Kuala Lumpur",
+  "name": "Bukit Gasing forest hike",
+  "area": "KL / Petaling Jaya border, ~20 min south-west of centre",
+  "category": "Nature & hikes",
+  "blurb": "A hilly patch of forest with a network of trails, small streams and a suspension bridge, popular with local morning walkers and barely known to visitors. A loop of 1.5-2 hours gives a proper jungle feel, with glimpses of the city between the trees.",
+  "why": "A real, quiet rainforest hike close to the city without a long trip out.",
+  "touristiness": 1,
+  "time_needed": "2-3 h incl. transfer",
+  "getting_there": "Grab ~20 min (RM15-20) to the Jalan Gasing (PJ) or Jalan Bukit Gasing (KL) entrance.",
+  "cost": "Free",
+  "best_time": "7:00-10:00 before the heat. Dec-Jan is monsoon season: trails get slippery and the suspension bridge is sometimes roped off for repairs. Selangor closes forest reserves 16 Nov 2026-31 Jan 2027; Bukit Gasing is a municipal park, but check recent hiker reports before going.",
+  "coords": [
+   3.096,
+   101.6618
+  ],
+  "image": "images/kl-bukit-gasing.jpg",
+  "image_credit": "Awan Senja, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bukit_Gasing_Hiking_Trail.jpg",
+  "video": null,
+  "links": [
+   "https://www.tahanoutdoor.com/blogs/camping/bukit-gasing-hikers-guide"
+  ]
+ },
+ {
+  "id": "kl-puncak-alop",
+  "region": "Kuala Lumpur",
+  "name": "Puncak Alop (new Ampang hilltop lookout)",
+  "area": "Bukit Ampang, ~25 min east of KLCC",
+  "category": "Skyline & views",
+  "blurb": "A hilltop viewpoint above the old Ampang Lookout that reopened in March 2026 after a full redevelopment. The main platform, Puncak Hauz, looks across the whole skyline: Petronas Towers, Merdeka 118, Exchange 106 and KL Tower, with a cafe and restaurant on site.",
+  "why": "A brand-new, little-known lookout with the whole skyline in one frame, ideal for sunset into night.",
+  "touristiness": 1,
+  "time_needed": "2 h incl. transfer",
+  "getting_there": "Grab ~25-30 min from KLCC (RM20-30 each way); the road up is dark, so pre-book or wait for a return Grab.",
+  "cost": "Free entry; food and drinks at the cafe",
+  "best_time": "Open about 12:00-21:00; arrive around 18:30 for sunset (about 19:15 in Dec-Jan) and stay for the lights. Do not confuse with the older lookout stalls at the foot of the hill.",
+  "coords": [
+   3.159,
+   101.768
+  ],
+  "image": "images/kl-puncak-alop.jpg",
+  "image_credit": "AyyanD, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:KLCC_skyline%2C_Ampang.jpg",
+  "video": null,
+  "links": [
+   "https://www.thestar.com.my/lifestyle/travel/2026/04/03/take-in-the-kl-city-skyline-from-puncak-alop",
+   "https://thesmartlocal.my/puncak-alop/"
+  ]
+ },
+ {
+  "id": "kl-heli-lounge",
+  "region": "Kuala Lumpur",
+  "name": "Heli Lounge Bar (helipad rooftop)",
+  "area": "Menara KH, Jalan Sultan Ismail, Bukit Bintang",
+  "category": "Skyline & views",
+  "blurb": "A bar on level 34 that, from late afternoon, opens the working helipad on the roof for drinks with no glass walls in the way. You get an open 360-degree view of KL Tower, the Petronas Towers and the Bukit Bintang lights.",
+  "why": "The most open-air, unfiltered skyline view in central KL, with a slight thrill of standing on a real helipad.",
+  "touristiness": 3,
+  "time_needed": "1.5-2 h",
+  "getting_there": "5-min walk from Raja Chulan monorail or Bukit Bintang.",
+  "cost": "One drink minimum; cocktails about RM40-60 (~US$10-14)",
+  "best_time": "Opens about 17:00; arrive by 18:00 for sunset. The helipad closes in rain, common on Dec-Jan afternoons, so have a backup evening. Smart casual dress.",
+  "coords": [
+   3.149,
+   101.708
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://timeout.com/kuala-lumpur/bars-and-pubs/heli-lounge-bar",
+   "https://therooftopguide.com/rooftop-news/hyped-kuala-lumpur-rooftop-bars.html"
+  ]
+ },
+ {
+  "id": "kl-trx-city-park",
+  "region": "Kuala Lumpur",
+  "name": "TRX City Park (rooftop park at The Exchange TRX)",
+  "area": "Tun Razak Exchange, 10 min walk from Bukit Bintang",
+  "category": "Skyline & views",
+  "blurb": "A 10-acre landscaped park on the roof of The Exchange TRX mall, opened in late 2023, with lawns, water features and walking paths. From here the new skyline towers over you: Exchange 106 right above and Merdeka 118 in the distance.",
+  "why": "A calm, free place to see KL's newest supertall skyline, best as the lights come on.",
+  "touristiness": 2,
+  "time_needed": "1 h",
+  "getting_there": "TRX MRT station (Kajang / Putrajaya lines) connects directly to the mall; 10-15 min walk from Bukit Bintang.",
+  "cost": "Free",
+  "best_time": "Around 18:30-20:30 for sunset and the lit-up towers. Expect Christmas decorations in December.",
+  "coords": [
+   3.142,
+   101.7185
+  ],
+  "image": "images/kl-trx-city-park.jpg",
+  "image_credit": "angys*, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:TRX_City_Park_at_night_%28231211%29.jpg",
+  "video": null,
+  "links": [
+   "https://theexchange.my/discover/trx-city-park",
+   "https://says.com/my/lifestyle/hidden-gem-spots-trx-city-park"
+  ]
+ },
+ {
+  "id": "kl-lazat-cooking",
+  "region": "Kuala Lumpur",
+  "name": "LaZat Malaysian cooking class with market tour",
+  "area": "Kampung-style house near Bukit Kiara, ~20 min west of centre",
+  "category": "Experiences",
+  "blurb": "A long-running, highly rated class that starts with a guided tour of a local wet market, then moves to a traditional house to cook classics such as nasi lemak with sambal, a curry or rendang, and a Malay dessert. You eat everything you make for lunch.",
+  "why": "A hands-on way to understand Malay food culture, set in a quiet, green spot away from the centre.",
+  "touristiness": 2,
+  "time_needed": "about 5.5 h (8:30-14:00)",
+  "getting_there": "Meeting point and transport depend on booking; Grab ~20 min from the centre.",
+  "cost": "Roughly RM350-650 (~US$85-155) per person depending on booking site",
+  "best_time": "Morning sessions on set days; book a few weeks ahead for the late-December holiday period.",
+  "coords": [
+   3.156,
+   101.63
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.cookly.me/do/241-authentic-and-genuine-malaysian-cooking-class-with-market-tour/in/kuala-lumpur",
+   "https://www.byfood.com/experiences/authentic-malaysian-cooking-class-with-market-tour-30032"
+  ]
+ },
+ {
+  "id": "kl-kuala-selangor",
+  "region": "Kuala Lumpur",
+  "name": "Kuala Selangor: Bukit Melawati fort & firefly river",
+  "area": "Kuala Selangor, ~1.5 h north-west of KL",
+  "category": "Day trips",
+  "blurb": "Afternoon on Bukit Melawati, the hill fort of the old Selangor sultans, with cannons, an old lighthouse, royal tombs and friendly silvered leaf monkeys. At dusk, a small boat glides along the Selangor River at Kampung Kuantan, where thousands of fireflies flash in sync in the mangrove trees.",
+  "why": "History, wildlife and a magical, peaceful night-time experience in one half-day.",
+  "touristiness": 3,
+  "time_needed": "Half day (14:00-22:00)",
+  "getting_there": "Private driver or tour (~1.5 h each way); no practical public transport for the evening return.",
+  "cost": "Boat about RM15-20 pp (~US$4-5); tours from KL about RM150-250 (~US$35-60)",
+  "best_time": "Late afternoon at the fort, fireflies 19:45-21:00. Best on dark, moonless, dry nights; rain can cancel boats in Dec-Jan. Sekinchan's paddy fields are nearby, but are often already harvested by December.",
+  "coords": [
+   3.3398,
+   101.2464
+  ],
+  "image": "images/kl-kuala-selangor.jpg",
+  "image_credit": "Leonard Reback, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bukit_Melawati_cannons.jpg",
+  "video": null,
+  "links": [
+   "https://www.headout.com/kampung-kuantan-fireflies-park-tours/kuala-selangors-kampung-kuantan-fireflies-park-tour-e-14091"
+  ]
+ },
+ {
+  "id": "kl-pulau-ketam",
+  "region": "Kuala Lumpur",
+  "name": "Pulau Ketam (Crab Island) fishing village",
+  "area": "Off Port Klang, ~2 h by train + ferry",
+  "category": "Day trips",
+  "blurb": "A Chinese fishing village built on stilts over mangrove mudflats, reached by a 30-45 minute ferry from Port Klang. Walk the plank lanes past colourful houses and temples, rent a bicycle and eat a seafood lunch of crab and chilli prawns.",
+  "why": "An adventurous, very local half-day by train and boat, in a slower world far from city towers.",
+  "touristiness": 2,
+  "time_needed": "Half to full day",
+  "getting_there": "KTM Komuter from KL Sentral to Pelabuhan Klang (~1 h 20), then ferry from the nearby South Port jetty.",
+  "cost": "Train RM5 (~US$1); ferry about RM10 each way (~US$2.50); lunch RM40-80 (~US$10-20)",
+  "best_time": "Weekdays are quietest. Leave early; last ferries back are about 17:30 (weekdays) / 18:00 (weekends).",
+  "coords": [
+   3.0267,
+   101.255
+  ],
+  "image": "images/kl-pulau-ketam.jpg",
+  "image_credit": "白布飘扬, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:View_of_Pulau_Ketam_02.JPG",
+  "video": null,
+  "links": [
+   "https://thestar.com.my/lifestyle/travel/2024/09/15/it039s-easy-to-get-to-pulau-ketam-from-the-klang-valley-using-public-transport-says-this-traveller"
+  ]
+ },
+ {
+  "id": "kl-royal-klang",
+  "region": "Kuala Lumpur",
+  "name": "Royal Klang heritage walk & bak kut teh",
+  "area": "Klang, ~1 h south-west by Komuter",
+  "category": "Day trips",
+  "blurb": "Selangor's old royal town: start at the Sultan Abdul Aziz Royal Gallery in a 1909 colonial building, then walk the heritage trail to Gedung Raja Abdullah, the Art Deco Sultan Sulaiman Royal Mosque (1933) and the exterior of Istana Alam Shah. Finish in Klang's Little India and eat bak kut teh, the herbal pork soup that was born here.",
+  "why": "Rich history and real local life with almost no foreign tourists, easy by train.",
+  "touristiness": 1,
+  "time_needed": "Half day",
+  "getting_there": "KTM Komuter from KL Sentral to Klang (~1 h); walk or short Grab between sights.",
+  "cost": "Train RM5 (~US$1); gallery a few RM; bak kut teh RM20-30 (~US$5-7)",
+  "best_time": "Morning start; bak kut teh is a breakfast dish. Check gallery hours (usually closed Mondays) and mosque visiting times.",
+  "coords": [
+   3.043,
+   101.447
+  ],
+  "image": "images/kl-royal-klang.jpg",
+  "image_credit": "Qaedi Shamsuddin, CC BY 2.0, https://commons.wikimedia.org/wiki/File:The_Exterior_of_Masjid_Diraja_Sultan_Suleiman.jpg",
+  "video": null,
+  "links": [
+   "https://www.thestar.com.my/lifestyle/travel/2024/09/19/klang039s-heritage-walk-showcases-the-historical-charms-of-the-royal-city",
+   "https://selangor.travel/exploring-royal-klang-a-journey-through-heritage-culture-and-flavours/"
+  ]
+ },
+ {
+  "id": "kl-jugra-carey",
+  "region": "Kuala Lumpur",
+  "name": "Jugra old royal capital & Carey Island (Mah Meri)",
+  "area": "Kuala Langat, ~1 h 15 south-west of KL",
+  "category": "Day trips",
+  "blurb": "Jugra was Selangor's royal capital in the late 1800s: drive up Bukit Jugra past ruins to the lighthouse lookout over the Langat estuary (also a tandem paragliding launch), and see the 1899 Istana Bandar palace (exterior; awaiting restoration) and the old royal mosque. Nearby on Carey Island, the Mah Meri Cultural Village shows the indigenous Mah Meri's famous spirit carvings and masks.",
+  "why": "Off-the-map history, wide views and indigenous culture: real adventure an hour from KL.",
+  "touristiness": 1,
+  "time_needed": "Full day",
+  "getting_there": "Needs a car or hired Grab/driver (~1 h 15 each way); no useful public transport.",
+  "cost": "Mostly free; driver about RM300-400 (~US$70-95) for the day; tandem paragliding about RM200-250 (~US$50-60)",
+  "best_time": "Morning start; Mah Meri village is most reliably open at weekends (check ahead). Paragliding depends on weather.",
+  "coords": [
+   2.8383,
+   101.4116
+  ],
+  "image": "images/kl-jugra-carey.jpg",
+  "image_credit": "Slleong, CC0, https://commons.wikimedia.org/wiki/File:Jugra_Hill_3.jpg",
+  "video": null,
+  "links": [
+   "https://www.thestar.com.my/metro/metro-news/2026/08/13/selangor-seeks-rm20mil-to-restore-historic-istana-bandar",
+   "https://www.visitselangor.com/?p=928"
+  ]
+ },
+ {
+  "id": "kl-frasers-hill",
+  "region": "Kuala Lumpur",
+  "name": "Fraser's Hill colonial hill station",
+  "area": "Pahang highlands, ~2 h north of KL",
+  "category": "Day trips",
+  "blurb": "A small 1920s British hill station at about 1,500 m, with a stone clock tower, Tudor-style bungalows, misty jungle trails and some of Malaysia's best birdwatching. It is cool (around 18-24 C), quiet and feels like an old English village in the rainforest.",
+  "why": "Peaceful, atmospheric and full of colonial history; a calm alternative to the ruled-out Genting.",
+  "touristiness": 2,
+  "time_needed": "Full day (or 1 night)",
+  "getting_there": "Private car or driver ~2 h via Kuala Kubu Bharu and The Gap; no petrol station at the top. Tours from KL also run.",
+  "cost": "Driver about RM400-600 (~US$95-140) return; guided tours similar per person",
+  "best_time": "Start early (mist clears mid-morning; showers likely in the afternoon in Dec-Jan). Some forest trails or waterfalls can close in monsoon; town walks and viewpoints stay open.",
+  "coords": [
+   3.7128,
+   101.7365
+  ],
+  "image": "images/kl-frasers-hill.jpg",
+  "image_credit": "Slleong, CC0, https://commons.wikimedia.org/wiki/File:Frasers_Hill_1.jpg",
+  "video": null,
+  "links": [
+   "https://audleytravel.com/ca/malaysia/places-to-go/frasers-hill",
+   "https://en.wikipedia.org/wiki/Fraser%27s_Hill"
+  ]
+ },
+ {
+  "id": "kl-nye-countdown",
+  "region": "Kuala Lumpur",
+  "name": "New Year's Eve fireworks (31 Dec 2026)",
+  "area": "KLCC Park, KL Tower, Pavilion / Bukit Bintang, Merdeka 118",
+  "category": "Events",
+  "blurb": "KL rings in the New Year with fireworks over the Petronas Towers, a countdown in KLCC Park, a light show and parties around Bukit Bintang and KL Tower. Last year's (2025/26) events included Rhythm of KLCC, a 10-minute fireworks show at Pavilion and a KL Tower countdown.",
+  "why": "The skyline at its most spectacular; watch from a rooftop or hotel pool for a calmer view.",
+  "touristiness": 4,
+  "time_needed": "Evening",
+  "getting_there": "Trains run late but are packed; walking is easiest from Bukit Bintang / KLCC hotels.",
+  "cost": "Free outdoors; rooftop bar or KL Tower packages from roughly RM200+ (~US$50+)",
+  "best_time": "31 Dec 2026; claim a spot in KLCC Park by about 21:00. 2026/27 programmes are usually announced in mid-December.",
+  "coords": [
+   3.154,
+   101.714
+  ],
+  "image": "images/kl-nye-countdown.jpg",
+  "image_credit": "Firdaus Latif, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:MALAM_TAHUN_BARU_%285309956159%29.jpg",
+  "video": null,
+  "links": [
+   "https://www.thestar.com.my/metro/metro-news/2025/12/31/countdown-hotspots-in-klang-valley",
+   "https://www.pamper.my/news/lifestyle/new-years-eve-countdown-2026-kuala-lumpur"
+  ]
+ },
+ {
+  "id": "kl-pongal",
+  "region": "Kuala Lumpur",
+  "name": "Thai Pongal harvest festival (14-17 Jan 2027)",
+  "area": "Brickfields and Hindu temples across KL; Klang's Little India",
+  "category": "Events",
+  "blurb": "The Tamil harvest festival: families boil fresh rice with milk and jaggery in decorated clay pots until it overflows (a sign of plenty), and draw rice-flour kolam patterns at doorways. Brickfields fills with stalls selling clay pots, sugarcane and flowers, and temples hold morning pongal prayers.",
+  "why": "An authentic, little-known community festival if your dates reach mid-January.",
+  "touristiness": 1,
+  "time_needed": "2-3 h",
+  "getting_there": "Brickfields is a 5-min walk from KL Sentral.",
+  "cost": "Free",
+  "best_time": "Main day Friday 15 Jan 2027 (Bhogi 14 Jan); go early morning to see pots boiling at temples, then browse the market stalls in the days before.",
+  "coords": [
+   3.1302,
+   101.6862
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.drikpanchang.com/festivals/pongal/thai-pongal-date-time.html?year=2027"
+  ]
+ },
+ {
+  "id": "kl-thaipusam",
+  "region": "Kuala Lumpur",
+  "name": "Thaipusam at Batu Caves (22 Jan 2027)",
+  "area": "Batu Caves, 13 km north; procession starts in Chinatown",
+  "category": "Events",
+  "blurb": "Malaysia's most dramatic festival: hundreds of thousands of Hindu devotees climb the 272 steps to Batu Caves carrying ornate kavadi frames, some with skin piercings, to the sound of drums. Two nights before, a silver chariot leaves the Sri Mahamariamman Temple in Chinatown for an all-night procession to the caves.",
+  "why": "An extraordinary cultural spectacle, but only if your trip runs to about 21-22 January (just after the planned window).",
+  "touristiness": 5,
+  "time_needed": "Half night or early morning",
+  "getting_there": "KTM Komuter to Batu Caves (very crowded; extra trains run).",
+  "cost": "Free",
+  "best_time": "Procession on the night of 20-21 Jan; main day Friday 22 Jan 2027. Arrive before dawn. Dress modestly, expect huge crowds.",
+  "coords": [
+   3.2379,
+   101.684
+  ],
+  "image": "images/kl-thaipusam.jpg",
+  "image_credit": "*angys*, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Sri_Subramaniar_Swamy_Temple_and_Crowds_at_Batu_Caves_%28250211%29.jpg",
+  "video": null,
+  "links": [
+   "https://www.officeholidays.com/holidays/malaysia/kuala-lumpur/thaipusam"
+  ]
  }
 ]
