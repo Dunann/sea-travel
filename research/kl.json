@@ -1,0 +1,324 @@
+[
+ {
+  "id": "kl-seri-negara",
+  "region": "Kuala Lumpur",
+  "name": "Seri Negara (former Carcosa Seri Negara)",
+  "area": "Perdana Botanical Gardens, 5 min from Merdeka Square",
+  "category": "History & temples",
+  "blurb": "The hilltop colonial mansions built for Britain's top officials in the 1890s, where Malaya's independence documents were signed. Reopened in December 2025 after a Khazanah restoration, it now has five heritage galleries (a short history film, independence-era documents, the old dining room 'Ruang Merdeka' with Malaysian art) plus verandahs over the gardens and a cafe.",
+  "why": "A quiet, newly reopened colonial landmark right next to the Perdana Gardens already on KL1, with real history and few foreign visitors yet.",
+  "touristiness": 2,
+  "time_needed": "1.5-2 h",
+  "getting_there": "Walk or 5-min Grab from Perdana Botanical Gardens / Masjid Negara; entrance on Persiaran Tuanku Ja'afar.",
+  "cost": "Guided tour about RM50 (~US$12), self-guided about RM40 (~US$10) since June 2026",
+  "best_time": "Tue-Sun 10:00-18:00, closed Mondays. Book the guided gallery tour online. Pair with a morning in Perdana Gardens before the afternoon rain.",
+  "coords": [
+   3.1428,
+   101.6846
+  ],
+  "image": "images/kl-seri-negara.jpg",
+  "image_credit": "Renek78, CC0, https://commons.wikimedia.org/wiki/File:2026_-_Seri_Negara_12.jpg",
+  "video": null,
+  "links": [
+   "https://thesmartlocal.my/seri-negara/",
+   "https://www.malaymail.com/amp/news/malaysia/2025/12/15/a-symbol-reborn-historic-seri-negara-reopens-to-public-on-dec-20-after-meticulous-restoration/201989"
+  ]
+ },
+ {
+  "id": "kl-chan-she-shu-yuen",
+  "region": "Kuala Lumpur",
+  "name": "Chan She Shu Yuen Clan Association",
+  "area": "South end of Jalan Petaling, Chinatown",
+  "category": "History & temples",
+  "blurb": "An 1890s Cantonese clan ancestral hall with some of the finest ceramic roof friezes and carved wood in Malaysia, modelled on Guangzhou's Chen Clan Academy. Step inside to see the ancestral altars, incense smoke and courtyards that most Petaling Street shoppers walk straight past.",
+  "why": "A genuinely beautiful, peaceful piece of Chinese heritage that sits just beyond the tourist stretch of Chinatown you already plan to visit.",
+  "touristiness": 2,
+  "time_needed": "30-45 min",
+  "getting_there": "5-min walk south from Petaling Street market; Pasar Seni or Maharajalela stations.",
+  "cost": "Free or a few RM donation (~US$1)",
+  "best_time": "Roughly 9:00-17:00 daily; weekday mornings are quietest. Combine with KL1 Chinatown.",
+  "coords": [
+   3.1393,
+   101.6973
+  ],
+  "image": "images/kl-chan-she-shu-yuen.jpg",
+  "image_credit": "Marcin Konsek, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur%2C_%C5%9Awi%C4%85tynia_Chan_She_Shu_Yuen_%2802%29.jpg",
+  "video": null,
+  "links": [
+   "https://www.malaysia-traveller.com/chan-she-shu-yuen.html"
+  ]
+ },
+ {
+  "id": "kl-old-railway-station",
+  "region": "Kuala Lumpur",
+  "name": "Old Kuala Lumpur Railway Station",
+  "area": "Jalan Sultan Hishamuddin, 10 min walk from Merdeka Square",
+  "category": "History & temples",
+  "blurb": "A 1910 Indo-Saracenic railway station of white domes, minarets and arches, facing the equally ornate KTM headquarters across the road. The front was restored in 2026 and the government has just announced a fuller restoration for tourism; it is still a working Komuter stop, so you can wander the old platforms.",
+  "why": "One of KL's most striking colonial buildings, photogenic and almost empty of tourists.",
+  "touristiness": 2,
+  "time_needed": "30-45 min",
+  "getting_there": "Walk from Masjid Negara / Islamic Arts Museum, or KTM Komuter to Kuala Lumpur station.",
+  "cost": "Free",
+  "best_time": "Late afternoon light on the facade; photograph the station and the KTM HQ together from the road. Pairs with the Islamic Arts Museum (KL3 optional).",
+  "coords": [
+   3.1396,
+   101.6936
+  ],
+  "image": "images/kl-old-railway-station.jpg",
+  "image_credit": "Marcin Konsek, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur%2C_Stacja_kolejowa_Kuala_Lumpur_%2801%29.jpg",
+  "video": null,
+  "links": [
+   "https://www.thestar.com.my/metro/metro-news/2026/08/07/on-track-to-preserve-century-old-kl-landmark",
+   "https://www.malaysia-traveller.com/kl-railway-station.html"
+  ]
+ },
+ {
+  "id": "kl-masjid-wilayah",
+  "region": "Kuala Lumpur",
+  "name": "Masjid Wilayah Persekutuan (Federal Territory Mosque)",
+  "area": "Jalan Duta, ~15 min drive north-west of centre",
+  "category": "History & temples",
+  "blurb": "A 2000 mosque blending Ottoman and Malay design, with 22 blue domes and minarets reflected in a surrounding lake, often called KL's Blue Mosque. Non-Muslim visitors are welcomed with robes at Door B and free volunteer-led tours explain the architecture and faith.",
+  "why": "Grand, serene and calm, and much less visited than the National Mosque, with a lovely reflection photo from across the water.",
+  "touristiness": 2,
+  "time_needed": "1-1.5 h",
+  "getting_there": "Grab ~15-20 min from KLCC (RM15-20); no convenient train.",
+  "cost": "Free (robes provided)",
+  "best_time": "Visitor hours roughly 10:00-12:30 and 14:00-16:00 outside prayer times; avoid Friday midday. Late afternoon for the lake reflection.",
+  "coords": [
+   3.172,
+   101.6699
+  ],
+  "image": "images/kl-masjid-wilayah.jpg",
+  "image_credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Malaysia_Federal-Territory-Mosque-01.jpg",
+  "video": null,
+  "links": [
+   "https://masjidwilayah.gov.my/index.php/mosque-tour-programme",
+   "https://kualalumpurcity.my/?p=9034"
+  ]
+ },
+ {
+  "id": "kl-rumah-penghulu",
+  "region": "Kuala Lumpur",
+  "name": "Rumah Penghulu Abu Seman (Badan Warisan Heritage Centre)",
+  "area": "Jalan Stonor, 10 min walk from KLCC / Bukit Bintang",
+  "category": "Museums & culture",
+  "blurb": "A 1920s timber house of a Malay village headman, moved from Kedah and rebuilt in a garden hidden among KL's towers by the national heritage trust. Guided tours explain the carved panels, raised floors and how the house was designed for the climate; there is also a new Heritage Kampung Garden and a heritage shop.",
+  "why": "A peaceful, hidden glimpse of traditional Malay life within walking distance of the Petronas Towers.",
+  "touristiness": 1,
+  "time_needed": "1 h",
+  "getting_there": "10-15 min walk from KLCC or Raja Chulan monorail.",
+  "cost": "About RM10 (~US$2.50)",
+  "best_time": "Guided tours usually 11:00 and 15:00 (Mon-Sat; check badanwarisanmalaysia.org). Easy add-on to the KLCC day (KL2).",
+  "coords": [
+   3.1497,
+   101.7155
+  ],
+  "image": "images/kl-rumah-penghulu.jpg",
+  "image_credit": "Elisa.rolle, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rumah_Penghulu.jpg",
+  "video": null,
+  "links": [
+   "https://badanwarisanmalaysia.org/visit-us/rumah-penghulu-abu-seman",
+   "https://www.thestar.com.my/lifestyle/culture/2025/10/30/where-craft-becomes-poetry-malay-kampung-house-exhibition-at-bwm"
+  ]
+ },
+ {
+  "id": "kl-ilham-gallery",
+  "region": "Kuala Lumpur",
+  "name": "ILHAM Gallery",
+  "area": "Ilham Tower, Jalan Binjai, 10 min walk from KLCC",
+  "category": "Museums & culture",
+  "blurb": "A free contemporary art gallery on two floors of Norman Foster's Ilham Tower, showing well-curated Malaysian and Southeast Asian art (it recently hosted a Rauschenberg show). It reopened on 22 November 2026 with a new exhibition, and the tower's lobby and plaza make a calm break from the KLCC crowds.",
+  "why": "Thoughtful modern culture in a striking skyscraper, close to the KLCC area you already plan to visit.",
+  "touristiness": 2,
+  "time_needed": "1-1.5 h",
+  "getting_there": "10-min walk from KLCC or Ampang Park LRT.",
+  "cost": "Free",
+  "best_time": "Tue-Sat 11:00-19:00, Sun 11:00-17:00, closed Mon. Good midday shelter from heat or afternoon storms.",
+  "coords": [
+   3.1588,
+   101.716
+  ],
+  "image": "images/kl-ilham-gallery.jpg",
+  "image_credit": "Vano111ru, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ilham_Gallery.jpg",
+  "video": null,
+  "links": [
+   "https://ilhamgallery.com/",
+   "https://www.thestar.com.my/lifestyle/culture/2025/12/09/a-decade-on-ilham-gallery-continues-to-engage-new-audiences-with-meaningful-art"
+  ]
+ },
+ {
+  "id": "kl-orang-asli-museum",
+  "region": "Kuala Lumpur",
+  "name": "Muzium Orang Asli (Orang Asli Museum)",
+  "area": "Gombak, ~25 km / 35 min north of central KL",
+  "category": "Museums & culture",
+  "blurb": "A small, government-run museum about Malaysia's indigenous peoples (the 18 Orang Asli groups), with blowpipes, model houses, Mah Meri wood carvings, musical instruments and photographs. It sits on the old Gombak road at the edge of the rainforest hills, far from any tour bus route.",
+  "why": "Covers a side of Malaysian culture most visitors never see, and the drive into the forested Gombak valley adds a sense of adventure.",
+  "touristiness": 1,
+  "time_needed": "1-1.5 h plus 1 h round trip",
+  "getting_there": "Grab ~35 min (RM30-40 each way); can be combined with Batu Caves (KL2), about 20 min away.",
+  "cost": "Free",
+  "best_time": "9:00-17:00, closed Fridays. Morning is coolest. Call ahead (+603 6186 8796) over the holiday period.",
+  "coords": [
+   3.3034,
+   101.7419
+  ],
+  "image": "images/kl-orang-asli-museum.jpg",
+  "image_credit": "Renek78, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Muzium_Orang_Asli%2C_Gombak%2C_Malaysia_02.jpg",
+  "video": null,
+  "links": [
+   "https://www.timeout.com/kuala-lumpur/museums/orang-asli-museum",
+   "https://en.wikipedia.org/wiki/Orang_Asli_Museum"
+  ]
+ },
+ {
+  "id": "kl-textile-museum",
+  "region": "Kuala Lumpur",
+  "name": "National Textile Museum (Muzium Tekstil Negara)",
+  "area": "Jalan Sultan Hishamuddin, beside Merdeka Square",
+  "category": "Museums & culture",
+  "blurb": "A 1905 Moorish-style former railway office with striped brick and copper domes, now home to galleries of batik, songket (gold-thread weaving), Peranakan beadwork and royal jewellery. It is compact, air-conditioned and well laid out.",
+  "why": "A handsome historic building on Merdeka Square that most people only photograph from outside; the textiles tell the story of Malaysia's cultures.",
+  "touristiness": 2,
+  "time_needed": "1 h",
+  "getting_there": "On the edge of Merdeka Square (KL1); Masjid Jamek LRT is a 5-min walk.",
+  "cost": "Free or a few RM (~US$1)",
+  "best_time": "Daily about 9:00-18:00 (closed Friday 12:15-14:45 for prayers). Ideal hot-afternoon stop during the KL1 Merdeka Square visit.",
+  "coords": [
+   3.147,
+   101.6946
+  ],
+  "image": "images/kl-textile-museum.jpg",
+  "image_credit": "Marcin Konsek, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur%2C_Narodowe_Muzeum_W%C5%82%C3%B3kiennictwa.jpg",
+  "video": null,
+  "links": [
+   "https://www.malaysia-traveller.com/textile-museum.html",
+   "https://www.visitselangor.com/?p=3266"
+  ]
+ },
+ {
+  "id": "kl-kampung-attap-zhongshan",
+  "region": "Kuala Lumpur",
+  "name": "Kampung Attap & The Zhongshan Building",
+  "area": "Jalan Rotan, Kampung Attap, 10 min walk south of Chinatown",
+  "category": "Neighborhood & vibes",
+  "blurb": "An old Chinese neighbourhood of 1950s shophouses where the Zhongshan Building, three restored clan-association houses, now holds small galleries, a record shop, bookstores and independent cafes. Wander the lanes around Jalan Rotan for old-school coffee shops and street art.",
+  "why": "Relaxed, local and creative: it shows the KL that locals love rather than the tourist strip.",
+  "touristiness": 1,
+  "time_needed": "1.5-2 h",
+  "getting_there": "10-min walk from Chan She Shu Yuen / Maharajalela monorail.",
+  "cost": "Free; coffee about RM12-18 (~US$3-4)",
+  "best_time": "Late morning to afternoon, Wed-Sun when most shops are open (many close Mon/Tue).",
+  "coords": [
+   3.1357,
+   101.6957
+  ],
+  "image": "images/kl-kampung-attap-zhongshan.jpg",
+  "image_credit": "Slleong, CC0, https://commons.wikimedia.org/wiki/File:Kampung_Attap_2.jpg",
+  "video": null,
+  "links": [
+   "https://www.timeout.com/kuala-lumpur/things-to-do/guide-to-the-zhongshan-building",
+   "https://design-anthology.com/story/zhongshan-building"
+  ]
+ },
+ {
+  "id": "kl-brickfields",
+  "region": "Kuala Lumpur",
+  "name": "Brickfields (Little India) temple walk",
+  "area": "Brickfields, next to KL Sentral",
+  "category": "Neighborhood & vibes",
+  "blurb": "KL's most vibrant Indian quarter: banana-leaf rice restaurants, flower-garland stalls and Tamil music along Jalan Tun Sambanthan. Within a few blocks are the Sri Kandaswamy Kovil (a Sri Lankan Tamil temple), the Buddhist Maha Vihara (founded 1894) and old churches, showing KL's many faiths side by side.",
+  "why": "Lively and atmospheric with real local life, and an easy walk from where you arrive by train at KL Sentral.",
+  "touristiness": 2,
+  "time_needed": "2-3 h incl. a meal",
+  "getting_there": "5-min walk from KL Sentral (airport train terminal).",
+  "cost": "Free; banana-leaf meal about RM15-25 (~US$4-6)",
+  "best_time": "Late afternoon into evening when the street comes alive; temple prayers around 18:00-19:00. Pongal falls around 14-15 Jan 2027.",
+  "coords": [
+   3.1302,
+   101.6862
+  ],
+  "image": "images/kl-brickfields.jpg",
+  "image_credit": "Shesmax, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Kuala_Lumpur._Sri_Kandaswamy_Kovil._North_East._2019-12-13_17-47-17.jpg",
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Brickfields"
+  ]
+ },
+ {
+  "id": "kl-chow-kit-market",
+  "region": "Kuala Lumpur",
+  "name": "Chow Kit Market (Bazaar Baru Chow Kit)",
+  "area": "Chow Kit, 10 min north of KLCC by monorail",
+  "category": "Markets & food",
+  "blurb": "KL's largest wet market: a maze of covered alleys selling tropical fruit, fish, spices, flowers and cheap Malay food. Come hungry and try nasi lemak, kuih (sweet cakes) and fresh fruit such as mangosteen and rambutan.",
+  "why": "Raw, sensory and real: the best place to soak up everyday Malay city life.",
+  "touristiness": 2,
+  "time_needed": "1-2 h",
+  "getting_there": "Chow Kit monorail station is a 2-min walk.",
+  "cost": "Free; snacks RM2-10 (~US$0.50-2.50)",
+  "best_time": "Mornings 8:00-11:00 when it is busiest and freshest. Wear closed shoes; floors are wet. Kampung Baru (KL2) is next door.",
+  "coords": [
+   3.1652,
+   101.6988
+  ],
+  "image": "images/kl-chow-kit-market.jpg",
+  "image_credit": "Patrice78500, Public domain, https://commons.wikimedia.org/wiki/File:Chow_Kit_-_Bananes.JPG",
+  "video": null,
+  "links": [
+   "https://thesmartlocal.com/read/chow-kit-kl-guide/amp/"
+  ]
+ },
+ {
+  "id": "kl-pudu-breakfast",
+  "region": "Kuala Lumpur",
+  "name": "Pudu morning: Pudu wet market + ICC Pudu breakfast",
+  "area": "Pudu, 10 min walk east of Bukit Bintang",
+  "category": "Markets & food",
+  "blurb": "Start at Pasar Besar Pudu, a huge Chinese wet market, then eat at ICC Pudu, the hawker centre that took over the famous stalls of the old Imbi market. Locals queue for wantan noodles, chee cheong fun (rice rolls), nasi lemak and egg tarts.",
+  "why": "A true local breakfast ritual with great food and atmosphere, and almost no tourists.",
+  "touristiness": 2,
+  "time_needed": "2 h",
+  "getting_there": "Walk from Bukit Bintang, or Pudu / Hang Tuah stations.",
+  "cost": "Breakfast about RM10-20 (~US$2.50-5)",
+  "best_time": "7:00-10:00; many stalls sell out by noon. ICC Pudu is closed Mondays.",
+  "coords": [
+   3.1374,
+   101.7118
+  ],
+  "image": "images/kl-pudu-breakfast.jpg",
+  "image_credit": "Sharon Hahn Darlin, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Pudu_market%2C_Kuala_Lumpur%2C_Malaysia_January_2024_-_Woke_up_early_to_this_view.jpg",
+  "video": null,
+  "links": [
+   "https://malaysia.tripcanvas.co/kuala-lumpur/icc-pudu-breakfast-imbi-market/",
+   "https://kualalumpurcity.my/?p=8603"
+  ]
+ },
+ {
+  "id": "kl-lorong-tar-night-market",
+  "region": "Kuala Lumpur",
+  "name": "Saturday night market at Lorong TAR & Masjid India",
+  "area": "Jalan TAR / Masjid India, 5 min walk from Masjid Jamek",
+  "category": "Markets & food",
+  "blurb": "Every Saturday evening the lane behind Jalan Tuanku Abdul Rahman fills with hundreds of Malay food stalls: satay, murtabak, apam balik, ramly burgers and fresh juices. Around it, the Masjid India area sells batik, songkok hats and Indian sweets.",
+  "why": "A lively, very local night scene in KL's oldest shopping street, close to Merdeka Square.",
+  "touristiness": 2,
+  "time_needed": "1.5-2 h",
+  "getting_there": "Walk from Masjid Jamek or Bandaraya LRT.",
+  "cost": "Free; food RM3-15 per item (~US$1-4)",
+  "best_time": "Saturdays about 17:00-22:00 (best 18:30-20:00). If your KL nights miss Saturday, Taman Connaught (Wednesday night) is an alternative.",
+  "coords": [
+   3.156,
+   101.6963
+  ],
+  "image": "images/kl-lorong-tar-night-market.jpg",
+  "image_credit": "Wiki Farazi, CC0, https://commons.wikimedia.org/wiki/File:Lorong_Tuanku_Abdul_Rahman%2C_Kuala_Lumpur_20231114_115336.jpg",
+  "video": null,
+  "links": [
+   "https://www.thestar.com.my/metro/metro-news/2024/01/13/saturday-night-fever-in-the-city",
+   "https://www.timeout.com/kuala-lumpur/shopping/best-night-markets-in-kl"
+  ]
+ }
+]

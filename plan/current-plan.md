@@ -36,3 +36,6 @@ research already; prefers suggestions that are not at the very top of tourist li
 - SR2: Angkor Wat sunrise (walking); Banteay Kdei; Ta Prohm; Ta Keo. Optional: Banteay Samre, Pre Rup
 - SR3: Angkor National Museum; Kompong Khleang stilt village tour. Optional: countryside cycling
 - SR4: bike: Bayon, Phimeanakas, Preah Khan, Neak Poan; Phnom Bakheng sunset
+
+## Logistics findings
+- Thailand–Cambodia land border is CLOSED (since 23 Jun 2025; no reopening date as of Nov 2026). Bangkok → Siem Reap must be a flight (~1 h, ~US$85–110+). Avoid areas within 20 km of the border (UK advice). Sources: gov.uk travel advice for Thailand and Cambodia.

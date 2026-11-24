@@ -1,0 +1,735 @@
+[
+ {
+  "id": "cm-wat-chedi-luang-night",
+  "region": "Chiang Mai",
+  "name": "Wat Chedi Luang & Wat Phan Tao after dark (plus monk chat)",
+  "area": "Old town, Phra Pokklao Rd",
+  "category": "History & temples",
+  "blurb": "The ruined 15th-century chedi of Wat Chedi Luang (once the tallest structure in Lanna, cracked by a 1545 earthquake) is floodlit at night and nearly empty after the tour groups leave. Next door, the all-teak hall of Wat Phan Tao glows with lanterns. Come in the afternoon first for the free monk chat tables on the grounds, then stay for dusk.",
+  "why": "A different, quiet atmosphere at two old-town sights you would otherwise only see in daytime crowds.",
+  "touristiness": 4,
+  "time_needed": "1.5–2 h",
+  "getting_there": "Walk from anywhere in the old town.",
+  "cost": "Wat Chedi Luang 50 THB (~1.50 USD) for foreigners; Wat Phan Tao free",
+  "best_time": "Monk chat roughly 9:00–18:00 daily at the tables near the chedi; visit 18:00–21:00 for lights. Dec–Jan evenings are cool (15–20 °C).",
+  "coords": [
+   18.7871,
+   98.9865
+  ],
+  "image": "images/cm-wat-chedi-luang-night.jpg",
+  "image_credit": "Vyacheslav Argenberg, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Wat_Chedi_Luang_at_night%2C_Chiang_Mai%2C_Thailand.jpg",
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Wat_Chedi_Luang",
+   "https://en.wikipedia.org/wiki/Wat_Phan_Tao"
+  ]
+ },
+ {
+  "id": "cm-wat-lok-molee",
+  "region": "Chiang Mai",
+  "name": "Wat Lok Molee",
+  "area": "Just outside the north moat, 10 min walk from Chang Phuak Gate",
+  "category": "History & temples",
+  "blurb": "A royal temple of the Mengrai dynasty with a huge, weathered brick chedi from the 1500s and a dark-teak hall carved in classic Lanna style. Several Lanna kings' ashes are kept here. It is lit up in the evening and sees far fewer visitors than the old-town temples.",
+  "why": "Authentic, atmospheric Lanna architecture without the crowds, easy to add to an evening walk.",
+  "touristiness": 2,
+  "time_needed": "45 min",
+  "getting_there": "Walk or Grab from the old town (north moat, Manee Noparat Rd).",
+  "cost": "Small donation / ~20 THB (~0.60 USD)",
+  "best_time": "Late afternoon into dusk when the chedi is lit; any day.",
+  "coords": [
+   18.7965,
+   98.9825
+  ],
+  "image": "images/cm-wat-lok-molee.jpg",
+  "image_credit": "Immanuelle, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Wat_Lok_Molee_Viharn-4.jpg",
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Wat_Lok_Moli"
+  ]
+ },
+ {
+  "id": "cm-wiang-kum-kam",
+  "region": "Chiang Mai",
+  "name": "Wiang Kum Kam ancient city",
+  "area": "5 km south of the old town (Saraphi), ~15 min by car",
+  "category": "History & temples",
+  "blurb": "The first capital of King Mengrai (late 1200s), abandoned after floods and buried under river silt until the 1980s. More than 20 excavated temple ruins sit among village lanes and rice fields; you explore by bicycle, horse cart or small tram, stopping at Wat Chedi Liam (a working temple with a stepped Mon-style chedi) and Wat Kan Thom.",
+  "why": "Chiang Mai's own 'mini-Ayutthaya': quiet ruins, history and a peaceful bike ride through countryside.",
+  "touristiness": 2,
+  "time_needed": "2–3 h",
+  "getting_there": "Grab (~150 THB) to the information center; rent bikes there or take the tram/horse cart.",
+  "cost": "Ruins free; tram ~50 THB, horse cart ~300 THB, bike ~50 THB (~1.50–9 USD)",
+  "best_time": "Morning (8:00–11:00) or late afternoon; Dec–Jan is dry and mild, perfect for cycling.",
+  "coords": [
+   18.754,
+   99.002
+  ],
+  "image": "images/cm-wiang-kum-kam.jpg",
+  "image_credit": "Mathew Schwartz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wiang_Kum_Kam_8.jpg",
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Wiang_Kum_Kam",
+   "https://www.tourismthailand.org/Attraction/wiang-kum-kam"
+  ]
+ },
+ {
+  "id": "cm-wat-ban-den",
+  "region": "Chiang Mai",
+  "name": "Wat Ban Den (Wat Den Sali Si Mueang Kaen)",
+  "area": "Mae Taeng, ~45 km / 1 h north of the old town",
+  "category": "History & temples",
+  "blurb": "A sprawling hillside temple complex of dazzling Lanna-style halls, gilded roofs and 12 zodiac chedis, built over decades by a revered local abbot. Locals visit their birth-year chedi; you wander between ornate wooden and mirrored buildings with mountain views behind.",
+  "why": "One of the most visually spectacular temples in the north, yet few foreign visitors make the trip.",
+  "touristiness": 2,
+  "time_needed": "1.5–2 h (plus travel)",
+  "getting_there": "Grab or hired car (~1 h); pairs well with Mae Ngat Dam or Bua Thong waterfall on the same day.",
+  "cost": "Free (donations welcome); car hire ~1,200–1,800 THB/day (~35–50 USD)",
+  "best_time": "Morning or late afternoon for soft light; open about 6:00–18:00.",
+  "coords": [
+   19.0995,
+   98.966
+  ],
+  "image": "images/cm-wat-ban-den.jpg",
+  "image_credit": "ManoiCMU, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wat_Ban_Den%2C_Chiang_Mai.jpg",
+  "video": null,
+  "links": [
+   "https://www.thailandee.com/en/visit-thailand/wat-ban-den-chiang-mai-373",
+   "https://www.lovethailand.org/travel/en/1-Chiang-Mai/103-Wat-Ban-Den.html"
+  ]
+ },
+ {
+  "id": "cm-wat-inthrawat",
+  "region": "Chiang Mai",
+  "name": "Wat Inthrawat (Wat Ton Kwen)",
+  "area": "Nong Khwai, Hang Dong, ~12 km / 25 min southwest",
+  "category": "History & temples",
+  "blurb": "A small, carefully preserved 1850s Lanna temple in a village setting: a teak wihan with sweeping layered roofs and a rare open-sided pavilion (mondop) that once sheltered a Buddha relic during processions. It is regarded as one of the best examples of original Lanna wooden architecture left.",
+  "why": "A peaceful, unrestored glimpse of what Chiang Mai temples looked like 170 years ago.",
+  "touristiness": 1,
+  "time_needed": "45 min",
+  "getting_there": "Grab or scooter (~25 min); combine with Ban Tawai woodcarving village nearby.",
+  "cost": "Free",
+  "best_time": "Daytime; very quiet on weekdays.",
+  "coords": [
+   18.7229,
+   98.9253
+  ],
+  "image": "images/cm-wat-inthrawat.jpg",
+  "image_credit": "Mr Atsadang Katwibun, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wat_Intharawat_%28Wat_Ton_Kwen%29.jpg",
+  "video": null,
+  "links": [
+   "https://www.thaiholidayguide.com/attraction/wat-inthrawat-wat-tonkwen/",
+   "https://www.renown-travel.com/temples/wat-inthrawat.html"
+  ]
+ },
+ {
+  "id": "cm-huay-tung-tao",
+  "region": "Chiang Mai",
+  "name": "Huay Tung Tao Lake",
+  "area": "Mae Rim, ~12 km / 25 min north",
+  "category": "Nature & hikes",
+  "blurb": "A reservoir at the foot of Doi Suthep lined with bamboo huts on stilts where you lounge over the water and order grilled fish, som tam and cold drinks. Giant straw sculptures sit around the lake, and a paved loop is good for a bike ride or short walk.",
+  "why": "A relaxed local-style afternoon with mountain views, where Chiang Mai families go to unwind.",
+  "touristiness": 3,
+  "time_needed": "2–3 h",
+  "getting_there": "Grab (~200 THB) or scooter; few return taxis, so keep your driver or book Grab back.",
+  "cost": "Entry ~50 THB; hut use free if you order food (~200–400 THB pp, ~6–12 USD)",
+  "best_time": "Late afternoon for sunset over Doi Suthep; weekends are busier with locals.",
+  "coords": [
+   18.869,
+   98.942
+  ],
+  "image": "images/cm-huay-tung-tao.jpg",
+  "image_credit": "Takeaway, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Huai_Tueng_Thao_Chiang_Mai_dam.JPG",
+  "video": null,
+  "links": [
+   "https://www.thaiholidayguide.com/attraction/huay-tung-tao-lake/"
+  ]
+ },
+ {
+  "id": "cm-mon-cham",
+  "region": "Chiang Mai",
+  "name": "Mon Cham (Mon Jam) & Mae Sa valley",
+  "area": "Mae Rim highlands, ~55 km / 1.25 h north",
+  "category": "Skyline & views",
+  "blurb": "A Hmong highland project on a ridge at ~1,400 m with flower and vegetable terraces, tent campsites and wide views over the Mae Sa valley. The drive up the winding Mae Sa road passes waterfalls and strawberry farms; sunrise brings a sea of mist on cold mornings.",
+  "why": "Mountain air, terraced views and a sense of adventure without the effort of a long trek.",
+  "touristiness": 3,
+  "time_needed": "Half day (or overnight camping)",
+  "getting_there": "Hire a car/driver or scooter via Mae Rim and Samoeng road (route 1096); last stretch is steep.",
+  "cost": "Entry ~20–30 THB; tents ~300–600 THB; car hire ~1,500 THB (~45 USD)",
+  "best_time": "Sunrise or sunset; Dec–Jan nights can drop to ~5–10 °C, bring a warm layer. Weekends crowded with Thai campers.",
+  "coords": [
+   18.9395,
+   98.8215
+  ],
+  "image": "images/cm-mon-cham.jpg",
+  "image_credit": "::::=UT=::::, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%88%E0%B9%88%E0%B8%A1_%E0%B8%95%E0%B8%B3%E0%B8%9A%E0%B8%A5_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%A3%E0%B8%A1_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2_-_panoramio.jpg",
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Mon_Cham"
+  ]
+ },
+ {
+  "id": "cm-sticky-waterfall",
+  "region": "Chiang Mai",
+  "name": "Bua Thong 'Sticky' Waterfall",
+  "area": "Mae Taeng, ~60 km / 1 h north",
+  "category": "Nature & hikes",
+  "blurb": "A multi-tier waterfall flowing over porous limestone that is so grippy you can walk straight up the falls barefoot. At the top is the Chet Si spring, a clear blue pool feeding the stream, set in a small forest park.",
+  "why": "A fun, slightly adventurous outing that feels unusual and is still fairly calm on weekdays.",
+  "touristiness": 3,
+  "time_needed": "2 h (plus travel)",
+  "getting_there": "Hire a car/songthaew (~1,000–1,500 THB return) or scooter; combine with Wat Ban Den and Mae Ngat Dam.",
+  "cost": "Free entry; parking ~20 THB",
+  "best_time": "Late morning when the sun warms the water; Dec–Jan water is cool but levels are good after the rains. Avoid weekends if you can.",
+  "coords": [
+   19.0644,
+   99.0789
+  ],
+  "image": "images/cm-sticky-waterfall.jpg",
+  "image_credit": "chootrong, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Buatong_Waterfall_And_Jedsee_Fountain_Forest_Park_Thailand_-_panoramio.jpg",
+  "video": null,
+  "links": [
+   "https://www.tourismthailand.org/Attraction/bua-tong-waterfall-and-chet-si-fountain-national-park"
+  ]
+ },
+ {
+  "id": "cm-queen-sirikit-botanic-garden",
+  "region": "Chiang Mai",
+  "name": "Queen Sirikit Botanic Garden & canopy walkway",
+  "area": "Mae Rim / Mae Sa valley, ~27 km / 40 min north",
+  "category": "Nature & hikes",
+  "blurb": "Thailand's leading botanic garden spread across forested hills, with a ~400 m canopy walkway about 20 m above the trees, glasshouses of orchids and lotus, and quiet trails. Views stretch over the Mae Sa valley and Doi Suthep range.",
+  "why": "A peaceful, green half-day with an elevated walk that gives a real 'above the forest' view.",
+  "touristiness": 3,
+  "time_needed": "2–3 h",
+  "getting_there": "Car/Grab (~40 min); a car is useful because the garden is large and hilly (cars pay 100 THB).",
+  "cost": "Adults ~100 THB (~3 USD), canopy walk included",
+  "best_time": "8:30–11:00 for cool air and birdsong; open 8:30–17:00 daily.",
+  "coords": [
+   18.889,
+   98.8618
+  ],
+  "image": "images/cm-queen-sirikit-botanic-garden.jpg",
+  "image_credit": "Supanut Arunoprayote, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Queen_Sirikit_Botanic_Garden_%28III%29.jpg",
+  "video": null,
+  "links": [
+   "https://www.thaiholidayguide.com/attraction/queen-sirikit-botanical-garden/"
+  ]
+ },
+ {
+  "id": "cm-mae-ngat-dam",
+  "region": "Chiang Mai",
+  "name": "Mae Ngat Dam floating raft houses (Sri Lanna National Park)",
+  "area": "Mae Taeng, ~65 km / 1.25 h north",
+  "category": "Nature & hikes",
+  "blurb": "A long reservoir framed by jungle-covered limestone hills, where simple bamboo raft houses float on the water. Take a longtail boat out, swim and kayak, eat on the deck and stay overnight with no road noise and almost no phone signal.",
+  "why": "The most peaceful, off-grid night you can get near Chiang Mai, with a real feeling of adventure.",
+  "touristiness": 2,
+  "time_needed": "Full day or 1 night",
+  "getting_there": "Car to the dam boat pier (~1.25 h), then ~15–30 min longtail to your raft house (usually included in the booking).",
+  "cost": "Park entry ~100 THB; raft house ~800–2,000 THB pp incl. meals and boat (~25–60 USD)",
+  "best_time": "Dec–Jan has high water and clear skies; mornings are misty and beautiful. Book ahead for weekends and New Year.",
+  "coords": [
+   19.166,
+   99.042
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.tielandtothailand.com/mae-ngat-dam-floating-houses-chiang-mai/",
+   "https://www.thaiholidayguide.com/attraction/sri-lanna-national-park/"
+  ]
+ },
+ {
+  "id": "cm-huai-nam-dang",
+  "region": "Chiang Mai",
+  "name": "Huai Nam Dang: Doi Kiew Lom sea of mist & Pong Duet hot springs",
+  "area": "Route 1095 toward Pai, ~65 km / 1.75 h northwest",
+  "category": "Skyline & views",
+  "blurb": "Doi Kiew Lom viewpoint at the park headquarters looks over rolling ridges toward Doi Luang Chiang Dao, and in the cool season the valleys fill with a sea of mist at dawn. On the way back, Pong Duet has boiling geysers and natural hot pools in the forest for a soak.",
+  "why": "One of the best sunrise panoramas in the north, plus a hot-spring soak, without going all the way to Pai.",
+  "touristiness": 2,
+  "time_needed": "Overnight (camp/cabin) or a pre-dawn full day",
+  "getting_there": "Hire a car/driver (leave ~4:00 for sunrise) or stay at the park campsite; minivans to Pai can drop you at the HQ.",
+  "cost": "Park entry ~300 THB for foreigners (~9 USD); tent rental ~225–400 THB; driver ~2,000 THB",
+  "best_time": "Dec–Jan is peak sea-of-mist season (reported again Nov 2026); sunrise ~6:40. Dawn temperatures can be near 5 °C.",
+  "coords": [
+   19.309,
+   98.604
+  ],
+  "image": "images/cm-huai-nam-dang.jpg",
+  "image_credit": "Apisit Wilaijit, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Huai_Nam_Dang.jpg",
+  "video": null,
+  "links": [
+   "https://www.nationthailand.com/news/tourism/40073608",
+   "https://www.thaiholidayguide.com/attraction/huai-nam-dang-national-park/"
+  ]
+ },
+ {
+  "id": "cm-wua-lai-walking-street",
+  "region": "Chiang Mai",
+  "name": "Wua Lai Saturday walking street",
+  "area": "Wua Lai Rd, just south of Chiang Mai Gate",
+  "category": "Neighborhood & vibes",
+  "blurb": "The Saturday night market on the old silversmith street is smaller and more local than the famous Sunday market. Stalls sell food, crafts and silverwork, and Wat Sri Suphan glows silver at the end of the street.",
+  "why": "Market atmosphere and local street food on a more human scale, with a lit-up temple as a backdrop.",
+  "touristiness": 3,
+  "time_needed": "2 h",
+  "getting_there": "Walk from the old town (exit at Chiang Mai Gate).",
+  "cost": "Free; food 30–80 THB per dish (~1–2.50 USD)",
+  "best_time": "Saturdays only, ~17:00–22:30; arrive around 18:00 before the peak crush.",
+  "coords": [
+   18.7795,
+   98.987
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.timeout.com/chiang-mai"
+  ]
+ },
+ {
+  "id": "cm-charoen-rat-wat-ket",
+  "region": "Chiang Mai",
+  "name": "Charoen Rat riverside & Wat Ket quarter",
+  "area": "East bank of the Ping River, ~1.5 km east of Tha Phae Gate",
+  "category": "Neighborhood & vibes",
+  "blurb": "An old trading quarter of teak shophouses, Chinese clan houses and riverside cafes. Wat Ket Karam has a quirky community museum of old photos and objects, and the road along the river has some of the city's nicest restaurants for dinner by the water.",
+  "why": "A slow, atmospheric stroll through Chiang Mai's merchant history that most visitors skip.",
+  "touristiness": 2,
+  "time_needed": "2–3 h",
+  "getting_there": "Walk from Warorot Market over the Nawarat or Iron Bridge.",
+  "cost": "Free; Wat Ket museum by donation; dinner ~300–800 THB (~9–24 USD)",
+  "best_time": "Late afternoon into sunset dinner by the river.",
+  "coords": [
+   18.793,
+   99.0045
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Wat_Ket_Karam"
+  ]
+ },
+ {
+  "id": "cm-baan-kang-wat",
+  "region": "Chiang Mai",
+  "name": "Baan Kang Wat artist village",
+  "area": "Near Wat Umong, west of the old town (~15 min)",
+  "category": "Neighborhood & vibes",
+  "blurb": "A small artists' community of rustic, earthen-style studios around a green amphitheater, with craft shops, pottery, cafes and a Sunday morning market. It sits a few minutes from Wat Umong, which is already on your bike route.",
+  "why": "A calm, creative corner that fits naturally into your Wat Umong day.",
+  "touristiness": 3,
+  "time_needed": "1–1.5 h",
+  "getting_there": "Bike or Grab; 5 min from Wat Umong.",
+  "cost": "Free; workshops ~300–800 THB (~9–24 USD)",
+  "best_time": "Sunday morning market (~8:00–13:00); most shops closed Mondays.",
+  "coords": [
+   18.7765,
+   98.9465
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.timeout.com/chiang-mai"
+  ]
+ },
+ {
+  "id": "cm-warorot-market",
+  "region": "Chiang Mai",
+  "name": "Warorot Market & Ton Lam Yai flower market",
+  "area": "Chinatown, between Tha Phae Gate and the Ping River",
+  "category": "Markets & food",
+  "blurb": "Chiang Mai's main local market (Kad Luang): three floors of northern sausages, chili pastes, dried fruit, hill-tribe textiles and household goods. Across the street, Ton Lam Yai flower market is busiest at night with marigold garlands for the temples.",
+  "why": "The everyday life of the city, not a tourist market, and great for northern snacks.",
+  "touristiness": 3,
+  "time_needed": "1.5–2 h",
+  "getting_there": "15 min walk from Tha Phae Gate.",
+  "cost": "Free; snacks 20–100 THB",
+  "best_time": "Mornings for the food stalls; flower market best after dark. Busy before New Year.",
+  "coords": [
+   18.79,
+   99.0
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Warorot_Market"
+  ]
+ },
+ {
+  "id": "cm-khao-soi-trail",
+  "region": "Chiang Mai",
+  "name": "Khao soi and northern food trail",
+  "area": "Around the city (Fa Ham, Santitham, old town)",
+  "category": "Markets & food",
+  "blurb": "Make a crawl of the best khao soi (curry noodle soup) spots: Khao Soi Lamduan Fa Ham and Khao Soi Samerjai on Fa Ham Rd, Khao Soi Mae Sai near Nimman, and Khao Soi Khun Yai by the north moat. Add northern dishes like sai oua sausage, nam prik ong and gaeng hang lay at Huen Phen.",
+  "why": "Food is the easiest way to soak up the local culture, and khao soi is the signature dish of the north.",
+  "touristiness": 3,
+  "time_needed": "2–3 h (spread across meals)",
+  "getting_there": "Grab between spots (~60–100 THB each).",
+  "cost": "Khao soi 50–80 THB a bowl (~1.50–2.50 USD)",
+  "best_time": "Lunch; many khao soi shops close by ~15:00.",
+  "coords": [
+   18.807,
+   99.003
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.eatingthaifood.com/chiang-mai-khao-soi/"
+  ]
+ },
+ {
+  "id": "cm-jing-jai-market",
+  "region": "Chiang Mai",
+  "name": "Jing Jai Market (JJ Market)",
+  "area": "Atsadathon Rd, ~2.5 km north of the old town",
+  "category": "Markets & food",
+  "blurb": "A weekend morning farmers' and makers' market in a leafy courtyard: organic produce, local coffee, crafts and fashion from northern designers. Locals come for breakfast and to browse; it feels like a village fair.",
+  "why": "Relaxed, local and design-minded, a nice contrast to the night markets.",
+  "touristiness": 2,
+  "time_needed": "1.5–2 h",
+  "getting_there": "Grab (~80 THB, 10 min).",
+  "cost": "Free; breakfast ~100–200 THB",
+  "best_time": "Saturday and Sunday ~6:30–12:00; go before 9:00.",
+  "coords": [
+   18.8045,
+   98.996
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.timeout.com/chiang-mai"
+  ]
+ },
+ {
+  "id": "cm-lanna-folklife-museum",
+  "region": "Chiang Mai",
+  "name": "Lanna Folklife Museum & City Arts and Cultural Centre",
+  "area": "Old town, behind the Three Kings Monument",
+  "category": "Museums & culture",
+  "blurb": "Housed in a white colonial-era courthouse, the Lanna Folklife Museum explains northern Buddhism, temple art, textiles and daily village life with well-made displays. The neighboring City Arts and Cultural Centre covers the city's history; one combo ticket covers both plus the Lanna history museum.",
+  "why": "Gives context to all the temples you will see, making the rest of your visit richer.",
+  "touristiness": 2,
+  "time_needed": "1.5–2 h",
+  "getting_there": "Walk; center of the old town.",
+  "cost": "~90 THB per museum or ~180 THB combo (~2.50–5.50 USD)",
+  "best_time": "Midday break from the sun; usually closed Mondays.",
+  "coords": [
+   18.7898,
+   98.9876
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.cmocity.com/"
+  ]
+ },
+ {
+  "id": "cm-ban-tawai",
+  "region": "Chiang Mai",
+  "name": "Ban Tawai woodcarving village",
+  "area": "Hang Dong, ~15 km / 30 min south",
+  "category": "Museums & culture",
+  "blurb": "A long-established crafts village of open workshops where carvers make Lanna-style wood carvings, furniture and lacquerware. Walk the lanes and watch the artisans at work; it pairs well with Wat Inthrawat nearby.",
+  "why": "Hands-on Lanna crafts in a real working village, away from the city.",
+  "touristiness": 2,
+  "time_needed": "1.5–2 h",
+  "getting_there": "Grab or hired car (~30 min).",
+  "cost": "Free; shopping optional",
+  "best_time": "Weekday mornings when workshops are active.",
+  "coords": [
+   18.66,
+   98.966
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.tourismthailand.org/Attraction/ban-tawai"
+  ]
+ },
+ {
+  "id": "cm-farm-cooking-class",
+  "region": "Chiang Mai",
+  "name": "Farm-based Thai cooking class",
+  "area": "Countryside outside the city, ~20–40 min (pickup included)",
+  "category": "Experiences",
+  "blurb": "Half- or full-day classes on organic farms (for example Thai Farm Cooking School or Grandma's Home Cooking) start with a local market visit, then a walk through the herb garden before you cook 5–7 dishes, including khao soi and curry paste from scratch.",
+  "why": "Combines food, countryside and local life in one relaxed day.",
+  "touristiness": 3,
+  "time_needed": "Half to full day",
+  "getting_there": "Hotel pickup in the old town is included.",
+  "cost": "~1,200–1,800 THB (~35–55 USD)",
+  "best_time": "Book a few days ahead over Christmas–New Year.",
+  "coords": [
+   18.86,
+   99.04
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.thaifarmcooking.com/"
+  ]
+ },
+ {
+  "id": "cm-winter-fair",
+  "region": "Chiang Mai",
+  "name": "Chiang Mai Red Cross Winter Fair & Flower Festival",
+  "area": "Provincial Government Center area, ~6 km north of the old town",
+  "category": "Events",
+  "blurb": "A big year-end local fair with food stalls, OTOP crafts from every district, folk performances, fairground rides and beauty pageants; the provincial flower displays usually run alongside it. It is mostly attended by Thai families, so it is full of local atmosphere.",
+  "why": "A genuinely local festival experience that only happens in the cool season.",
+  "touristiness": 2,
+  "time_needed": "2–3 h (evening)",
+  "getting_there": "Grab (~120 THB, 20 min).",
+  "cost": "Free entry; food 30–100 THB",
+  "best_time": "Evenings. Past editions: flower festival 28 Nov 2025–4 Jan 2026; winter fair roughly mid-Dec to mid/late Jan. 2026–27 dates not yet announced: check closer to the trip.",
+  "coords": [
+   18.8395,
+   98.97
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.thairath.co.th/lifestyle/travel/2898044",
+   "https://www.chiangmaicitylife.com/citynews/general/red-cross-winter-fair-offers-two-houses-and-other-grand-prizes-for-lottery-winners/"
+  ]
+ },
+ {
+  "id": "cm-new-year-eve",
+  "region": "Chiang Mai",
+  "name": "New Year's Eve countdown (Tha Phae Gate & lantern release)",
+  "area": "Tha Phae Gate (free) or CAD Cultural Centre Lanna (ticketed, ~20 min north)",
+  "category": "Events",
+  "blurb": "Tha Phae Gate hosts a free countdown with concerts and fireworks, while the ticketed CAD Cultural Centre Lanna event holds a mass sky-lantern release at midnight, which is now the main legal way to release a lantern. The city fills with Thai visitors for the holiday.",
+  "why": "The lantern sky at midnight is a once-in-a-lifetime atmosphere if your dates include 31 Dec.",
+  "touristiness": 4,
+  "time_needed": "Evening",
+  "getting_there": "Walk to Tha Phae Gate; CAD tickets usually include shuttle from town.",
+  "cost": "Tha Phae Gate free; CAD tickets ~3,000–6,000 THB (~90–180 USD)",
+  "best_time": "31 Dec evening. Lantern rules change yearly; only release at approved events.",
+  "coords": [
+   18.7877,
+   98.9933
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.timeout.com/chiang-mai/things-to-do/where-to-celebrate-new-year-in-chiang-mai-this-year",
+   "https://www.chiangraitimes.com/north-thailand/yi-peng-in-northern-thailand/"
+  ]
+ },
+ {
+  "id": "cm-bo-sang-umbrella-festival",
+  "region": "Chiang Mai",
+  "name": "Bo Sang umbrella village & Umbrella Festival",
+  "area": "San Kamphaeng road, ~10 km / 25 min east",
+  "category": "Events",
+  "blurb": "Bo Sang is the home of hand-painted paper and cotton umbrellas; workshops show every step from bamboo frame to painting. During the festival the village street is hung with hundreds of umbrellas, with parades, crafts and a 'Miss Bo Sang' on bicycles holding umbrellas. Nearby San Kamphaeng has silk and celadon workshops and the MAIIAM contemporary art museum.",
+  "why": "Colorful local craft culture and, if your dates line up, a small, charming festival.",
+  "touristiness": 3,
+  "time_needed": "2–3 h",
+  "getting_there": "Grab (~200 THB) or white songthaew from Warorot Market.",
+  "cost": "Free; umbrella painting ~50–200 THB",
+  "best_time": "Festival expected 15–17 Jan 2027 (third weekend of January, not yet confirmed). Workshops open daily otherwise.",
+  "coords": [
+   18.7656,
+   99.0846
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.thaiholidayguide.com/events/bo-sang-umbrella-festival/",
+   "https://www.thaizer.com/a-kaleidoscope-of-colour-at-the-bo-sang-umbrella-festival/"
+  ]
+ },
+ {
+  "id": "cm-chiang-rai-temples",
+  "region": "Northern Thailand",
+  "name": "Chiang Rai: White Temple, Blue Temple & Baan Dam",
+  "area": "Chiang Rai, ~3 h by road from Chiang Mai (day trip or overnight)",
+  "category": "Day trips",
+  "blurb": "Three striking modern art temples: the all-white Wat Rong Khun with its mirror mosaics, the sapphire-and-gold Wat Rong Suea Ten, and Baan Dam (Black House), an eerie complex of dark teak buildings by artist Thawan Duchanee. Add the Saturday/Sunday walking streets or Singha Park tea fields if you stay over.",
+  "why": "Unlike anything else in Thailand; strongest case for re-adding Chiang Rai, ideally as an overnight with the sights below.",
+  "touristiness": 5,
+  "time_needed": "Full day (long) or 1–2 nights",
+  "getting_there": "Green Bus from Arcade terminal (~3 h, ~200–270 THB) or private driver (~3,500–4,500 THB for the day).",
+  "cost": "White Temple 100 THB; Baan Dam 80 THB; Blue Temple free",
+  "best_time": "White Temple right at opening (8:00) to beat tour buses; Dec–Jan is ideal weather.",
+  "coords": [
+   19.8243,
+   99.7633
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Wat_Rong_Khun",
+   "https://en.wikipedia.org/wiki/Baan_Dam_Museum"
+  ]
+ },
+ {
+  "id": "cm-doi-mae-salong",
+  "region": "Northern Thailand",
+  "name": "Doi Mae Salong (Santikhiri)",
+  "area": "Chiang Rai province, ~3.5–4 h from Chiang Mai; 1.5 h from Chiang Rai",
+  "category": "Day trips",
+  "blurb": "A mountaintop village founded by Chinese Kuomintang soldiers who fled Yunnan in 1949, now surrounded by oolong tea terraces. Drink tea at plantations like 101 Tea, eat Yunnanese noodles, walk the morning market with Akha and Lisu traders, and climb to the Princess Mother's chedi for the view.",
+  "why": "Peaceful, unusual history and some of the most beautiful hill scenery in Thailand.",
+  "touristiness": 2,
+  "time_needed": "1 night",
+  "getting_there": "Car via Chiang Rai or bus to Mae Chan then songthaew; best combined with Chiang Rai or Phu Chi Fa.",
+  "cost": "Guesthouses ~600–2,000 THB; tea tastings free–100 THB",
+  "best_time": "Early morning for mist over the tea fields; Dec–Jan is cold (~8 °C at night) and has cherry blossoms in some years (Jan).",
+  "coords": [
+   20.163,
+   99.627
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Mae_Salong"
+  ]
+ },
+ {
+  "id": "cm-phu-chi-fa",
+  "region": "Northern Thailand",
+  "name": "Phu Chi Fa sunrise",
+  "area": "Chiang Rai province, Laos border; ~4.5 h from Chiang Mai, 2 h from Chiang Rai",
+  "category": "Skyline & views",
+  "blurb": "A knife-edge cliff at ~1,600 m jutting out toward Laos, where a sea of clouds fills the Mekong valley at dawn. A 20–30 minute walk from the village takes you to the point in the dark; you watch the sun rise over the clouds.",
+  "why": "One of the great sunrise views of Southeast Asia, at its best exactly in Dec–Jan.",
+  "touristiness": 3,
+  "time_needed": "1 night (stay in Phu Chi Fa village)",
+  "getting_there": "Private car or rental via Chiang Rai (no practical public transport at dawn).",
+  "cost": "Free; homestays ~500–1,500 THB; car ~4,000 THB/day",
+  "best_time": "Dec–Jan is peak cloud-sea season; very crowded at weekends and New Year. Sunrise ~6:45.",
+  "coords": [
+   19.853,
+   100.45
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Phu_Chi_Fa_Forest_Park"
+  ]
+ },
+ {
+  "id": "cm-chiang-saen-golden-triangle",
+  "region": "Northern Thailand",
+  "name": "Chiang Saen ruins & the Golden Triangle",
+  "area": "Chiang Rai province, ~4 h from Chiang Mai; 1 h from Chiang Rai",
+  "category": "History & temples",
+  "blurb": "Chiang Saen is an old walled Lanna city on the Mekong with brick chedis scattered through its streets, including Wat Pa Sak. A few km north, the Golden Triangle viewpoint and the excellent Hall of Opium museum overlook the meeting of Thailand, Laos and Myanmar.",
+  "why": "Historic, quiet riverside ruins plus a strong museum and a famous view.",
+  "touristiness": 3,
+  "time_needed": "Half to full day",
+  "getting_there": "Combine with Chiang Rai or Mae Salong on a 2-night northern loop by car.",
+  "cost": "Hall of Opium ~200 THB; Wat Pa Sak ~50 THB",
+  "best_time": "Morning or late afternoon light on the Mekong.",
+  "coords": [
+   20.275,
+   100.083
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Chiang_Saen",
+   "https://en.wikipedia.org/wiki/Hall_of_Opium"
+  ]
+ },
+ {
+  "id": "cm-lampang",
+  "region": "Northern Thailand",
+  "name": "Lampang: Wat Phra That Lampang Luang & old town",
+  "area": "Lampang, ~1.5 h from Chiang Mai (train or car)",
+  "category": "Day trips",
+  "blurb": "Wat Phra That Lampang Luang is a walled 13th–15th-century hilltop temple, perhaps the finest surviving Lanna wooden temple, famous for a pinhole image of the chedi projected upside down in a dark hall. Lampang town has teak mansions like Baan Sao Nak, horse-drawn carriages and a Sunday walking street along the river.",
+  "why": "Top-tier Lanna heritage with a relaxed, small-town feel, easy as a day trip.",
+  "touristiness": 2,
+  "time_needed": "Full day",
+  "getting_there": "Scenic train (~2 h) or bus/car (~1.5 h); Lampang Luang is ~20 km outside town.",
+  "cost": "Temple free; Baan Sao Nak ~50 THB; horse cart ~400 THB",
+  "best_time": "Any day; Sunday adds the Kad Kong Ta walking street (evening).",
+  "coords": [
+   18.218,
+   99.389
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Wat_Phra_That_Lampang_Luang"
+  ]
+ },
+ {
+  "id": "cm-nan",
+  "region": "Northern Thailand",
+  "name": "Nan: Wat Phumin murals & Doi Samer Dao",
+  "area": "Nan, ~5.5 h by road (or flight via Bangkok)",
+  "category": "Day trips",
+  "blurb": "A slow, unspoiled provincial town with a cross-shaped temple, Wat Phumin, whose 19th-century murals (including the famous 'whispering' couple) show daily life of the time. Nearby are Tai Lue villages, the Bo Kluea salt wells in the mountains and the Doi Samer Dao cliff viewpoint in Sri Nan National Park.",
+  "why": "The most peaceful and least touristed culture stop in the north, ideal if you want to replace a busy stay.",
+  "touristiness": 2,
+  "time_needed": "2 nights",
+  "getting_there": "Long drive from Chiang Mai; better as a flight from Bangkok (Nan has its own airport).",
+  "cost": "Temples free; guesthouses ~700–2,000 THB",
+  "best_time": "Dec–Jan cool and clear; Doi Samer Dao sunrise/sunset camping is popular in this season.",
+  "coords": [
+   18.7756,
+   100.7715
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Wat_Phumin",
+   "https://en.wikipedia.org/wiki/Nan,_Thailand"
+  ]
+ },
+ {
+  "id": "cm-sukhothai",
+  "region": "Northern Thailand",
+  "name": "Sukhothai & Si Satchanalai historical parks",
+  "area": "Sukhothai, ~4.5–5 h by bus from Chiang Mai (or 1 h flight from Bangkok)",
+  "category": "History & temples",
+  "blurb": "The 13th-century first Thai capital: lotus-bud chedis, giant seated Buddhas and ruins reflected in moats, best explored by bicycle. Si Satchanalai, an hour north, is a quieter, forested sister city with elephant-flanked chedis.",
+  "why": "UNESCO-listed history at its most serene; many prefer it to Ayutthaya for atmosphere.",
+  "touristiness": 3,
+  "time_needed": "1–2 nights",
+  "getting_there": "Bus from Chiang Mai (~5 h) or route Bangkok–Sukhothai–Chiang Mai to break the journey.",
+  "cost": "~100 THB per zone; bike rental ~50 THB",
+  "best_time": "Sunrise and sunset at Wat Mahathat; the Loy Krathong festival is earlier (Nov), Dec–Jan is pleasant and dry.",
+  "coords": [
+   17.017,
+   99.704
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Sukhothai_Historical_Park",
+   "https://en.wikipedia.org/wiki/Si_Satchanalai_Historical_Park"
+  ]
+ }
+]

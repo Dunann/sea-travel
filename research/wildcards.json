@@ -1,0 +1,507 @@
+[
+  {
+    "id": "wc-luang-prabang",
+    "region": "Wildcards",
+    "name": "Luang Prabang (Laos)",
+    "area": "Laos; ~1h nonstop flight from Chiang Mai. Slot 2–3 nights between Chiang Mai and Siem Reap (take 1 night from Chiang Mai or Bangkok).",
+    "category": "Alternative stops",
+    "blurb": "A UNESCO-listed former royal capital on a peninsula where the Mekong and Nam Khan rivers meet, packed with gilded temples, French colonial villas and riverside cafés. Watch the dawn alms round of saffron-robed monks, climb Mount Phousi for sunset, swim at the turquoise Kuang Si Falls and take a longtail boat to the Pak Ou caves full of Buddha images.",
+    "why": "It is the most peaceful, atmospheric old town in the region and pure history and culture, without Bangkok's scale or noise.",
+    "touristiness": 3,
+    "time_needed": "2–3 nights",
+    "getting_there": "Lao Airlines (and Bangkok Airways) fly Chiang Mai–Luang Prabang nonstop in about 50–60 min. Onward to Siem Reap: Vietnam Airlines has run Luang Prabang–Siem Reap, but schedules are thin, so check; otherwise connect via Bangkok (LPQ–BKK ~1h40, then BKK–SAI ~1h). Laos visa on arrival or eVisa (~US$40–45).",
+    "cost": "Flights ~US$150–200 one-way per leg; guesthouses US$30–60, boutique hotels US$100–250 a night; Kuang Si entry ~US$2.",
+    "best_time": "Dec–Jan is the best weather (dry, sunny days, cool 10–15 °C mornings) but also peak season: book rooms early, especially around New Year. Hmong New Year celebrations happen in villages around the town in December.",
+    "coords": [
+      19.8856,
+      102.1347
+    ],
+    "image": "images/wc-luang-prabang.jpg",
+    "image_credit": "Basile Morin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Temple_Wat_Xieng_Thong_-_Luang_Prabang_-_Laos.jpg",
+    "video": null,
+    "links": [
+      "https://whc.unesco.org/en/list/479",
+      "https://en.wikivoyage.org/wiki/Luang_Prabang",
+      "https://www.flightconnections.com/flights-from-cnx-to-lpq"
+    ]
+  },
+  {
+    "id": "wc-mekong-slow-boat",
+    "region": "Wildcards",
+    "name": "Mekong slow boat: Huay Xai to Luang Prabang",
+    "area": "Thai–Lao border (Chiang Khong/Huay Xai) to Luang Prabang; replaces the flight from Chiang Mai to Luang Prabang with a 3-day overland journey.",
+    "category": "Journeys",
+    "blurb": "Two days drifting down the Mekong on a long wooden boat, past jungle-covered hills, sandbanks, water buffalo and riverside villages, with a night in the tiny river village of Pakbeng. Bus from Chiang Mai to the border at Chiang Khong (via the White Temple at Chiang Rai), cross the Friendship Bridge into Laos, then let the river carry you to Luang Prabang.",
+    "why": "It is slow travel at its most peaceful and adventurous, and it turns the move between Thailand and Laos into a memory instead of an airport day.",
+    "touristiness": 3,
+    "time_needed": "3 days / 2 nights (Chiang Mai to Luang Prabang)",
+    "getting_there": "Chiang Mai → Chiang Khong by bus or van (~5–6h, or break in Chiang Rai), cross Friendship Bridge IV to Huay Xai, boat leaves ~09:00–11:00; ~7–8h per day; overnight in Pakbeng. More comfortable private cruises (Luang Say, Shompoo, Nagi of Mekong) include lodges and meals.",
+    "cost": "Public slow boat ~US$30–35 (200,000 kip in Dec 2025) plus ~US$20–30 for buses and a Pakbeng guesthouse; private cruises ~US$300–600 per person.",
+    "best_time": "Dry season (Dec–Jan) means clear, comfortable days but cold, foggy mornings on the river: bring a jacket and a cushion. Boats are busy in peak season; buy tickets the day before at Huay Xai.",
+    "coords": [
+      19.8939,
+      101.1306
+    ],
+    "image": "images/wc-mekong-slow-boat.jpg",
+    "image_credit": "Dan Searle from London, England, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:The_slow_boat_up_the_Mekong_River_in_Laos.jpg",
+    "video": null,
+    "links": [
+      "https://www.nomadasaurus.com/slow-boat-to-laos-tips-advice/",
+      "https://goasia.cc/en/laos/huay-xai-to-luang-prabang",
+      "https://hobomaps.com/TravelPakBeng.html"
+    ]
+  },
+  {
+    "id": "wc-bangkok-vientiane-sleeper",
+    "region": "Wildcards",
+    "name": "Bangkok–Vientiane sleeper train + Lao–China Railway",
+    "area": "Bangkok (Krung Thep Aphiwat) → Vientiane (Khamsavath) overnight, then high-speed train to Luang Prabang; an overland alternative route into Laos from Bangkok.",
+    "category": "Journeys",
+    "blurb": "Since July 2024 a direct overnight train runs from Bangkok's new Krung Thep Aphiwat station across the Mekong Friendship Bridge to Vientiane's Khamsavath station. From Vientiane the Chinese-built Laos–China Railway runs through tunnels and karst mountains to Luang Prabang in about 2 hours, making a Bangkok → Laos → (fly) Siem Reap loop possible with no airport until the end.",
+    "why": "It is a real sense of adventure (crossing a border by sleeper train and riding a brand-new mountain railway) that few visitors try.",
+    "touristiness": 2,
+    "time_needed": "1 night on the train + 1 day (Vientiane stop optional)",
+    "getting_there": "Train 133 leaves Krung Thep Aphiwat ~21:25 and reaches Khamsavath ~09:05 (some reports say sleeper cars stop at Nong Khai and passengers change to a shuttle train across the bridge; check when booking). Laos–China Railway Vientiane–Luang Prabang tickets go on sale via the LCR Ticket app and sell out in peak season.",
+    "cost": "Sleeper ~US$30–40; Laos–China Railway Vientiane–Luang Prabang ~US$20–35.",
+    "best_time": "Cool, dry Dec–Jan is ideal. Book both trains as early as sales open; around New Year both are heavily booked by Thai and Lao travellers.",
+    "coords": [
+      17.9757,
+      102.6331
+    ],
+    "image": "images/wc-bangkok-vientiane-sleeper.jpg",
+    "image_credit": "Dominik Landwehr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Train_Station_Luang_Prabang_-_Laos_China_Railway.jpg",
+    "video": null,
+    "links": [
+      "https://www.andybtravels.com/en-route-blog/bangkok-vientiane-train",
+      "https://www.nomadicnotes.com/vientiane-khamsavath-railway-station",
+      "https://thesmartlocal.com/read/train-thailand-to-laos/"
+    ]
+  },
+  {
+    "id": "wc-nan",
+    "region": "Wildcards",
+    "name": "Nan (northern Thailand)",
+    "area": "Northern Thailand near the Lao border; ~1h10 flight from Bangkok Don Mueang. A quiet replacement for 1–2 Chiang Mai nights, or a substitute for the dropped Chiang Rai leg.",
+    "category": "Alternative stops",
+    "blurb": "A sleepy, old Lanna-era city in a green valley, famous for the 19th-century murals of Wat Phumin (including the 'whispering' couple) and the gold chedi of Wat Phra That Chae Haeng. Rent a scooter or hire a driver for the Sapan village rice terraces, the ancient Bo Kluea mountain salt wells and the sea-of-fog viewpoint at Doi Samer Dao.",
+    "why": "It is northern Thailand's peaceful, unspoiled alternative to Chiang Mai, with real culture and mountain scenery and few foreign tourists.",
+    "touristiness": 2,
+    "time_needed": "2–3 nights",
+    "getting_there": "Thai AirAsia and Nok Air fly Bangkok (DMK)–Nan several times a day (~1h10). A new small-plane Chiang Mai–Nan service was due to start in November 2026 (check status); otherwise bus/van from Chiang Mai ~6h.",
+    "cost": "Flights ~US$40–80 one-way; good hotels US$30–90; scooter ~US$8/day, driver ~US$60/day.",
+    "best_time": "Dec–Jan is cool, clear and misty in the mornings (best season for the fog viewpoints); Thai visitors flock here over the New Year holiday, so book rooms early for 29 Dec–2 Jan.",
+    "coords": [
+      18.7755,
+      100.7716
+    ],
+    "image": "images/wc-nan.jpg",
+    "image_credit": "Takeaway, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2013_Wat_Phumin_Nan.jpg",
+    "video": null,
+    "links": [
+      "https://en.wikivoyage.org/wiki/Nan",
+      "https://www.chiangmaicitylife.com/citynews/general/new-direct-air-service-to-connect-chiang-mai-and-nan-starting-november-2026/",
+      "https://www.flightconnections.com/flights-from-dmk-to-nnt"
+    ]
+  },
+  {
+    "id": "wc-sukhothai-si-satchanalai",
+    "region": "Wildcards",
+    "name": "Sukhothai & Si Satchanalai",
+    "area": "Central-north Thailand, halfway between Bangkok and Chiang Mai; a 2-night stop on the way north (take 1 night each from Bangkok and Chiang Mai).",
+    "category": "Alternative stops",
+    "blurb": "Thailand's first capital (13th–15th century), a UNESCO park of lotus ponds, lotus-bud chedis and serene walking Buddhas that you explore by bicycle. Its twin city Si Satchanalai, an hour north, is quieter still: overgrown temples like Wat Chang Lom ringed with elephant statues, where you may be the only visitor.",
+    "why": "It gives the historical-marvels hit of Ayutthaya with far more calm and atmosphere, especially at sunrise and sunset.",
+    "touristiness": 3,
+    "time_needed": "2 nights",
+    "getting_there": "Bangkok Airways flies Bangkok–Sukhothai (~1h20); or train to Phitsanulok (~5–7h, can break the trip at Lopburi's Khmer-era Phra Prang Sam Yot) then bus 1h; Sukhothai → Chiang Mai by bus ~5h.",
+    "cost": "Park zones 100 THB each (~US$3); bike rental ~US$1–2/day; hotels US$25–120; flight ~US$80–120.",
+    "best_time": "Dec–Jan is the cool, dry season: the best time to cycle the parks. Mid-December is quiet; the big festival (Loy Krathong) is in November, outside the trip.",
+    "coords": [
+      17.017,
+      99.7036
+    ],
+    "image": "images/wc-sukhothai-si-satchanalai.jpg",
+    "image_credit": "Khunkay, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wat_srichum_03.jpg",
+    "video": null,
+    "links": [
+      "https://whc.unesco.org/en/list/574",
+      "https://en.wikivoyage.org/wiki/Sukhothai",
+      "https://en.wikivoyage.org/wiki/Si_Satchanalai"
+    ]
+  },
+  {
+    "id": "wc-phimai-phanom-rung",
+    "region": "Wildcards",
+    "name": "Phimai & Phanom Rung Khmer temples (Isan)",
+    "area": "Northeast Thailand (Nakhon Ratchasima and Buriram provinces); a 2-night loop from Bangkok. Note: it can no longer be part of an overland Bangkok→Siem Reap route because the land border is closed.",
+    "category": "Alternative stops",
+    "blurb": "Phimai is an 11th–12th-century Khmer sanctuary often called a forerunner of Angkor Wat, sitting in a quiet town at the end of the old Khmer royal road from Angkor. Phanom Rung crowns an extinct volcano with a grand processional causeway and naga bridges, and the moated Prasat Muang Tam lies just below it.",
+    "why": "These are superb Khmer marvels that almost no foreign visitors see, making them a peaceful prelude (or alternative) to the crowds at Angkor.",
+    "touristiness": 2,
+    "time_needed": "2 nights",
+    "getting_there": "Train or bus Bangkok → Nakhon Ratchasima (Korat) ~3.5–4.5h, local bus to Phimai ~1h; Phanom Rung is ~2h from Korat by car (hire a driver). Or fly Bangkok (DMK) → Buriram (~1h) and drive 1h to Phanom Rung. Phanom Rung is about 30 km from the Cambodian border, outside the UK FCDO's 20 km 'all but essential travel' zone; Surin's border temples (Ta Muen, Ta Kwai) are closed/restricted.",
+    "cost": "Entry 100 THB per site (~US$3); car with driver ~US$60–90/day; hotels US$25–80.",
+    "best_time": "Dec–Jan is cool and dry, the most pleasant time in Isan. Visitor numbers dropped ~80% after the December 2025 border clashes, so expect near-empty sites; check advisories before going.",
+    "coords": [
+      14.5317,
+      102.9425
+    ],
+    "image": "images/wc-phimai-phanom-rung.jpg",
+    "image_credit": "Philip Nalangan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Phanom_Rung_Buriram_Thailand_01.jpg",
+    "video": null,
+    "links": [
+      "https://www.khaosodenglish.com/news/2025/12/22/thai-cambodian-border-tensions-cut-visitors-to-historic-temples-by-nearly-80/",
+      "https://en.wikivoyage.org/wiki/Phimai",
+      "https://www.gov.uk/foreign-travel-advice/thailand"
+    ]
+  },
+  {
+    "id": "wc-khao-sok-cheow-lan",
+    "region": "Wildcards",
+    "name": "Khao Sok: Cheow Lan Lake floating bungalows",
+    "area": "Southern Thailand (Surat Thani province); slot 2 nights between Kuala Lumpur and Bangkok (fly KL → Phuket/Krabi/Surat Thani, then Surat Thani/Phuket → Bangkok).",
+    "category": "Alternative stops",
+    "blurb": "An emerald reservoir inside one of the world's oldest rainforests, ringed by sheer limestone karsts. Sleep in a bamboo raft house on the water, kayak at dawn while gibbons call, swim off your porch, and hike to jungle caves such as Nam Talu.",
+    "why": "It is the trip's most peaceful and adventurous nature stop, with a sunrise view that rivals any skyline.",
+    "touristiness": 3,
+    "time_needed": "2 nights (1 at Khao Sok village + 1 on the lake, or 2 on the lake)",
+    "getting_there": "Fly KL → Phuket or Krabi (AirAsia ~1.5h), then minivan 2.5–3h to Khao Sok; from Surat Thani airport ~2h. Lake boats leave from Ratchaprapha Dam (~1h from the village). Leave via Surat Thani or Phuket flights to Bangkok (~1h15).",
+    "cost": "Overnight lake tour with raft house, boat, meals and guide ~US$80–150 per person; upscale floating camps (e.g. 500 Rai, Elephant Hills Rainforest Camp) US$300+; flights US$40–100 each.",
+    "best_time": "Dry season starts around December (early December can still bring showers) and runs to April; Dec–Jan is good, misty mornings on the lake. Raft houses fill over Christmas/New Year: book ahead.",
+    "coords": [
+      8.974,
+      98.8197
+    ],
+    "image": "images/wc-khao-sok-cheow-lan.jpg",
+    "image_credit": "Vyacheslav Argenberg, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Karst_formations_on_Cheow_Lan_Lake%2C_Thailand.jpg",
+    "video": null,
+    "links": [
+      "https://en.wikivoyage.org/wiki/Khao_Sok_National_Park",
+      "https://www.selectiveasia.com/thailand-holidays/hotels/floating-raft-house/"
+    ]
+  },
+  {
+    "id": "wc-koh-kood",
+    "region": "Wildcards",
+    "name": "Koh Kood (Koh Kut) island",
+    "area": "Gulf of Thailand, Trat province; 1h flight + 1h boat from Bangkok. Could take 2–3 of the Bangkok nights for a peaceful beach break.",
+    "category": "Alternative stops",
+    "blurb": "Thailand's quiet, undeveloped island: clear water, empty coves, jungle waterfalls (Khlong Chao, Huang Nam Khiao) and the stilt fishing villages of Ao Salad and Ao Yai. No big resorts or nightlife, just kayaking through mangroves and sunsets from the pier.",
+    "why": "If the traveler wants one truly peaceful pause in the trip, this is the calmest island in easy reach of Bangkok.",
+    "touristiness": 2,
+    "time_needed": "2–3 nights",
+    "getting_there": "Bangkok Airways BKK → Trat (~1h), taxi to Laem Sok pier, speedboat ~1h; or combined van + boat from Bangkok ~6–7h. Note: Koh Kood is close to Cambodian waters; the UK advice (20 km from the land border) does not name the islands, and a Dec 2025 version explicitly excluded Koh Chang/Koh Kood. Check the FCDO map before booking.",
+    "cost": "Flight ~US$80–130 one-way; boat ~US$20–35; bungalows US$40–100, upscale (Soneva Kiri) US$1,000+.",
+    "best_time": "Nov–Apr is calm and sunny; Dec–Jan is the best weather and peak season, so book the New Year period early.",
+    "coords": [
+      11.6667,
+      102.5833
+    ],
+    "image": "images/wc-koh-kood.jpg",
+    "image_credit": "Vyacheslav Argenberg, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Koh_Kut%2C_Thailand%2C_Palms_on_the_beach_before_sunset.jpg",
+    "video": null,
+    "links": [
+      "https://en.wikivoyage.org/wiki/Ko_Kut",
+      "https://explorertom.com/en/?p=110723"
+    ]
+  },
+  {
+    "id": "wc-penang-george-town",
+    "region": "Wildcards",
+    "name": "Penang: George Town",
+    "area": "Northwest Malaysia; ~4h train or 1h flight from KL. Could replace 1–2 KL nights; fly Penang → Bangkok directly (~1.5h).",
+    "category": "Alternative stops",
+    "blurb": "A UNESCO-listed trading port of Chinese clan houses, Peranakan mansions, mosques, Hindu temples and colonial streets, all walkable. Explore the Khoo Kongsi clan temple and the clan jetties on stilts, eat at the hawker stalls (Penang is Malaysia's food capital), ride the funicular up Penang Hill and visit the huge Kek Lok Si temple.",
+    "why": "It soaks up history and atmosphere on every street, a slower and more characterful counterpart to KL's skyline.",
+    "touristiness": 4,
+    "time_needed": "2 nights",
+    "getting_there": "ETS electric train KL Sentral → Butterworth ~4h, then a 10-min ferry; or fly KL → Penang (~1h). AirAsia flies Penang → Bangkok nonstop.",
+    "cost": "ETS ~US$20–25; flights US$30–90; heritage hotels US$50–200; hawker meals US$2–5.",
+    "best_time": "Dec–Feb is the driest, sunniest season. Christmas and New Year are busy; Thaipusam (22 Jan 2027) is also big in Penang.",
+    "coords": [
+      5.4141,
+      100.3288
+    ],
+    "image": "images/wc-penang-george-town.jpg",
+    "image_credit": "Cmglee, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Clan_Jetties.jpg",
+    "video": null,
+    "links": [
+      "https://whc.unesco.org/en/list/1223",
+      "https://en.wikivoyage.org/wiki/George_Town_(Malaysia)"
+    ]
+  },
+  {
+    "id": "wc-kuching",
+    "region": "Wildcards",
+    "name": "Kuching & Bako (Malaysian Borneo)",
+    "area": "Sarawak, Borneo; 1h45 flight from KL. Add 2–3 nights at the start (KL → Kuching → KL/Bangkok).",
+    "category": "Alternative stops",
+    "blurb": "A relaxed riverside city with a white-rajah history, Chinese temples and colonial forts. From here you can see semi-wild orangutans at Semenggoh, hike the coastal jungle of Bako National Park to spot proboscis monkeys, and visit a Bidayuh longhouse at Annah Rais.",
+    "why": "It adds a real Borneo adventure and wildlife to a city-and-temples trip while staying peaceful and uncrowded.",
+    "touristiness": 2,
+    "time_needed": "2–3 nights",
+    "getting_there": "AirAsia / Malaysia Airlines KL → Kuching (~1h45, many daily). Bako: 40 min by road + 20 min boat; Semenggoh: 30 min by road. AirAsia also flies Kuching → Bangkok on some schedules (check), otherwise back via KL.",
+    "cost": "Flights US$40–100 each way; Bako boat ~US$10–20; Semenggoh entry ~US$2–5; hotels US$40–150.",
+    "best_time": "Dec–Jan is the northeast monsoon, Kuching's wettest season: expect heavy rain showers, and Bako boats can be cancelled in rough seas. Orangutans often visit the Semenggoh feeding platforms more when forest fruit is scarce.",
+    "coords": [
+      1.5535,
+      110.3593
+    ],
+    "image": "images/wc-kuching.jpg",
+    "image_credit": "diego_cue, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Kuching_Waterfront_and_its_Parliament_building_-_Sarawak_-_Borneo_-_Malaysia_-_panoramio.jpg",
+    "video": null,
+    "links": [
+      "https://en.wikivoyage.org/wiki/Kuching",
+      "https://en.wikivoyage.org/wiki/Bako_National_Park"
+    ]
+  },
+  {
+    "id": "wc-battambang",
+    "region": "Wildcards",
+    "name": "Battambang (Cambodia)",
+    "area": "Northwest Cambodia; 3–4h by bus or 5–8h by boat from Siem Reap. Add 2 nights after Siem Reap or take 1 Siem Reap night.",
+    "category": "Alternative stops",
+    "blurb": "Cambodia's second city is a laid-back riverside town of French colonial shophouses and art galleries. Ride out to Phnom Sampov to see millions of bats pour out of a cave at dusk, visit the hilltop Angkorian temples of Wat Banan and Ek Phnom, ride the bamboo train, and catch a performance by the Phare Ponleu Selpak circus school.",
+    "why": "It is authentic, unhurried Cambodian life with history and quirky adventure, far fewer tourists than Siem Reap.",
+    "touristiness": 2,
+    "time_needed": "2 nights",
+    "getting_there": "Bus/van Siem Reap → Battambang 3–4h (US$8–12), or the river boat (see Tonle Sap boat journey). Onward to Phnom Penh by bus ~5–6h. Battambang city is about 70 km from the Thai border, outside the advisory zone; avoid Pailin and the border districts.",
+    "cost": "Bus US$8–12; tuk-tuk day tour US$15–25; bat cave/temple entries a few dollars; hotels US$20–80.",
+    "best_time": "Dec–Jan is dry and pleasant (around 30 °C days, cool nights). The bat exodus happens every evening around 17:30–18:00.",
+    "coords": [
+      13.0957,
+      103.2022
+    ],
+    "image": "images/wc-battambang.jpg",
+    "image_credit": "Christophe95, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Spean_Thmor_Chas_and_Battambang_City_Hall.jpg",
+    "video": null,
+    "links": [
+      "https://en.wikivoyage.org/wiki/Battambang",
+      "https://www.gov.uk/foreign-travel-advice/cambodia"
+    ]
+  },
+  {
+    "id": "wc-tonle-sap-boat",
+    "region": "Wildcards",
+    "name": "River boat Siem Reap → Battambang",
+    "area": "Across the Tonle Sap lake and up the Sangker River; links Siem Reap and Battambang in one day.",
+    "category": "Journeys",
+    "blurb": "A small boat crosses the top of the Tonle Sap lake and winds up narrow rivers through floating villages, stilt houses, fishing nets and bird-filled wetlands near Prek Toal. It is a long, bumpy, sunny day, but you see a way of life that no road passes.",
+    "why": "It turns a transfer into an adventure and an unforgettable look at life on the water.",
+    "touristiness": 2,
+    "time_needed": "1 day (5–8 hours)",
+    "getting_there": "Daily public boats leave Chong Kneas pier (south of Siem Reap) around 07:00; private boats also available. Book through your hotel or 12Go.",
+    "cost": "Public boat ~US$25–35; private boat ~US$150–250.",
+    "best_time": "Runs best when the water is high (Aug–Dec). By late December–January water is dropping, so expect a slower trip and possibly a short road transfer around shallow stretches; ask operators about current levels a few days before.",
+    "coords": [
+      13.15,
+      103.63
+    ],
+    "image": "images/wc-tonle-sap-boat.jpg",
+    "image_credit": "Christophe95, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Floating_village_on_the_Tonl%C3%A9_Sap_3.jpg",
+    "video": null,
+    "links": [
+      "https://www.thestar.com.my/aseanplus/aseanplus-news/2024/08/07/siem-reap-resumes-scenic-boat-journey-to-battambang",
+      "https://12go.asia/en/ferry/siem-reap/battambang"
+    ]
+  },
+  {
+    "id": "wc-phnom-penh",
+    "region": "Wildcards",
+    "name": "Phnom Penh",
+    "area": "Cambodia's capital; 5–6h by bus or 45-min flight from Siem Reap. Add 2 nights at the end and fly home from Phnom Penh's new Techo International Airport.",
+    "category": "Alternative stops",
+    "blurb": "A riverside capital where the Tonle Sap meets the Mekong: the gold-roofed Royal Palace and Silver Pagoda, the National Museum's Angkorian sculpture, French-era boulevards and a fast-growing skyline. The Tuol Sleng (S-21) museum and the Choeung Ek killing fields are sobering but essential to understanding the country.",
+    "why": "It completes the Cambodia story from Angkor to the present, with grand historical sights and great riverfront sunsets.",
+    "touristiness": 3,
+    "time_needed": "2 nights",
+    "getting_there": "Giant Ibis or other express buses Siem Reap → Phnom Penh ~5–6h (US$15–18); or fly ~45 min. Can be combined with a stop at Sambor Prei Kuk on the road. International flights now use Techo International Airport (opened 2025), ~1h south of the city.",
+    "cost": "Bus US$15–18; Royal Palace US$10; Tuol Sleng US$5 (+audio guide); Choeung Ek US$6 incl. audio; hotels US$40–150.",
+    "best_time": "Dec–Jan is dry and the least hot. 7 January (Victory over Genocide Day) is a public holiday.",
+    "coords": [
+      11.5564,
+      104.9282
+    ],
+    "image": "images/wc-phnom-penh.jpg",
+    "image_credit": "Hanay, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Royal_Palace%2C_Phnom_Penh_Cambodia_1.jpg",
+    "video": null,
+    "links": [
+      "https://en.wikivoyage.org/wiki/Phnom_Penh"
+    ]
+  },
+  {
+    "id": "wc-kampot-kep",
+    "region": "Wildcards",
+    "name": "Kampot & Kep (with the Phnom Penh–Kampot train)",
+    "area": "Southern Cambodia coast; ~4h by train or 3h by bus from Phnom Penh. A 2–3 night peaceful ending after Siem Reap + Phnom Penh.",
+    "category": "Alternative stops",
+    "blurb": "Kampot is a sleepy riverside town of faded French shophouses, sunset river cruises and Kampot pepper farms. Above it, Bokor Mountain holds an abandoned 1920s French hill station with a ghostly church and palace hotel; nearby Kep is a seaside village known for crab fresh from the market and boats to Rabbit Island.",
+    "why": "It is the most relaxed, atmospheric corner of Cambodia, with colonial history and a little adventure (scooters, mountains, islands).",
+    "touristiness": 2,
+    "time_needed": "2–3 nights",
+    "getting_there": "Royal Railway train Phnom Penh → Kampot ~4h, one or two a day (~US$10), a slow, scenic ride through rice fields; or bus/van ~3h. Kep is 30 min from Kampot by tuk-tuk. Back to Phnom Penh's airport ~3h by car.",
+    "cost": "Train ~US$10; Bokor by tuk-tuk/scooter US$15–30; pepper farm tours free–US$10; hotels US$25–120.",
+    "best_time": "Dec–Jan is dry, sunny and calm on the sea: the best season. Bokor's summit can be cool and misty.",
+    "coords": [
+      10.6104,
+      104.1815
+    ],
+    "image": "images/wc-kampot-kep.jpg",
+    "image_credit": "Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Sunset_Boat_along_Kampot_River_-_Kampot_-_Cambodia_%2848528860111%29.jpg",
+    "video": null,
+    "links": [
+      "https://en.wikivoyage.org/wiki/Kampot",
+      "https://www.omio.com/trains/phnom-penh/kampot-96ljj"
+    ]
+  },
+  {
+    "id": "wc-sambor-prei-kuk",
+    "region": "Wildcards",
+    "name": "Sambor Prei Kuk",
+    "area": "Kampong Thom province, Cambodia; ~2.5–3h from Siem Reap and ~3h from Phnom Penh. A stop on the road between the two, or a long day trip from Siem Reap.",
+    "category": "Alternative stops",
+    "blurb": "A UNESCO site (2017) that was the 7th-century capital Ishanapura, five centuries older than Angkor Wat. Over a hundred brick temples, many octagonal and carved with 'flying palaces', stand in a quiet forest, some gripped by strangler fig roots; a community-run homestay and food stalls sit by the entrance.",
+    "why": "It is a true hidden gem of pre-Angkor history, with the jungle-temple atmosphere of Ta Prohm and almost no crowds.",
+    "touristiness": 1,
+    "time_needed": "Half a day (or 1 night in a homestay)",
+    "getting_there": "Hire a car with driver Siem Reap → Sambor Prei Kuk → Phnom Penh (~US$70–100 total), or join a 'transfer with sightseeing' (from ~US$45). Local guides at the gate are worth it.",
+    "cost": "Entry ~US$10; guide ~US$5–10; homestay ~US$15–20.",
+    "best_time": "Dry season (Dec–Jan) makes the forest paths easy; visit early morning for light and quiet.",
+    "coords": [
+      12.8714,
+      105.0436
+    ],
+    "image": "images/wc-sambor-prei-kuk.jpg",
+    "image_credit": "PIERRE ANDRE LECLERCQ, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sambor_Prei_Kuk_%282014%29.jpg",
+    "video": null,
+    "links": [
+      "https://whc.unesco.org/en/list/1532",
+      "https://www.aaa.com/tripcanvas/thing-to-do/phnom-penh-to-siem-reap-sambor-prei-kuk-and-spider-market-stop-39527P122"
+    ]
+  },
+  {
+    "id": "wc-bangkok-chiang-mai-sleeper",
+    "region": "Wildcards",
+    "name": "Overnight sleeper train Bangkok → Chiang Mai",
+    "area": "Krung Thep Aphiwat station (Bangkok) → Chiang Mai, ~12–13h overnight; replaces the BKK–CNX flight and saves a hotel night.",
+    "category": "Journeys",
+    "blurb": "Thailand's classic rail journey on the Chinese-built sleeper cars (in service since 2016): staff make up your bunk after dinner, and you wake to the train climbing through teak forests and the Khun Tan tunnel into the northern hills. Upgrade option: the restored 1960s 'Blue Jasmine' train (launched Nov 2025) runs a 9-day luxury Bangkok–Chiang Mai journey with stops at Ayutthaya, Uthai Thani and Sukhothai.",
+    "why": "It is a slow, atmospheric journey with a sense of adventure that makes the trip north part of the experience.",
+    "touristiness": 3,
+    "time_needed": "1 night",
+    "getting_there": "Special Express 9 (and 13/51) leave Krung Thep Aphiwat in the evening, arriving in Chiang Mai the next morning. Book on the State Railway of Thailand D-Ticket site or 12Go; first-class 2-berth cabins sell out first. Daytime trains suit anyone who prefers views over sleep.",
+    "cost": "1st-class cabin ~1,700–2,500 THB (~US$50–75) per berth; 2nd-class sleeper ~900–1,100 THB (~US$27–33). Blue Jasmine from ~195,000 THB (~US$6,000) per person.",
+    "best_time": "Dec–Jan is the busiest rail season; book as soon as tickets open, especially around Christmas/New Year. Bring a layer: the air-con is cold.",
+    "coords": [
+      13.8045,
+      100.5408
+    ],
+    "image": "images/wc-bangkok-chiang-mai-sleeper.jpg",
+    "image_credit": "shankar s. from Dubai, united arab emirates, CC BY 2.0, https://commons.wikimedia.org/wiki/File:The_overnight_express_to_Bangkok_prepares_to_leave_CM_station_%2814739748482%29.jpg",
+    "video": null,
+    "links": [
+      "https://thesmartlocal.com/read/bangkok-chiang-mai-sleeper-train/",
+      "https://www.afar.com/magazine/new-blue-jasmine-train-journey-to-launch-in-thailand"
+    ]
+  },
+  {
+    "id": "wc-nye-bangkok-river",
+    "region": "Wildcards",
+    "name": "New Year's Eve on the Chao Phraya (Amazing Thailand Countdown 2027)",
+    "area": "Bangkok riverside, ICONSIAM River Park; fits the 5 Bangkok nights if they include 31 Dec.",
+    "category": "Events",
+    "blurb": "Bangkok's biggest countdown runs 27–31 December 2026 at ICONSIAM, ending with a 1,400-metre-wide fireworks show over the river (fireworks made with Thai sticky rice), drones and concerts. Best seen from a river dinner cruise or a riverside rooftop rather than the packed mall; for a peaceful alternative, join the midnight 'Suat Mon Kham Pi' chanting held at Thai temples as the year turns.",
+    "why": "It is the region's most spectacular skyline-and-river New Year moment, with a calm cultural alternative on the same night.",
+    "touristiness": 5,
+    "time_needed": "1 evening",
+    "getting_there": "ICONSIAM: free shuttle boat from Saphan Taksin pier or the Gold Line monorail; book river cruises and rooftop tables weeks in advance.",
+    "cost": "Riverside viewing free; dinner cruises ~US$80–250 on NYE; rooftop bars charge NYE packages US$100+.",
+    "best_time": "31 Dec 2026 (event runs 27–31 Dec). Arrive by early evening; transport is jammed after midnight. Note: Vijit Chao Phraya light festival (13 Nov–13 Dec 2026) is over by then.",
+    "coords": [
+      13.7267,
+      100.5103
+    ],
+    "image": "images/wc-nye-bangkok-river.jpg",
+    "image_credit": "Nik Cyclist from Bangkok, Thailand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bangkok_New_Year_2013_%288333497020%29.jpg",
+    "video": null,
+    "links": [
+      "https://www.pattayamail.com/thailandnews/bangkok-prepares-for-spectacular-five-day-amazing-thailand-countdown-2027-571818",
+      "https://www.nationthailand.com/thailand/bangkok/40073564"
+    ]
+  },
+  {
+    "id": "wc-nye-chiang-mai-lanterns",
+    "region": "Wildcards",
+    "name": "New Year's Eve in Chiang Mai: lanterns and Tha Phae Gate",
+    "area": "Chiang Mai old town and CAD Cultural Centre Lanna; fits if the 4 Chiang Mai nights include 31 Dec.",
+    "category": "Events",
+    "blurb": "Chiang Mai welcomes the year with a countdown and fireworks at Tha Phae Gate, monks' chanting at old-town temples, and paper lanterns rising over the city. The legal way to release lanterns is at organised, ticketed events such as the CAD countdown; releasing them in the old town and near the airport is restricted.",
+    "why": "It is a softer, more spiritual New Year than Bangkok's, with real Lanna atmosphere.",
+    "touristiness": 4,
+    "time_needed": "1 evening",
+    "getting_there": "Old town on foot; CAD event by Grab with pre-booked return. Chiang Mai airport has shortened hours on NYE in past years because of lanterns; avoid flying that night.",
+    "cost": "Old-town countdown free; ticketed lantern events ~US$40–120.",
+    "best_time": "31 Dec 2026. Rules on lantern release change year to year: check the city/governor's announcement in late December.",
+    "coords": [
+      18.7877,
+      98.9933
+    ],
+    "image": "images/wc-nye-chiang-mai-lanterns.jpg",
+    "image_credit": "Andrea Schaffer from Sydney, Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Releasing_a_sky_lantern%2C_NYE%2C_Chiang_Mai_%2811900798496%29.jpg",
+    "video": null,
+    "links": [
+      "https://www.timeout.com/chiang-mai/things-to-do/celebrate-under-lanterns-and-fireworks-at-the-chiang-mai-cad-countdown",
+      "https://www.khaosodenglish.com/life/socialmedia/2025/01/02/japanese-tourist-apologizes-to-police-over-sky-lantern-dispute/"
+    ]
+  },
+  {
+    "id": "wc-bo-sang-umbrella-festival",
+    "region": "Wildcards",
+    "name": "Bo Sang Umbrella Festival",
+    "area": "Bo Sang village, ~9 km east of Chiang Mai old town; an evening or afternoon from Chiang Mai.",
+    "category": "Events",
+    "blurb": "Each January the umbrella-making village of Bo Sang fills its main street with hand-painted paper and silk umbrellas, lanterns, craft stalls, a parade of umbrella-carrying cyclists and a local beauty pageant. You can watch artisans make and paint umbrellas and have something painted on the spot.",
+    "why": "A small, local cultural festival that most visitors miss, full of colour and atmosphere.",
+    "touristiness": 2,
+    "time_needed": "Half a day",
+    "getting_there": "Grab or songthaew from Chiang Mai, ~20–30 min.",
+    "cost": "Free; umbrellas from ~US$5.",
+    "best_time": "Expected 15–17 January 2027 (third weekend of January; date not yet officially confirmed). Only relevant if the trip reaches Chiang Mai in mid-January.",
+    "coords": [
+      18.7668,
+      99.075
+    ],
+    "image": "images/wc-bo-sang-umbrella-festival.jpg",
+    "image_credit": "Grossbildjaeger, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Schirme_gr%C3%BCn_rot_blau_Bo_Sang_Ching_Mai_Thailand.jpg",
+    "video": null,
+    "links": [
+      "https://www.carnifest.com/bor-sangs-umbrella-and-handicraft-festival-2027/",
+      "https://www.timeout.com/chiang-mai/things-to-do/join-a-celebration-of-colour-and-craft-at-the-borsang-umbrella-festival"
+    ]
+  },
+  {
+    "id": "wc-thaipusam-batu-caves",
+    "region": "Wildcards",
+    "name": "Thaipusam at Batu Caves",
+    "area": "Batu Caves, 13 km north of KL; only works if the trip runs to late January and includes KL then.",
+    "category": "Events",
+    "blurb": "One of the world's most intense religious festivals: through the night, a silver chariot procession goes from KL's Sri Mahamariamman temple to Batu Caves, and devotees carry ornate kavadis (some pierced with hooks and skewers) up the 272 steps. Over a million people attend.",
+    "why": "A huge cultural and spiritual spectacle, if the dates line up.",
+    "touristiness": 4,
+    "time_needed": "1 night/morning",
+    "getting_there": "KTM Komuter train to Batu Caves (extra services run); go before dawn for the main kavadi climbs.",
+    "cost": "Free.",
+    "best_time": "Friday 22 January 2027 (procession leaves KL the evening before). Probably outside a Dec–early Jan trip; worth knowing if dates shift later.",
+    "coords": [
+      3.2379,
+      101.684
+    ],
+    "image": "images/wc-thaipusam-batu-caves.jpg",
+    "image_credit": "*angys*, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Thaipusam_2025_Devotees_and_Musicians_with_Decorated_Kavadis_on_Procession_Street_at_Batu_Caves_%28250211%29.jpg",
+    "video": null,
+    "links": [
+      "https://www.officeholidays.com/holidays/malaysia/thaipusam",
+      "https://en.wikipedia.org/wiki/Thaipusam"
+    ]
+  }
+]

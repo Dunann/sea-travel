@@ -1,0 +1,750 @@
+[
+ {
+  "id": "bkk-kudi-chin",
+  "region": "Bangkok",
+  "name": "Kudi Chin community & Santa Cruz Church",
+  "area": "Thonburi riverside, opposite Pak Khlong Talat (~3 km from Grand Palace)",
+  "category": "History & temples",
+  "blurb": "A 250-year-old riverside quarter where Portuguese-Thai Catholics, Chinese and Muslim families settled under King Taksin. Wander the lanes around the pastel Santa Cruz Church, the tiny Baan Kudichin Museum, Kian Un Keng Chinese shrine and bakeries selling Portuguese-style 'khanom farang kudi chin' cakes, then continue to the giant seated Buddha of Wat Kalayanamit and the turtle mound at Wat Prayurawongsawat.",
+  "why": "A quiet, layered pocket of history with river views that most visitors staring at Wat Arun never walk into.",
+  "touristiness": 2,
+  "time_needed": "2–3 h",
+  "getting_there": "Cross-river ferry from Pak Khlong Talat or Rajinee pier (a few baht), or walk over Memorial Bridge from the flower market.",
+  "cost": "Free; Baan Kudichin Museum ~50 THB (~$1.50); cakes 20–40 THB",
+  "best_time": "Morning (8–11 am) when bakeries are fresh and it is cooler; church is open around Sunday Mass. Wat Prayurawongsawat is also a Bangkok Art Biennale venue until 28 Feb 2027.",
+  "coords": [
+   13.7398,
+   100.4935
+  ],
+  "image": "images/bkk-kudi-chin.jpg",
+  "image_credit": "Philip Nalangan, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Santa_Cruz_Church_Bangkok_Thailand3.jpg",
+  "video": "https://www.youtube.com/watch?v=gyINSWlsOU4",
+  "links": [
+   "https://www.nationthailand.com/life/travel/40058518",
+   "https://www.afar.com/magazine/inside-bangkoks-hidden-portuguese-village",
+   "https://en.wikipedia.org/wiki/Kudi_Chin"
+  ]
+ },
+ {
+  "id": "bkk-wat-ratchabophit",
+  "region": "Bangkok",
+  "name": "Wat Ratchabophit",
+  "area": "Old Town (Rattanakosin), 500 m east of the Grand Palace",
+  "category": "History & temples",
+  "blurb": "A royal temple from 1869 where everything is covered in multicolored Chinese ceramic tiles, around a circular cloister and a gilded chedi. The ordination hall's doors are inlaid with mother-of-pearl, and the interior surprises with a Gothic, European-style chapel. Next door is a little-visited royal cemetery with Khmer, Gothic and Thai-style memorials.",
+  "why": "Ornate and calm, it rivals the famous temples in detail but you'll often have it nearly to yourself.",
+  "touristiness": 2,
+  "time_needed": "45 min–1 h",
+  "getting_there": "10-minute walk from the Grand Palace or MRT Sanam Chai; combine with Wat Suthat and Phraeng Phuthon.",
+  "cost": "Free (donation)",
+  "best_time": "Morning; the ordination hall opens mainly 9–10 am and 5–6 pm, the grounds all day. Dress modestly.",
+  "coords": [
+   13.7493,
+   100.4973
+  ],
+  "image": "images/bkk-wat-ratchabophit.jpg",
+  "image_credit": "Kriengsak Jirasirirojanakorn, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wat_Ratchabophit_%282%29.jpg",
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Wat_Ratchabophit",
+   "https://www.timeout.com/bangkok/attractions/wat-ratchabophit"
+  ]
+ },
+ {
+  "id": "bkk-wat-suthat",
+  "region": "Bangkok",
+  "name": "Wat Suthat & the Giant Swing",
+  "area": "Old Town, near City Hall (~1.5 km from Grand Palace)",
+  "category": "History & temples",
+  "blurb": "One of Bangkok's six first-class royal temples, with a vast ordination hall, huge wall murals and the 8 m bronze Phra Si Sakyamuni Buddha brought from Sukhothai. Out front stands the red teak Giant Swing, once used in a Brahmin swinging ceremony, and the surrounding streets sell bronze Buddha images and monk supplies.",
+  "why": "A genuinely great temple that most visitors skip because it's not on the Grand Palace–Wat Pho circuit.",
+  "touristiness": 3,
+  "time_needed": "1–1.5 h",
+  "getting_there": "MRT Sam Yot then 10-minute walk, or taxi to Sao Ching Cha.",
+  "cost": "100 THB (~$3)",
+  "best_time": "Late afternoon (8:30 am–9 pm open), when the light on the cloister Buddhas is warm; combine with Phraeng Phuthon dinner.",
+  "coords": [
+   13.751,
+   100.5011
+  ],
+  "image": "images/bkk-wat-suthat.jpg",
+  "image_credit": "Preecha.MJ, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Giant_Swing%2C_Bangkok.jpg",
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Wat_Suthat",
+   "https://www.timeout.com/bangkok/attractions/wat-suthat-thepwararam"
+  ]
+ },
+ {
+  "id": "bkk-royal-barges-museum",
+  "region": "Bangkok",
+  "name": "National Museum of Royal Barges",
+  "area": "Bangkok Noi canal, Thonburi (~2 km from Grand Palace)",
+  "category": "Museums & culture",
+  "blurb": "A boat shed on the Bangkok Noi canal holding the gilded royal barges used in the rare Royal Barge Procession, including the 46 m Suphannahong with its swan-head prow. It's small but striking, and reaching it through a stilt-house lane by the canal is half the fun.",
+  "why": "Pure Thai royal craftsmanship in a peaceful canal-side setting that pairs well with your Bangkok Noi canal plans.",
+  "touristiness": 2,
+  "time_needed": "45 min–1 h",
+  "getting_there": "Express boat to Phra Pin Klao Bridge pier, then a 10-minute walk through signed alleys; or include as a stop on a long-tail canal tour.",
+  "cost": "100 THB (~$3); cameras may be charged extra",
+  "best_time": "Open daily 9 am–5 pm (closed 1 Jan). Mornings are quiet.",
+  "coords": [
+   13.7621,
+   100.4842
+  ],
+  "image": "images/bkk-royal-barges-museum.jpg",
+  "image_credit": "Kathy, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Royal_Barges_National_Museum_-_2014-02-25_-_001.jpg",
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Royal_Barges_National_Museum",
+   "https://www.thaiholidayguide.com/attraction/national-museum-of-royal-barges/"
+  ]
+ },
+ {
+  "id": "bkk-siriraj-museum",
+  "region": "Bangkok",
+  "name": "Siriraj Medical Museum & Wang Lang Market",
+  "area": "Siriraj Hospital, Thonburi riverside (~1.5 km from Grand Palace)",
+  "category": "Museums & culture",
+  "blurb": "Bangkok's famous 'museum of death' is really a group of medical museums: forensic, pathology and anatomy exhibits, plus the polished Siriraj Bimuksthan Museum in an old railway station that tells the story of the area and the Thonburi era. Next door, the busy lanes of Wang Lang Market offer cheap street food and a local commuter feel.",
+  "why": "Unusual, thought-provoking and nothing like the usual temple circuit, with a slice of everyday Thonburi life outside.",
+  "touristiness": 3,
+  "time_needed": "2–3 h",
+  "getting_there": "Express boat or cross-river ferry from Tha Chang / Tha Maharaj to Wang Lang (Siriraj) pier.",
+  "cost": "~300 THB (~$9) combined ticket for foreigners",
+  "best_time": "Wed–Mon 10 am–5 pm (closed Tue); go late morning, then eat at Wang Lang at lunch.",
+  "coords": [
+   13.7586,
+   100.4857
+  ],
+  "image": "images/bkk-siriraj-museum.jpg",
+  "image_credit": "Chainwit., CC BY 4.0, https://commons.wikimedia.org/wiki/File:Siriraj_Medical_Museum_entrance_%282022%29.jpg",
+  "video": null,
+  "links": [
+   "https://www.timeout.com/bangkok/museums/siriraj-medical-museum",
+   "https://museum.li.mahidol.ac.th/en/museums/?p=871"
+  ]
+ },
+ {
+  "id": "bkk-bangkokian-museum",
+  "region": "Bangkok",
+  "name": "Bangkokian Museum",
+  "area": "Charoen Krung Soi 43, Bang Rak (near Talat Noi)",
+  "category": "Museums & culture",
+  "blurb": "A family's 1930s wooden house and garden kept exactly as it was, showing how a middle-class Bangkok household lived before the high-rises. Rooms of furniture, records, kitchenware and photos, plus a doctor's surgery building, all in a shady garden off Charoen Krung.",
+  "why": "An intimate, almost secret window into old Bangkok that fits your love of atmosphere and history.",
+  "touristiness": 1,
+  "time_needed": "45 min",
+  "getting_there": "Walk from Talat Noi or Si Phraya pier (10 min); MRT Hua Lamphong then taxi.",
+  "cost": "Free (donation welcome)",
+  "best_time": "Usually Wed–Sun ~10 am–4 pm (hours vary, check before going); combine with Talat Noi.",
+  "coords": [
+   13.7277,
+   100.5157
+  ],
+  "image": "images/bkk-bangkokian-museum.jpg",
+  "image_credit": "Medelam, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bangkokian_Museum_%282026%29_01.jpg",
+  "video": null,
+  "links": [
+   "https://www.nationthailand.com/life/travel/40045829",
+   "https://www.khaosanroad.com/places/bangkokian-museum"
+  ]
+ },
+ {
+  "id": "bkk-museum-siam",
+  "region": "Bangkok",
+  "name": "Museum Siam",
+  "area": "Old Town, beside MRT Sanam Chai (near Wat Pho)",
+  "category": "Museums & culture",
+  "blurb": "A modern, interactive museum in a grand colonial-era ministry building that asks 'what does it mean to be Thai?' through playful rooms on history, food, beliefs and identity. In 2026–27 it is also a Bangkok Art Biennale venue with contemporary installations.",
+  "why": "Gives context to everything else you'll see in Bangkok, steps from your Wat Pho day.",
+  "touristiness": 2,
+  "time_needed": "1.5–2 h",
+  "getting_there": "MRT Sanam Chai exit 1, or 5-minute walk from Wat Pho.",
+  "cost": "~100–200 THB (~$3–6); check for BAB pricing",
+  "best_time": "Tue–Sun 10 am–6 pm (closed Mon). Good midday escape from the heat.",
+  "coords": [
+   13.7443,
+   100.4939
+  ],
+  "image": "images/bkk-museum-siam.jpg",
+  "image_credit": "Supanut Arunoprayote, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Museum_Siam_%28I%29.jpg",
+  "video": null,
+  "links": [
+   "https://www.museumsiam.org/",
+   "https://en.wikipedia.org/wiki/Museum_Siam"
+  ]
+ },
+ {
+  "id": "bkk-sala-chalermkrung-khon",
+  "region": "Bangkok",
+  "name": "Khon masked dance at Sala Chalermkrung",
+  "area": "Charoen Krung Rd, edge of Chinatown/Old Town",
+  "category": "Museums & culture",
+  "blurb": "Thailand's oldest theatre (1933), an Art Deco landmark, stages short Khon masked-dance performances from the Ramakien epic on weekday afternoons. Golden costumes, elaborate masks and a live piphat orchestra in about 25 minutes.",
+  "why": "An easy, authentic way to see UNESCO-listed Thai classical performance, right after your Grand Palace visit.",
+  "touristiness": 2,
+  "time_needed": "30–45 min",
+  "getting_there": "Free shuttle from the Grand Palace's exit (Wiman Thewet Gate) or 10 min taxi; MRT Sam Yot is 5 min walk.",
+  "cost": "~400 THB (~$12); historically included with some Grand Palace tickets — ask at the palace",
+  "best_time": "Mon–Fri shows at 1:00, 2:30 and 4:00 pm (no public shows at weekends).",
+  "coords": [
+   13.7444,
+   100.4988
+  ],
+  "image": "images/bkk-sala-chalermkrung-khon.jpg",
+  "image_credit": "Deepak-nsk, CC0, https://commons.wikimedia.org/wiki/File:Sala_Chalermkrung_Royal_Theatre.jpg",
+  "video": null,
+  "links": [
+   "https://royalgrandpalace.th/en/attraction/khon",
+   "https://www.thaiholidayguide.com/attraction/sala-chalermkrung/"
+  ]
+ },
+ {
+  "id": "bkk-bang-krachao",
+  "region": "Bangkok",
+  "name": "Bang Krachao by bike ('Bangkok's green lung')",
+  "area": "River loop opposite Khlong Toei, ~8 km south-east of centre",
+  "category": "Nature & hikes",
+  "blurb": "A jungle-covered loop of the Chao Phraya where 2 m-wide raised concrete paths wind through mangroves, banana groves and stilt villages. Rent a bike at the pier, ride to Sri Nakhon Khuean Khan Park with its lake and birdwatching tower, and stop at canal-side cafés; on weekends visit Bang Nam Phueng floating market.",
+  "why": "Peaceful nature plus a little adventure, with skyline glimpses over the treetops, 20 minutes from Sukhumvit.",
+  "touristiness": 3,
+  "time_needed": "Half day (4–5 h)",
+  "getting_there": "MRT Khlong Toei, then taxi to Wat Khlong Toei Nok pier and a 10–20 THB long-tail across; rent bikes at the far pier.",
+  "cost": "Ferry 10–20 THB; bike 50–100 THB/day (~$2–3)",
+  "best_time": "Start by 8 am to beat the heat; Dec–Jan is the coolest, driest season. Market Sat–Sun only (8 am–early afternoon).",
+  "coords": [
+   13.693,
+   100.568
+  ],
+  "image": "images/bkk-bang-krachao.jpg",
+  "image_credit": "Naludon77, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%E0%B8%9B%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2_%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3.jpg",
+  "video": "https://www.youtube.com/watch?v=EomtR2VQLoU",
+  "links": [
+   "https://www.visitthailandtoday.com/guides/bang-krachao-guide",
+   "https://www.lonelyplanet.com/articles/green-lung-bangkok",
+   "https://www.bucketlistly.blog/posts/bang-krachao-travel-guide-things-to-do"
+  ]
+ },
+ {
+  "id": "bkk-chao-phraya-sky-park",
+  "region": "Bangkok",
+  "name": "Chao Phraya Sky Park",
+  "area": "Between the Phra Pok Klao bridges, next to Pak Khlong Talat",
+  "category": "Skyline & views",
+  "blurb": "A landscaped pedestrian park built on the unfinished pillars of an abandoned 1980s skytrain bridge, crossing the river high above the water. From the middle you get open views of the river, Memorial Bridge and the Thonburi and Old Town skylines.",
+  "why": "A free, rarely crowded river viewpoint that's perfect for sunset before the flower market at night.",
+  "touristiness": 2,
+  "time_needed": "30–45 min",
+  "getting_there": "MRT Sanam Chai, then 10 minutes' walk via Pak Khlong Talat; links to the Kudi Chin side.",
+  "cost": "Free",
+  "best_time": "Open ~5 am–8 pm (hours may vary); go 5–6:30 pm for sunset and city lights.",
+  "coords": [
+   13.7393,
+   100.4985
+  ],
+  "image": "images/bkk-chao-phraya-sky-park.jpg",
+  "image_credit": "Chainwit., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Chao_Phraya_Sky_Park_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%84_%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B2_%28October_2021%29_-_img_11.jpg",
+  "video": "https://www.youtube.com/watch?v=iP_nQ28yLts",
+  "links": [
+   "https://en.wikipedia.org/wiki/Chao_Phraya_Sky_Park",
+   "https://www.timeout.com/bangkok/attractions/chao-phraya-sky-park"
+  ]
+ },
+ {
+  "id": "bkk-phra-sumen-fort",
+  "region": "Bangkok",
+  "name": "Phra Sumen Fort, Santi Chai Prakan Park & Phra Athit Road",
+  "area": "Banglamphu riverside, 5 min from Khao San Road",
+  "category": "Neighborhood & vibes",
+  "blurb": "A whitewashed 1783 octagonal fort, one of two survivors of the old city walls, stands in a small riverside park with views of the Rama VIII cable-stayed bridge. Locals jog and do aerobics at dusk, and Phra Athit Road behind it has old shophouses, bars with live music and small restaurants.",
+  "why": "A relaxed local sunset spot with history and river atmosphere, right next to your Khao San evening.",
+  "touristiness": 2,
+  "time_needed": "1–2 h",
+  "getting_there": "Express boat to Phra Arthit pier (N13), or walk 5 minutes from Khao San Road.",
+  "cost": "Free",
+  "best_time": "5–7 pm for sunset over the river and the lit-up Rama VIII Bridge.",
+  "coords": [
+   13.7638,
+   100.4955
+  ],
+  "image": "images/bkk-phra-sumen-fort.jpg",
+  "image_credit": "Supanut Arunoprayote, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Phra_Sumen_Fort_Bangkok_-_Day.jpg",
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Phra_Sumen_Fort",
+   "https://en.wikipedia.org/wiki/Santichaiprakan_Park"
+  ]
+ },
+ {
+  "id": "bkk-octave-rooftop",
+  "region": "Bangkok",
+  "name": "Octave Rooftop Bar (Marriott Sukhumvit)",
+  "area": "Thong Lor, Sukhumvit Soi 57",
+  "category": "Skyline & views",
+  "blurb": "A three-level rooftop on floors 45–49 with an open, true 360° view: the dense Sukhumvit towers, the river bend to the west and the sprawl toward Bang Krachao. Smart-casual, with a round bar on the top deck; far less of a scene than the famous Lebua or Vertigo rooftops.",
+  "why": "One of the best all-round skyline views in Bangkok without the crowds and cover charges of the big-name bars.",
+  "touristiness": 3,
+  "time_needed": "1–2 h",
+  "getting_there": "BTS Thong Lo, 5-minute walk.",
+  "cost": "Cocktails ~400–500 THB (~$12–15); no entry fee",
+  "best_time": "Open from ~5 pm; arrive 5:30 pm for sunset into night. Dec–Jan skies are usually clearest of the year.",
+  "coords": [
+   13.724,
+   100.5815
+  ],
+  "image": "images/bkk-octave-rooftop.jpg",
+  "image_credit": "Ninara from Helsinki, Finland, CC BY 2.0, https://commons.wikimedia.org/wiki/File:4Y1A0046_Bangkok_%2832818284245%29.jpg",
+  "video": null,
+  "links": [
+   "https://www.timeout.com/bangkok/bars/octave",
+   "https://www.therooftopguide.com/rooftop-bars-in-bangkok/octave-rooftop-bar.html"
+  ]
+ },
+ {
+  "id": "bkk-talat-noi",
+  "region": "Bangkok",
+  "name": "Talat Noi & Song Wat Road",
+  "area": "Riverside, south edge of Chinatown",
+  "category": "Neighborhood & vibes",
+  "blurb": "A maze of old Hokkien lanes full of car-parts workshops, street art, shrines and the 200-year-old So Heng Tai courtyard mansion, plus the Holy Rosary Church and riverside cafés. Continue up Song Wat Road, a row of restored shophouses with spice traders, coffee bars and galleries.",
+  "why": "Old-Bangkok character with river views, more lived-in and quieter than Yaowarat itself.",
+  "touristiness": 3,
+  "time_needed": "2–3 h",
+  "getting_there": "MRT Hua Lamphong (10 min walk) or express boat to Si Phraya / Marine Department pier.",
+  "cost": "Free; So Heng Tai ~100 THB",
+  "best_time": "Late afternoon into evening; workshops are busiest weekdays, cafés open daily.",
+  "coords": [
+   13.733,
+   100.5135
+  ],
+  "image": "images/bkk-talat-noi.jpg",
+  "image_credit": "Phoebus 28, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Talat_Noi_Street_Art.jpg",
+  "video": "https://www.youtube.com/watch?v=C2KXR1XJ2jY",
+  "links": [
+   "https://en.wikipedia.org/wiki/Talat_Noi"
+  ]
+ },
+ {
+  "id": "bkk-nang-loeng",
+  "region": "Bangkok",
+  "name": "Nang Loeng Market",
+  "area": "Pom Prap, 10 min walk from Golden Mount",
+  "category": "Markets & food",
+  "blurb": "Thailand's first land market (1900), a covered wooden market in an old community with stalls of traditional Thai desserts, curries over rice and noodles. Look for the century-old khanom thuai stall and the old cinema façade; nearby lanes are home to families of classical dancers and musicians.",
+  "why": "A local, untouristed food market with real history, close to your Golden Mount and Loha Prasat day.",
+  "touristiness": 1,
+  "time_needed": "1–1.5 h",
+  "getting_there": "Taxi to Nakhon Sawan Road, or walk 10–15 min from Wat Saket / Wat Ratchanatdaram.",
+  "cost": "Snacks 20–60 THB (~$1–2)",
+  "best_time": "Mon–Sat roughly 8 am–2 pm; go mid-morning for the most stalls. Mostly closed on Sundays.",
+  "coords": [
+   13.759,
+   100.511
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://migrationology.com/nang-loeng-market-bangkok",
+   "https://en.wikipedia.org/wiki/Talad_Nang_Loeng"
+  ]
+ },
+ {
+  "id": "bkk-phraeng-phuthon",
+  "region": "Bangkok",
+  "name": "Phraeng Phuthon & Phraeng Nara quarter",
+  "area": "Old Town, between Wat Suthat and the Grand Palace",
+  "category": "Neighborhood & vibes",
+  "blurb": "A square of early-1900s European-style shophouses built on the site of a former royal palace, now home to old-school eateries serving crab-meat curry, Thai ice cream and wonton noodles. The nearby Phraeng Nara lanes hold the original Khon theatre buildings and some of the city's best kept colonial shopfronts.",
+  "why": "A tiny, atmospheric slice of old Bangkok where locals still eat — ideal for an evening after Wat Suthat.",
+  "touristiness": 1,
+  "time_needed": "1–2 h",
+  "getting_there": "MRT Sam Yot, 5 minutes' walk.",
+  "cost": "Meals 60–200 THB (~$2–6)",
+  "best_time": "Evenings from ~5 pm when the food stalls and shophouse restaurants are open.",
+  "coords": [
+   13.7535,
+   100.499
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.bkmagazine.com/city-living/guide-bangkok-old-town-sam-praeng/",
+   "https://www.expique.com/article/phraeng-phutton-bangkok"
+  ]
+ },
+ {
+  "id": "bkk-pak-khlong-talat",
+  "region": "Bangkok",
+  "name": "Pak Khlong Talat flower market at night",
+  "area": "Old Town riverside, by Memorial Bridge",
+  "category": "Markets & food",
+  "blurb": "Bangkok's wholesale flower market runs around the clock, but it's at its best late at night when trucks unload mountains of marigolds, orchids and lotus and vendors string jasmine garlands under bare bulbs. You walk through crates of blooms beside the river in a working-market buzz.",
+  "why": "Colorful, photogenic and totally local, a great after-dinner wander near Chao Phraya Sky Park.",
+  "touristiness": 3,
+  "time_needed": "45 min–1 h",
+  "getting_there": "MRT Sanam Chai, 5 minutes' walk.",
+  "cost": "Free; garlands from ~20 THB",
+  "best_time": "10 pm–2 am for the most activity; also busy before dawn.",
+  "coords": [
+   13.742,
+   100.4962
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Pak_Khlong_Talat"
+  ]
+ },
+ {
+  "id": "bkk-khlong-toei-market",
+  "region": "Bangkok",
+  "name": "Khlong Toei Fresh Market",
+  "area": "Khlong Toei, south edge of Sukhumvit",
+  "category": "Markets & food",
+  "blurb": "Bangkok's largest wet market, a gritty, sprawling hall where restaurants buy fish, meat, fruit and herbs from before dawn. It's loud, wet and fascinating, with tropical fruits and street breakfast stalls; pairs naturally with Bang Krachao, which is a short taxi ride away.",
+  "why": "An unfiltered, adventurous look at how Bangkok eats, with no tourist polish at all.",
+  "touristiness": 1,
+  "time_needed": "1–1.5 h",
+  "getting_there": "MRT Queen Sirikit National Convention Centre (exit 1) or Khlong Toei.",
+  "cost": "Free",
+  "best_time": "5–8 am for full activity; wear closed shoes.",
+  "coords": [
+   13.723,
+   100.5555
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.timeout.com/bangkok/shopping/khlong-toei-market"
+  ]
+ },
+ {
+  "id": "bkk-khlong-saen-saep-boat",
+  "region": "Bangkok",
+  "name": "Khlong Saen Saep canal boat ride",
+  "area": "Phan Fa Lilat (Golden Mount) to Pratunam / Asok and beyond",
+  "category": "Experiences",
+  "blurb": "The commuter canal express that roars along a narrow canal between Old Town and the modern centre; you pull a tarp up against splashes while passing stilt houses, mosques and high-rises. Ride from Phan Fa Lilat pier near the Golden Mount to Pratunam, then change for Asok.",
+  "why": "A cheap, slightly wild local ride that links your Golden Mount and CBD days with real adventure.",
+  "touristiness": 2,
+  "time_needed": "20–45 min",
+  "getting_there": "Start at Phan Fa Lilat pier next to Wat Saket / Loha Prasat.",
+  "cost": "~16–26 THB (~$0.50–0.80) by distance, paid on board",
+  "best_time": "Daytime outside rush hour (around 10 am–4 pm); boats run roughly 5:30 am–8:30 pm weekdays, shorter weekends.",
+  "coords": [
+   13.756,
+   100.5055
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Khlong_Saen_Saep_boat_service",
+   "https://www.nationthailand.com/business/economy/40064589"
+  ]
+ },
+ {
+  "id": "bkk-night-bike-tour",
+  "region": "Bangkok",
+  "name": "Old Bangkok night bike tour",
+  "area": "Old Town and Thonburi (start near Khao San / Old Town)",
+  "category": "Experiences",
+  "blurb": "A guided evening ride through back alleys, a cross-river ferry, lit-up temples such as Wat Pho and Wat Arun, and the flower market, with stops for street snacks. Operators like Grasshopper Adventures run 4-hour small-group tours with good bikes and lights.",
+  "why": "Combines adventure, atmosphere and the old city at its coolest and calmest hour.",
+  "touristiness": 3,
+  "time_needed": "~4 h (about 5:30–9:30 pm)",
+  "getting_there": "Meet at the operator's office in Old Town / Banglamphu.",
+  "cost": "~1,500–2,300 THB (~$45–65) including guide, bike and snacks",
+  "best_time": "Evenings in Dec–Jan are pleasant (~25 °C); book a few days ahead.",
+  "coords": [
+   13.757,
+   100.4985
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://grasshopperadventures.com/?p=4605",
+   "https://www.traveller.com.au/ride-on-the-dark-side-2pg9x"
+  ]
+ },
+ {
+  "id": "bkk-rajadamnern-muay-thai",
+  "region": "Bangkok",
+  "name": "Muay Thai at Rajadamnern Stadium",
+  "area": "Ratchadamnoen Nok Rd, near Khao San / Golden Mount",
+  "category": "Experiences",
+  "blurb": "The oldest national Muay Thai stadium (1945), with the pre-fight wai khru ritual dance, live piphat music and a roaring local betting crowd. Cheaper seats upstairs give the best atmosphere; ringside is for close-up views.",
+  "why": "A powerful slice of Thai culture with real energy, close to your Old Town base.",
+  "touristiness": 3,
+  "time_needed": "2–3 h",
+  "getting_there": "Taxi or 15-minute walk from Khao San Road or the Golden Mount.",
+  "cost": "~1,500–2,500 THB (~$45–75) depending on seat",
+  "best_time": "Fights most evenings from ~6:30 pm (main bouts 9–10 pm); check schedule at rajadamnern.com.",
+  "coords": [
+   13.7584,
+   100.5092
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://rajadamnern.com",
+   "https://en.wikipedia.org/wiki/Rajadamnern_Stadium"
+  ]
+ },
+ {
+  "id": "bkk-kanchanaburi",
+  "region": "Bangkok",
+  "name": "Kanchanaburi & the Death Railway",
+  "area": "~130 km west, 2–3 h",
+  "category": "Day trips",
+  "blurb": "See the Bridge over the River Kwai, the moving Thailand–Burma Railway Centre and the Allied war cemetery, then ride the WWII 'Death Railway' train along the cliff-hugging Wang Pho (Tham Krasae) viaduct above the river. With an early start a driver can add Hellfire Pass or Erawan Falls.",
+  "why": "Major history, river scenery and a famously dramatic train ride, all in one day.",
+  "touristiness": 4,
+  "time_needed": "Full day (12 h)",
+  "getting_there": "Train from Thonburi station 7:45 am (100 THB for foreigners), or minivan from Mo Chit / private driver (~3,500–4,500 THB).",
+  "cost": "Train 100 THB; museum ~160 THB; driver option ~$100–130",
+  "best_time": "Dry, mild Dec–Jan; River Kwai Bridge festival is late Nov–early Dec. Weekends get busier.",
+  "coords": [
+   14.0408,
+   99.5036
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": "https://www.youtube.com/watch?v=vo4TDQAN9z8",
+  "links": [
+   "https://www.visitthailandtoday.com/guides/bangkok-to-kanchanaburi",
+   "https://www.thelongestwayhome.com/travel-guides/thailand/weekend-train-kanchanaburi-bridge-over-river-kwai.html"
+  ]
+ },
+ {
+  "id": "bkk-lopburi",
+  "region": "Bangkok",
+  "name": "Lopburi: Khmer ruins and the monkey temple",
+  "area": "~150 km north, 2–2.5 h by train",
+  "category": "Day trips",
+  "blurb": "An ancient Khmer and Ayutthaya-era town centred on Phra Prang Sam Yot, three linked 13th-century laterite towers ruled by hundreds of macaques. Also see the large Wat Phra Si Rattana Mahathat ruins and King Narai's 17th-century palace, now a museum.",
+  "why": "Khmer history and a bit of chaos, a good contrast to Ayutthaya and a preview of Angkor.",
+  "touristiness": 3,
+  "time_needed": "Full day (10 h)",
+  "getting_there": "Train from Krung Thep Aphiwat or Hua Lamphong (~2–3 h, 30–350 THB) or minivan from Mo Chit.",
+  "cost": "Sites 30–150 THB each (~$1–5)",
+  "best_time": "Morning; Dec–Jan is cool. Secure glasses and bags around the monkeys.",
+  "coords": [
+   14.8023,
+   100.614
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": "https://www.youtube.com/watch?v=0NdHk5BPOq8",
+  "links": [
+   "https://en.wikipedia.org/wiki/Phra_Prang_Sam_Yot",
+   "https://en.wikivoyage.org/wiki/Lopburi"
+  ]
+ },
+ {
+  "id": "bkk-nakhon-pathom",
+  "region": "Bangkok",
+  "name": "Nakhon Pathom: Phra Pathom Chedi & Sanam Chandra Palace",
+  "area": "~55 km west, 1–1.5 h",
+  "category": "Day trips",
+  "blurb": "Phra Pathom Chedi, at 120 m one of the tallest stupas in the world, marks where Buddhism may first have arrived in Thailand; walk its cloisters and terraces. Nearby, the peaceful Sanam Chandra Palace of King Rama VI mixes Thai and English-Tudor buildings in a huge park.",
+  "why": "A massive historic monument with almost no foreign tourists, easy as a half or full day.",
+  "touristiness": 2,
+  "time_needed": "Half to full day",
+  "getting_there": "Train from Thonburi or Krung Thep Aphiwat (~1–1.5 h, cheap), or minivan from the Southern Bus Terminal.",
+  "cost": "Chedi 60 THB, palace ~100 THB (~$2–3)",
+  "best_time": "Morning to midday; the annual chedi fair is in November.",
+  "coords": [
+   13.8198,
+   100.0601
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Phra_Pathommachedi",
+   "https://en.wikipedia.org/wiki/Sanam_Chandra_Palace"
+  ]
+ },
+ {
+  "id": "bkk-phetchaburi",
+  "region": "Bangkok",
+  "name": "Phetchaburi: Khao Wang palace & Khao Luang cave",
+  "area": "~160 km south-west, 2–2.5 h",
+  "category": "Day trips",
+  "blurb": "Ride a cable car up Khao Wang to Phra Nakhon Khiri, King Rama IV's hilltop palace and temples with views over the town and paddies. Then visit Tham Khao Luang, a cave temple where sunbeams fall through the roof onto rows of Buddha images, and Wat Yai Suwannaram's Ayutthaya-era murals.",
+  "why": "Hilltop palaces, a dramatic cave temple and a calm provincial town that few tourists explore.",
+  "touristiness": 2,
+  "time_needed": "Full day (10–11 h)",
+  "getting_there": "Train from Thonburi / Hua Lamphong or minivan from the Southern Bus Terminal (~2 h), then tuk-tuk; or a private driver.",
+  "cost": "Khao Wang ~150 THB plus cable car ~50 THB; cave free/donation",
+  "best_time": "Cave light is best around 10 am–noon; Dec–Jan is ideal weather.",
+  "coords": [
+   13.1105,
+   99.938
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": "https://www.youtube.com/watch?v=N48S7ka4fkI",
+  "links": [
+   "https://en.wikipedia.org/wiki/Phra_Nakhon_Khiri_Historical_Park",
+   "https://en.wikipedia.org/wiki/Tham_Khao_Luang"
+  ]
+ },
+ {
+  "id": "bkk-koh-kret",
+  "region": "Bangkok",
+  "name": "Koh Kret island",
+  "area": "Nonthaburi, ~20 km north, 1–1.5 h",
+  "category": "Day trips",
+  "blurb": "A car-free island in the Chao Phraya, home to a Mon community known for terracotta pottery. Walk or cycle the 6 km loop past potteries, the leaning white chedi of Wat Poramai Yikawat and stalls selling Mon desserts and fried flowers.",
+  "why": "Village calm and Mon culture without leaving Bangkok's orbit.",
+  "touristiness": 3,
+  "time_needed": "Half day (4–5 h)",
+  "getting_there": "Express boat to Nonthaburi pier then long-tail or taxi to Pak Kret / Wat Sanam Nuea pier for the 2–10 THB ferry.",
+  "cost": "Ferry a few baht, bike ~40 THB",
+  "best_time": "Weekdays are quiet (fewer stalls); weekends are lively but crowded.",
+  "coords": [
+   13.9116,
+   100.4783
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikivoyage.org/wiki/Ko_Kret",
+   "https://migrationology.com/koh-kret-day-trip-bangkok/"
+  ]
+ },
+ {
+  "id": "bkk-khao-yai",
+  "region": "Bangkok",
+  "name": "Khao Yai National Park",
+  "area": "~180 km north-east, 2.5–3 h",
+  "category": "Day trips",
+  "blurb": "Thailand's first national park and a UNESCO World Heritage forest, with jungle trails, gibbons and hornbills, wild elephants on the roads and Haew Suwat and Haew Narok waterfalls. Viewpoints over the forested hills are especially clear in the cool season.",
+  "why": "The best real-jungle adventure within reach of Bangkok.",
+  "touristiness": 3,
+  "time_needed": "Long full day (13–14 h), better with a driver or tour",
+  "getting_there": "Private driver or tour (most practical); bus to Pak Chong then songthaew.",
+  "cost": "Park entry 400 THB (~$12); driver/tour ~3,500–5,000 THB",
+  "best_time": "Dec–Jan is cool and dry, best for wildlife; avoid weekends and New Year holidays when Thai visitors flood in.",
+  "coords": [
+   14.439,
+   101.372
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Khao_Yai_National_Park",
+   "https://en.wikivoyage.org/wiki/Khao_Yai_National_Park"
+  ]
+ },
+ {
+  "id": "bkk-bang-pa-in",
+  "region": "Bangkok",
+  "name": "Bang Pa-In Royal Palace",
+  "area": "~60 km north, on the way to Ayutthaya",
+  "category": "Day trips",
+  "blurb": "A royal summer palace on a river island with an elegant Thai pavilion floating in a pond, a Chinese-style throne hall and European mansions in manicured gardens. Nearby, Wat Niwet Thammaprawat is a Buddhist temple built to look like a Gothic church, reached by a cable-pulled cart-ferry.",
+  "why": "An easy, peaceful add-on to your Ayutthaya day with a unique mix of Thai and European architecture.",
+  "touristiness": 3,
+  "time_needed": "2 h",
+  "getting_there": "Train to Bang Pa-In station (one stop before Ayutthaya), then tuk-tuk; or bike from Ayutthaya.",
+  "cost": "100 THB (~$3); modest dress required",
+  "best_time": "Open 8 am–4 pm daily (closes for royal events); go in the morning before Ayutthaya.",
+  "coords": [
+   14.2328,
+   100.5791
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Bang_Pa-in_Royal_Palace",
+   "https://en.wikivoyage.org/wiki/Bang_Pa-In"
+  ]
+ },
+ {
+  "id": "bkk-countdown-iconsiam",
+  "region": "Bangkok",
+  "name": "Amazing Thailand Countdown 2027 at ICONSIAM",
+  "area": "ICONSIAM riverfront, Khlong San",
+  "category": "Events",
+  "blurb": "Bangkok's biggest New Year celebration runs as a five-day festival at ICONSIAM's River Park with concerts and drone shows, ending with a 1,400 m fireworks display along the Chao Phraya at midnight on 31 December. Watch from the river park, a rooftop, a riverside hotel or a dinner cruise.",
+  "why": "A once-a-year skyline spectacle over the river if you're in Bangkok on New Year's Eve.",
+  "touristiness": 5,
+  "time_needed": "Evening",
+  "getting_there": "Gold Line from BTS Krung Thon Buri or ICONSIAM shuttle boat from Sathorn pier; expect huge crowds and road closures.",
+  "cost": "Free outdoor viewing (some zones need passes); cruises 3,000+ THB",
+  "best_time": "27–31 December 2026; fireworks at midnight on the 31st. Arrive by 8–9 pm for a spot.",
+  "coords": [
+   13.7266,
+   100.5103
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.nationthailand.com/thailand/bangkok/40073564",
+   "https://www.pattayamail.com/thailandnews/bangkok-prepares-for-spectacular-five-day-amazing-thailand-countdown-2027-571818"
+  ]
+ },
+ {
+  "id": "bkk-art-biennale",
+  "region": "Bangkok",
+  "name": "Bangkok Art Biennale 2026 'Angels & Mara'",
+  "area": "Citywide: Wat Arun, Wat Pho, Wat Prayurawongsawat, National Museum, BACC, One Bangkok and others",
+  "category": "Events",
+  "blurb": "The fifth Bangkok Art Biennale places contemporary art by ~70 artists inside historic temples, museums and new landmarks. You'll see installations in places like Wat Pho and Wat Prayurawongsawat, so it adds a modern layer to sites you're already visiting.",
+  "why": "Turns your planned temple days into something extra, free, and only on during your trip window.",
+  "touristiness": 3,
+  "time_needed": "1–3 h (or spread across days)",
+  "getting_there": "Venues across the Old Town and city; the Bangkok Art and Culture Centre (BTS National Stadium) is the main hub.",
+  "cost": "Free biennale entry; temples charge their normal fees",
+  "best_time": "29 Oct 2026 – 28 Feb 2027; check venue hours on the BAB website.",
+  "coords": [
+   13.7467,
+   100.5302
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.bkkartbiennale.com/",
+   "https://www.tatnews.org/2026/09/tat-spotlights-bangkok-art-biennale-2026-as-a-contemporary-citywide-art-experience/"
+  ]
+ },
+ {
+  "id": "bkk-red-cross-fair",
+  "region": "Bangkok",
+  "name": "Red Cross Fair at Lumphini Park",
+  "area": "Lumphini Park, Pathum Wan",
+  "category": "Events",
+  "blurb": "A huge, very Thai charity fair with hundreds of food stalls from famous restaurants, old-fashioned games, a Ferris wheel, temple-style decorations and stage shows. It's mostly attended by locals and runs into the night.",
+  "why": "Pure local atmosphere and food, if your dates reach late January.",
+  "touristiness": 2,
+  "time_needed": "2–3 h (evening)",
+  "getting_there": "MRT Lumphini or Silom.",
+  "cost": "Free entry; food 40–150 THB",
+  "best_time": "18–31 January 2027, 11 am–10 pm; evenings are the most atmospheric. Only fits if you're in Bangkok after mid-January.",
+  "coords": [
+   13.7314,
+   100.5414
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.timeout.com/bangkok/news/bangkoks-red-cross-fair-this-january-2027-082226"
+  ]
+ }
+]

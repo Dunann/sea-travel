@@ -1,0 +1,741 @@
+[
+ {
+  "id": "sr-ta-som",
+  "region": "Siem Reap",
+  "name": "Ta Som",
+  "area": "Angkor park, Grand Circuit, ~2 km east of Neak Pean (~20 km NE of town)",
+  "category": "History & temples",
+  "blurb": "A small late-12th-century temple of Jayavarman VII with Bayon-style face towers on its gates. The famous sight is the eastern gate, almost swallowed by a huge strangler fig. Inside are quiet, crumbling galleries with well-kept devata carvings.",
+  "why": "It has the jungle-ruin feel of Ta Prohm with a fraction of the visitors.",
+  "touristiness": 2,
+  "time_needed": "45 min-1 h",
+  "getting_there": "On the Grand Circuit road; easy to add to the SR4 bike day right after Neak Pean (2 km further east). 30-40 min by tuk-tuk from town.",
+  "cost": "Angkor pass",
+  "best_time": "Early morning or after 3 pm for soft light and an empty site. Dec-Jan is dry and the coolest time of year.",
+  "coords": [
+   13.4646,
+   103.9124
+  ],
+  "image": "images/sr-ta-som.jpg",
+  "image_credit": "Ussfa344, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File%3ATa_Som_Temple.jpg",
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Ta_Som"
+  ]
+ },
+ {
+  "id": "sr-east-mebon",
+  "region": "Siem Reap",
+  "name": "East Mebon",
+  "area": "Angkor park, Grand Circuit, ~1.5 km north of Pre Rup",
+  "category": "History & temples",
+  "blurb": "A 10th-century (953 AD) Hindu temple-mountain that once stood on an island in the middle of the East Baray, a 7 km reservoir that is now rice fields. Life-size stone elephants stand at the corners of its terraces, and five brick towers crown the top.",
+  "why": "A big, atmospheric temple with few people, and the elephants are a standout detail.",
+  "touristiness": 2,
+  "time_needed": "45 min",
+  "getting_there": "Tuk-tuk or bike on the Grand Circuit; pairs naturally with Ta Som to the north and Pre Rup to the south. 30 min from town.",
+  "cost": "Angkor pass",
+  "best_time": "Mid-to-late afternoon, when the light warms the brick. Quiet at most hours.",
+  "coords": [
+   13.4468,
+   103.9203
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/East_Mebon"
+  ]
+ },
+ {
+  "id": "sr-ta-nei",
+  "region": "Siem Reap",
+  "name": "Ta Nei",
+  "area": "Angkor park, forest ~800 m north of Ta Keo",
+  "category": "History & temples",
+  "blurb": "A small, barely restored 12th-century temple hidden in the forest at the end of a dirt track. Moss-covered walls, tree roots and fallen blocks, and often nobody else there apart from birds and the odd guard.",
+  "why": "One of the few places inside the main park where you can have a jungle temple completely to yourself.",
+  "touristiness": 1,
+  "time_needed": "30-45 min",
+  "getting_there": "From Ta Keo (already on the SR2 plan) walk or cycle the dirt track north; a tuk-tuk can drop you at the track. No extra travel time from town.",
+  "cost": "Angkor pass",
+  "best_time": "Morning, right after Ta Keo. Track is dry and easy in Dec-Jan.",
+  "coords": [
+   13.4547,
+   103.8868
+  ],
+  "image": "images/sr-ta-nei.jpg",
+  "image_credit": "Jakub Hałun, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File%3A20171128_Ta_Nei_Angkor_5434_DxO.jpg",
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Ta_Nei"
+  ]
+ },
+ {
+  "id": "sr-thommanon-chau-say-tevoda",
+  "region": "Siem Reap",
+  "name": "Thommanon & Chau Say Tevoda",
+  "area": "Angkor park, just outside Angkor Thom's Victory Gate",
+  "category": "History & temples",
+  "blurb": "Two small 12th-century 'twin' temples facing each other across the road, built in the same period as Angkor Wat. Thommanon is neatly restored with graceful devatas; Chau Say Tevoda was restored with Chinese help and has fine lintels and a raised causeway.",
+  "why": "Elegant Angkor Wat-era carving at close range, usually with only a handful of people.",
+  "touristiness": 2,
+  "time_needed": "30-45 min",
+  "getting_there": "On the road between the Victory Gate and Ta Keo, so it fits the SR2 temple loop by tuk-tuk or bike.",
+  "cost": "Angkor pass",
+  "best_time": "Morning light hits the east-facing fronts. Quiet all day.",
+  "coords": [
+   13.4462,
+   103.8722
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Thommanon",
+   "https://en.wikipedia.org/wiki/Chau_Say_Tevoda"
+  ]
+ },
+ {
+  "id": "sr-leper-king-terrace",
+  "region": "Siem Reap",
+  "name": "Terrace of the Elephants & Leper King (hidden inner wall)",
+  "area": "Angkor Thom, north of the Bayon",
+  "category": "History & temples",
+  "blurb": "The long royal viewing terrace with its parade of carved elephants, and the Terrace of the Leper King beside it. The real secret is the narrow trench between the outer wall and an older inner wall, where you walk past rows of deeply cut, almost untouched carvings of nagas, kings, apsaras and sea creatures.",
+  "why": "Most visitors see only the front; the hidden passage feels like a discovery.",
+  "touristiness": 3,
+  "time_needed": "45 min-1 h",
+  "getting_there": "Walk from the Bayon / Phimeanakas on the SR4 bike day; it is 5 minutes away.",
+  "cost": "Angkor pass",
+  "best_time": "Morning, before the midday heat. The inner passage is shaded.",
+  "coords": [
+   13.4475,
+   103.8581
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Terrace_of_the_Leper_King",
+   "https://en.wikipedia.org/wiki/Terrace_of_the_Elephants"
+  ]
+ },
+ {
+  "id": "sr-baphuon-palilay",
+  "region": "Siem Reap",
+  "name": "Baphuon, Preah Palilay & Tep Pranam",
+  "area": "Angkor Thom, Royal Enclosure area",
+  "category": "History & temples",
+  "blurb": "Baphuon is an 11th-century temple-mountain with a 200 m raised walkway; it was taken apart by French archaeologists and rebuilt like a giant jigsaw, and its west side forms a huge reclining Buddha. Behind it in the forest sit Preah Palilay, a lonely tree-shaded sanctuary, and Tep Pranam, a large seated Buddha still used by nuns and worshippers.",
+  "why": "Big views from the top of Baphuon plus two peaceful, little-visited Buddhist sites a few minutes away.",
+  "touristiness": 3,
+  "time_needed": "1-1.5 h",
+  "getting_there": "Walk from the Bayon / Phimeanakas on the SR4 bike day.",
+  "cost": "Angkor pass",
+  "best_time": "Morning. Baphuon's upper level needs covered shoulders and knees; steep stairs.",
+  "coords": [
+   13.4435,
+   103.8565
+  ],
+  "image": "images/sr-baphuon-palilay.jpg",
+  "image_credit": "Jean-Pierre Dalbéra from Paris, France, CC BY 2.0, https://commons.wikimedia.org/wiki/File%3ABaphuonEasternFacade2011.jpg",
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Baphuon",
+   "https://en.wikipedia.org/wiki/Preah_Palilay"
+  ]
+ },
+ {
+  "id": "sr-angkor-thom-walls",
+  "region": "Siem Reap",
+  "name": "Angkor Thom wall walk & quiet gates",
+  "area": "Angkor Thom perimeter (12 km of walls)",
+  "category": "Experiences",
+  "blurb": "The 8 m-high earth wall around Angkor Thom has a shaded path on top that you can walk or cycle. Along it are the small Prasat Chrung corner shrines, and the far-less-visited North Gate, Victory Gate and Gate of the Dead, each topped with giant stone faces.",
+  "why": "A peaceful, slightly adventurous way to feel the scale of the old city, away from the South Gate crowds.",
+  "touristiness": 1,
+  "time_needed": "1.5-3 h",
+  "getting_there": "Climb up beside any gate (the South Gate or Victory Gate are easiest). Best on foot or by bike as part of the SR4 bike day.",
+  "cost": "Angkor pass",
+  "best_time": "Early morning or late afternoon; the top is tree-shaded. Dry and firm underfoot in Dec-Jan.",
+  "coords": [
+   13.4433,
+   103.8702
+  ],
+  "image": "images/sr-angkor-thom-walls.jpg",
+  "image_credit": "Ekrem Canli, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File%3AAngkor_Thom_Victory_gate_2016.jpg",
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Angkor_Thom",
+   "https://en.wikipedia.org/wiki/Prasat_Chrung"
+  ]
+ },
+ {
+  "id": "sr-west-mebon-baray",
+  "region": "Siem Reap",
+  "name": "Western Baray & West Mebon",
+  "area": "~12 km northwest of town, west of Angkor Thom",
+  "category": "Nature & hikes",
+  "blurb": "An 8 km-long 11th-century reservoir that still holds water. Local families picnic in hammock huts on the south shore, and boats cross to the island temple of West Mebon, where the great bronze Vishnu now in Phnom Penh's National Museum was found.",
+  "why": "A calm, local scene on a vast ancient waterway, with a beautiful sunset over the water.",
+  "touristiness": 2,
+  "time_needed": "2-3 h",
+  "getting_there": "30 min by tuk-tuk from town. Boats to the island leave from the south dam; agree a price per boat (roughly $10-20).",
+  "cost": "Shore is free; boat extra. West Mebon is within the park, so carry your Angkor pass.",
+  "best_time": "Late afternoon to sunset; weekends are busy with Khmer families. West Mebon has been under long-term restoration, so check that boats run and the island is open.",
+  "coords": [
+   13.439,
+   103.781
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/West_Baray",
+   "https://en.wikipedia.org/wiki/West_Mebon"
+  ]
+ },
+ {
+  "id": "sr-phnom-krom",
+  "region": "Siem Reap",
+  "name": "Phnom Krom sunset",
+  "area": "Hilltop 12 km south of town, above the Tonle Sap lake",
+  "category": "Skyline & views",
+  "blurb": "A 140 m hill crowned by three late-9th-century sandstone towers and a working pagoda. From the top you look over the Tonle Sap lake, flooded fields and stilt villages, and the sun sets over the water.",
+  "why": "A much quieter, wider sunset view than Phnom Bakheng, with a real temple to explore.",
+  "touristiness": 2,
+  "time_needed": "1.5-2 h",
+  "getting_there": "25-30 min by tuk-tuk; drive to the top or climb about 300 steps. Combine with Wat Athvea on the way.",
+  "cost": "Angkor pass (checked at the top)",
+  "best_time": "Arrive ~4:30 pm for sunset (~5:45 pm in Dec-Jan). Open until 7 pm.",
+  "coords": [
+   13.2853,
+   103.8176
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Phnom_Krom",
+   "https://helloangkor.com/angkor-ticket-prices/"
+  ]
+ },
+ {
+  "id": "sr-roluos-group",
+  "region": "Siem Reap",
+  "name": "Roluos Group: Bakong, Preah Ko & Lolei",
+  "area": "~13 km southeast of town (Hariharalaya, the first Angkor-era capital)",
+  "category": "History & temples",
+  "blurb": "The oldest temples of the Angkor era (late 9th century). Bakong is the first great sandstone temple-mountain, with a moat and stone elephants; Preah Ko has six brick towers with rare surviving stucco; Lolei sits on a former island next to a lively Buddhist monastery.",
+  "why": "You see where Angkor architecture began, in a rural setting with few tourists.",
+  "touristiness": 2,
+  "time_needed": "2-3 h",
+  "getting_there": "20-30 min by tuk-tuk along National Road 6; good half-day with countryside on the way.",
+  "cost": "Angkor pass",
+  "best_time": "Late afternoon: soft light on Bakong and monks around the modern pagoda. Quiet all day.",
+  "coords": [
+   13.3359,
+   103.974
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Roluos_(temples)",
+   "https://en.wikipedia.org/wiki/Bakong"
+  ]
+ },
+ {
+  "id": "sr-banteay-srei",
+  "region": "Siem Reap",
+  "name": "Banteay Srei",
+  "area": "37 km northeast of town",
+  "category": "History & temples",
+  "blurb": "A small 10th-century (967 AD) temple in pink sandstone, known for the finest and deepest carving in Khmer art: pediments of Hindu myths, guardian figures and floral patterns cut like woodwork. It was built by a royal adviser, not a king, which explains its jewel-box scale.",
+  "why": "Well known but often skipped for distance; the carving quality is genuinely unmatched.",
+  "touristiness": 4,
+  "time_needed": "1-1.5 h (+1 h each way)",
+  "getting_there": "Needs a tuk-tuk (~1 h) or car (~45 min) hired for the half day; combine with Kbal Spean and the Landmine Museum on the same road.",
+  "cost": "Angkor pass; tuk-tuk ~$25-30 for the day",
+  "best_time": "Be there at opening (around 7:30 am) or after 3:30 pm; tour groups fill it late morning.",
+  "coords": [
+   13.5989,
+   103.963
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Banteay_Srei"
+  ]
+ },
+ {
+  "id": "sr-kbal-spean",
+  "region": "Siem Reap",
+  "name": "Kbal Spean (River of a Thousand Lingas)",
+  "area": "Southwest slopes of Phnom Kulen, ~50 km northeast of town",
+  "category": "Nature & hikes",
+  "blurb": "A 1.5 km uphill jungle trail leads to a stream whose rocky bed and banks are carved with 11th-century images of Vishnu, Shiva, Brahma and hundreds of small lingas, meant to bless the water flowing down to Angkor. A small waterfall sits at the end.",
+  "why": "Combines a real forest hike with a strange, beautiful piece of history.",
+  "touristiness": 2,
+  "time_needed": "2-3 h on site",
+  "getting_there": "About 1 h 15 by tuk-tuk or 1 h by car; pair with Banteay Srei (12 km away).",
+  "cost": "Angkor pass (a ~$5 single ticket has also been reported on site)",
+  "best_time": "Start the hike by early afternoon (the trail closes to new entries around 3 pm). Dec-Jan: lower, clearer water makes the carvings easy to see.",
+  "coords": [
+   13.677,
+   104.0193
+  ],
+  "image": "images/sr-kbal-spean.jpg",
+  "image_credit": "Gary Todd from Xinzheng, China, CC0, https://commons.wikimedia.org/wiki/File%3AKbal_Spean_%289723855678%29.jpg",
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Kbal_Spean",
+   "https://helloangkor.com/angkor-ticket-prices/"
+  ]
+ },
+ {
+  "id": "sr-phnom-kulen",
+  "region": "Siem Reap",
+  "name": "Phnom Kulen",
+  "area": "Sacred plateau ~50 km northeast of town",
+  "category": "Nature & hikes",
+  "blurb": "The mountain where Jayavarman II declared the Khmer Empire in 802 AD. Visit carved riverbed lingas, the 16th-century reclining Buddha on top of a boulder at Preah Ang Thom, and swim at the two-level waterfall; with a motorbike guide you can reach forest-covered temples like Prasat Rong Chen.",
+  "why": "Mix of pilgrimage atmosphere, jungle and a swim; the birthplace of Angkor.",
+  "touristiness": 3,
+  "time_needed": "Half to full day",
+  "getting_there": "Car with driver, ~1.5 h. The mountain road is one-way: up roughly 7-11 am, down from about 11:45 am, so leave town by 9 am.",
+  "cost": "$20 separate ticket (cash), not on the Angkor pass; car ~$50-60",
+  "best_time": "Weekdays (weekends are busy with Cambodian families). Waterfall still flowing well in Dec-Jan.",
+  "coords": [
+   13.5628,
+   104.1086
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Phnom_Kulen",
+   "https://kulenrevealed.org/what-is-the-phnom-kulen-national-park-entrance-fee"
+  ]
+ },
+ {
+  "id": "sr-beng-mealea",
+  "region": "Siem Reap",
+  "name": "Beng Mealea",
+  "area": "~68 km east of town",
+  "category": "History & temples",
+  "blurb": "A huge 12th-century temple in Angkor Wat style that has been left largely collapsed and overgrown. Wooden walkways and scrambles over fallen blocks take you through dark galleries, roots and courtyards, like an explorer's first view of Angkor.",
+  "why": "The most adventurous 'lost temple' experience within easy reach of Siem Reap.",
+  "touristiness": 3,
+  "time_needed": "1.5-2 h on site",
+  "getting_there": "Car with driver, about 1 h 15-1 h 30 each way; combine with Koh Ker or Spean Praptos.",
+  "cost": "Angkor pass (uses a pass day) or ~$10 single-entry ticket on site; car ~$60-80",
+  "best_time": "Arrive at opening or after 2:30 pm; day-tour buses peak late morning.",
+  "coords": [
+   13.4763,
+   104.2385
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Beng_Mealea",
+   "https://adventurescambodia.com/blog/beng-mealea-temple/"
+  ]
+ },
+ {
+  "id": "sr-koh-ker",
+  "region": "Siem Reap",
+  "name": "Koh Ker",
+  "area": "~120 km northeast of town (Preah Vihear province)",
+  "category": "Day trips",
+  "blurb": "The short-lived 10th-century capital Lingapura, made a UNESCO World Heritage site in 2023. Its centrepiece, Prasat Thom, is a 36 m, seven-tiered pyramid rising out of the forest, and dozens of other temples, giant lingas and reservoirs are scattered around it.",
+  "why": "A whole forgotten royal city with a pyramid like nothing at Angkor, and few visitors.",
+  "touristiness": 2,
+  "time_needed": "Full day with Beng Mealea",
+  "getting_there": "Car with driver, about 2-2.5 h each way on a good paved road; visit Beng Mealea on the way.",
+  "cost": "~$15 separate ticket, not on the Angkor pass; car ~$90-110 for the day",
+  "best_time": "Leave by 7 am. Dry roads in Dec-Jan. Ask on site whether the stairs to the top of Prasat Thom are open.",
+  "coords": [
+   13.7855,
+   104.5388
+  ],
+  "image": "images/sr-koh-ker.jpg",
+  "image_credit": "Arian Zwegers, CC BY 2.0, https://commons.wikimedia.org/wiki/File%3AKoh_Ker%2C_Prasat_Thom_%286225843693%29.jpg",
+  "video": null,
+  "links": [
+   "https://whc.unesco.org/en/list/1667/",
+   "https://visitlocaltravel.com/blog/guide-to-koh-ker-temple-and-ticket-price"
+  ]
+ },
+ {
+  "id": "sr-preah-khan-kompong-svay",
+  "region": "Siem Reap",
+  "name": "Preah Khan of Kompong Svay",
+  "area": "~105 km east of town (Preah Vihear province)",
+  "category": "Day trips",
+  "blurb": "The largest walled complex of the Angkor era, about 5 km across, deep in the countryside. Highlights are Prasat Preah Stung with Bayon-style faces, the elephant statues of Preah Damrei, and the ruined central sanctuary, all with almost no other visitors.",
+  "why": "Real off-the-map exploration for someone who has seen everything else.",
+  "touristiness": 1,
+  "time_needed": "Full day",
+  "getting_there": "Car or 4WD with driver, about 3 h each way; some tours combine it with Koh Ker as a very long day or an overnight.",
+  "cost": "Small local fee may apply (not on the Angkor pass); car ~$120+",
+  "best_time": "Dec-Jan dry season is the only comfortable time for the dirt access roads. Bring water and food.",
+  "coords": [
+   13.4098,
+   104.8061
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Preah_Khan_Kompong_Svay"
+  ]
+ },
+ {
+  "id": "sr-banteay-chhmar",
+  "region": "Siem Reap",
+  "name": "Banteay Chhmar",
+  "area": "~160 km northwest of town (Banteay Meanchey province), near the Thai border",
+  "category": "Day trips",
+  "blurb": "A remote Jayavarman VII temple city with face towers and some of the finest bas-reliefs anywhere, including rare multi-armed Avalokiteshvara figures and battle scenes. A village homestay programme lets you stay overnight and eat with local families.",
+  "why": "Bayon-level art in near solitude, plus genuine village life.",
+  "touristiness": 1,
+  "time_needed": "Full day or overnight",
+  "getting_there": "Car with driver, about 3 h each way.",
+  "cost": "~$5 local ticket (not on the Angkor pass); car ~$120-150",
+  "best_time": "Only if border advice allows: it is roughly 15-30 km from the Thai border, and parts of the border area have had travel warnings since the 2025 clashes. Check your government's advice before planning.",
+  "coords": [
+   14.0716,
+   103.0982
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Banteay_Chhmar",
+   "https://www.easia-travel.com/travel-news/seasia/thailand-cambodia-border-issues-travel-advisory-update/"
+  ]
+ },
+ {
+  "id": "sr-phnom-bok",
+  "region": "Siem Reap",
+  "name": "Phnom Bok",
+  "area": "Hilltop ~25 km northeast of town",
+  "category": "Skyline & views",
+  "blurb": "A steep climb of about 600 steps leads to a late-9th-century hilltop temple with three sanctuaries and the remains of a giant linga. From the top you look across the plain to Phnom Kulen and the Angkor forest, usually alone.",
+  "why": "A real workout with an empty temple and a big view at the end.",
+  "touristiness": 1,
+  "time_needed": "1.5-2 h",
+  "getting_there": "About 45 min by tuk-tuk; easy to add to a Banteay Srei or Roluos day.",
+  "cost": "Angkor pass",
+  "best_time": "Early morning or late afternoon to avoid the heat on the stairs; bring water. Check the closing time if staying for sunset.",
+  "coords": [
+   13.4722,
+   104.0206
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Phnom_Bok",
+   "https://helloangkor.com/angkor-ticket-prices/"
+  ]
+ },
+ {
+  "id": "sr-spean-praptos",
+  "region": "Siem Reap",
+  "name": "Spean Praptos (Kampong Kdei bridge)",
+  "area": "Kampong Kdei, ~60 km southeast of town on National Road 6",
+  "category": "History & temples",
+  "blurb": "A 12th-century stone bridge about 86 m long with 21 narrow corbelled arches and naga railings, built on the royal road from Angkor. It still stands over the river beside the modern highway, and appears on the 5,000 riel note.",
+  "why": "A rare piece of working Angkor-era engineering in a sleepy country town.",
+  "touristiness": 1,
+  "time_needed": "30-45 min (+1 h each way)",
+  "getting_there": "Car with driver, about 1 h; easy to combine with Beng Mealea, which is on a side road from the same highway.",
+  "cost": "Free",
+  "best_time": "Morning or late afternoon; Dec-Jan has clear views of the river below.",
+  "coords": [
+   13.1308,
+   104.347
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Spean_Praptos",
+   "https://helloangkor.com/attractions/spean-kampong-kdei"
+  ]
+ },
+ {
+  "id": "sr-prek-toal",
+  "region": "Siem Reap",
+  "name": "Prek Toal bird sanctuary",
+  "area": "Northwest Tonle Sap lake, ~2 h by road and boat",
+  "category": "Nature & hikes",
+  "blurb": "The largest breeding colony of large waterbirds in Southeast Asia: spot-billed pelicans, painted and milky storks, adjutants and cormorants nesting in the flooded forest. You cross the lake by boat through the Prek Toal floating village, then switch to a small boat to reach observation platforms.",
+  "why": "A peaceful, wild side of the Tonle Sap that few visitors see.",
+  "touristiness": 2,
+  "time_needed": "Full day (leave ~6 am)",
+  "getting_there": "Best with an organised trip (Osmose, Sam Veasna Center or Cambodia Bird Guide Association) including transfer to Chong Kneas pier and boats.",
+  "cost": "~$100-150 per person on an organised trip; not on the Angkor pass",
+  "best_time": "Dec-Jan is good: birds are arriving to breed and water is still high enough for boats (access gets hard from late February). Early morning is best for birds.",
+  "coords": [
+   13.155,
+   103.64
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Prek_Toal_Bird_Sanctuary",
+   "https://cambodianess.com/article/birdwatching-livelihood-boat-and-lake-what-to-do-at-prek-toal-wildlife-sanctuary"
+  ]
+ },
+ {
+  "id": "sr-phare-circus",
+  "region": "Siem Reap",
+  "name": "Phare, The Cambodian Circus",
+  "area": "Siem Reap town, west side (big top off Sok San Road)",
+  "category": "Museums & culture",
+  "blurb": "An hour-long show mixing acrobatics, theatre, live music and painting, performed by young artists from the Phare Ponleu Selpak school in Battambang. Each show tells a Cambodian story, from folk tales to the Khmer Rouge years.",
+  "why": "Modern Cambodian culture with real energy, and the money supports an arts school for disadvantaged youth.",
+  "touristiness": 4,
+  "time_needed": "1.5 h incl. arrival",
+  "getting_there": "10 min by tuk-tuk from the Old Market area.",
+  "cost": "~$18-38 (Section A $38); not on the Angkor pass",
+  "best_time": "Nightly at 8 pm; from Nov 2026 to Mar 2027 also a 5 pm show on Wed, Fri and Sun. Book a few days ahead over Christmas/New Year.",
+  "coords": [
+   13.3594,
+   103.8468
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://pharecircus.org/schedule-rates/",
+   "https://pharecircus.org/tickets/"
+  ]
+ },
+ {
+  "id": "sr-landmine-museum",
+  "region": "Siem Reap",
+  "name": "Cambodia Landmine Museum",
+  "area": "~25 km north of town, on the road to Banteay Srei",
+  "category": "Museums & culture",
+  "blurb": "Founded by Aki Ra, a former child soldier who cleared thousands of mines by hand. Displays of defused mines and weapons explain Cambodia's decades of war and the ongoing clearance work, and the site supports a school for children affected by mines.",
+  "why": "Gives honest context to the country behind the temples, in a short, powerful visit.",
+  "touristiness": 3,
+  "time_needed": "1 h",
+  "getting_there": "On the way to Banteay Srei (about 10 min before it), so it fits the same tuk-tuk or car day.",
+  "cost": "$5; not on the Angkor pass",
+  "best_time": "Midday, when temples are hottest and most crowded. Open about 7:30 am-5:30 pm.",
+  "coords": [
+   13.5383,
+   103.9484
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.cambodialandminemuseum.org/plan-your-visit/",
+   "https://en.wikipedia.org/wiki/Cambodian_Landmine_Museum"
+  ]
+ },
+ {
+  "id": "sr-angkor-silk-farm",
+  "region": "Siem Reap",
+  "name": "Angkor Silk Farm (Puok)",
+  "area": "Puok, ~16 km west of town on National Road 6",
+  "category": "Museums & culture",
+  "blurb": "Run by the social enterprise Artisans Angkor, this farm shows the whole silk process: mulberry fields, silkworms, cocoon boiling and reeling, natural dyeing and weaving on wooden looms. Free guided tours walk you through each step.",
+  "why": "A calm, hands-on look at a traditional Khmer craft, set in the countryside.",
+  "touristiness": 2,
+  "time_needed": "1-1.5 h",
+  "getting_there": "25-30 min by tuk-tuk; Artisans Angkor has run a free shuttle from its town workshop (check current times). Combine with the Western Baray.",
+  "cost": "Free; not on the Angkor pass",
+  "best_time": "Morning, when the workshops are busiest. Confirm opening with Artisans Angkor before going.",
+  "coords": [
+   13.4005,
+   103.757
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://artisansangkor.com/visit-us/angkor-silk-farm/"
+  ]
+ },
+ {
+  "id": "sr-battambang-day-trip",
+  "region": "Siem Reap",
+  "name": "Battambang: bamboo train & Phnom Sampeau bat cave",
+  "area": "Battambang, ~170 km west of Siem Reap",
+  "category": "Day trips",
+  "blurb": "Cambodia's second city has a laid-back riverside centre of French colonial shophouses. Nearby, Phnom Sampeau hill has hilltop pagodas, the sobering Killing Caves, and at dusk millions of bats pour out of a cave in a long ribbon across the sky; the original bamboo train (norry) still runs on a short stretch of track.",
+  "why": "Combines atmosphere, recent history and a spectacular natural sight; better as an overnight.",
+  "touristiness": 3,
+  "time_needed": "Long day or 1 night",
+  "getting_there": "Car with driver about 3-3.5 h each way, or bus (~4 h). For the bats, you need to be at the cave around 5:30 pm.",
+  "cost": "Car ~$100-130 one way/return day; bamboo train ~$10; not on the Angkor pass",
+  "best_time": "Bats emerge about 5:30-6 pm. Dec-Jan is dry and pleasant. The original bamboo train runs irregularly; a newer tourist version also exists.",
+  "coords": [
+   13.0957,
+   103.2022
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Battambang",
+   "https://www.nomadicnotes.com/bamboo-railway-battambang-cambodia"
+  ]
+ },
+ {
+  "id": "sr-wat-bo-kandal",
+  "region": "Siem Reap",
+  "name": "Wat Bo murals & Kandal Village",
+  "area": "Siem Reap town, both sides of the river near the Old Market",
+  "category": "Neighborhood & vibes",
+  "blurb": "Wat Bo is one of Siem Reap's oldest pagodas, with 19th-century murals of the Reamker (Khmer Ramayana) that include Chinese merchants and French officers. A short walk away, Kandal Village is a few quiet streets of cafes, design shops and small restaurants.",
+  "why": "A slow, local afternoon in town between temple days.",
+  "touristiness": 2,
+  "time_needed": "2-3 h",
+  "getting_there": "Walk or bicycle from the Old Market (10 min).",
+  "cost": "Free (small donation at the pagoda)",
+  "best_time": "Late afternoon: monks chant at the pagoda around dusk, then dinner in Kandal Village.",
+  "coords": [
+   13.3591,
+   103.8634
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Wat_Bo"
+  ]
+ },
+ {
+  "id": "sr-psar-leu",
+  "region": "Siem Reap",
+  "name": "Psar Leu local market",
+  "area": "National Road 6, ~3 km east of the centre",
+  "category": "Markets & food",
+  "blurb": "Siem Reap's biggest everyday market, where locals buy fish from the lake, fresh herbs, fermented prahok, and household goods. Breakfast stalls serve num banh chok (rice noodles with green fish curry) and bai sach chrouk (pork and rice).",
+  "why": "The real Siem Reap, with no souvenirs and great cheap breakfast.",
+  "touristiness": 1,
+  "time_needed": "1-1.5 h",
+  "getting_there": "10 min by tuk-tuk from town.",
+  "cost": "Free; breakfast ~$1-3",
+  "best_time": "6-9 am, when it is busiest and coolest.",
+  "coords": [
+   13.3615,
+   103.881
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.lonelyplanet.com/cambodia/siem-reap"
+  ]
+ },
+ {
+  "id": "sr-quad-bike-countryside",
+  "region": "Siem Reap",
+  "name": "Quad or dirt-bike ride to villages at sunset",
+  "area": "Countryside south and west of town",
+  "category": "Experiences",
+  "blurb": "Guided rides on red dirt tracks through rice paddies, stilt-house villages and small pagodas, ending with sunset over the fields. Options run from 1.5-hour quad loops to half-day dirt-bike rides further out.",
+  "why": "A fun, active way to see village life away from the temple circuit.",
+  "touristiness": 3,
+  "time_needed": "2-4 h",
+  "getting_there": "Operators pick up from hotels; bases are 10-15 min from town.",
+  "cost": "~$45-120 depending on length and private/shared; not on the Angkor pass",
+  "best_time": "Late afternoon. Dec-Jan is dry and dusty (bring sunglasses and a scarf); harvested fields turn golden.",
+  "coords": [
+   13.34,
+   103.84
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.aaa.com/tripcanvas/thing-to-do/halfday-atv-grand-sunset-tour-229015P30"
+  ]
+ },
+ {
+  "id": "sr-angkor-balloon",
+  "region": "Siem Reap",
+  "name": "Angkor Balloon",
+  "area": "~1 km west of Angkor Wat, on the road to Angkor Thom",
+  "category": "Skyline & views",
+  "blurb": "A tethered helium balloon rises about 200 m and stays up for 10-15 minutes. From the basket you see Angkor Wat's five towers and moat, Phnom Bakheng and the forest stretching to the horizon.",
+  "why": "The only easy bird's-eye view of Angkor Wat itself.",
+  "touristiness": 3,
+  "time_needed": "30-45 min",
+  "getting_there": "Ask the tuk-tuk to stop on the way to or from Angkor Wat.",
+  "cost": "~$20-30 per person; not on the Angkor pass",
+  "best_time": "Early morning or late afternoon; flights depend on wind. Check it is operating before planning around it.",
+  "coords": [
+   13.4243,
+   103.8637
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://www.siemreap.net/category/visit/angkor"
+  ]
+ },
+ {
+  "id": "sr-nye-siem-reap",
+  "region": "Siem Reap",
+  "name": "New Year's Eve in Siem Reap",
+  "area": "Pub Street / Old Market area, plus hotels",
+  "category": "Events",
+  "blurb": "On 31 December Pub Street turns into a big outdoor countdown party with music and crowds. Quieter options are hotel galas (Phare Circus has performed at the Park Hyatt's) or Amansara's twilight temple dinner; on 1 January many people go to Angkor Wat for the first sunrise of the year.",
+  "why": "Only relevant if your Siem Reap nights fall over New Year; good to plan around either way.",
+  "touristiness": 4,
+  "time_needed": "Evening",
+  "getting_there": "Walk from central hotels.",
+  "cost": "Free on the street; hotel dinners $100+",
+  "best_time": "31 Dec 2026. Note: the Angkor Wat Half Marathon is on 6 Dec 2026 (before your window). Expect bigger crowds and higher hotel prices around Christmas-New Year.",
+  "coords": [
+   13.3547,
+   103.8546
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://pharecircus.org/christmas-siem-reap/",
+   "https://angkorhospital.org/angkor-wat-international-half-marathon-2026/"
+  ]
+ },
+ {
+  "id": "sr-wat-athvea",
+  "region": "Siem Reap",
+  "name": "Wat Athvea",
+  "area": "~6 km south of town, on the road to Phnom Krom",
+  "category": "History & temples",
+  "blurb": "An early-12th-century sandstone temple from the same period as Angkor Wat, standing inside a working Buddhist pagoda among trees and ponds. It sits outside the park, has no ticket and is usually empty apart from monks and village children.",
+  "why": "A true hidden gem: an authentic Angkor-era temple in everyday local life.",
+  "touristiness": 1,
+  "time_needed": "45 min",
+  "getting_there": "15 min by tuk-tuk; stop on the way to Phnom Krom.",
+  "cost": "Free; no Angkor pass needed",
+  "best_time": "Late afternoon before going on to Phnom Krom for sunset.",
+  "coords": [
+   13.3205,
+   103.8427
+  ],
+  "image": null,
+  "image_credit": null,
+  "video": null,
+  "links": [
+   "https://en.wikipedia.org/wiki/Wat_Athvea"
+  ]
+ }
+]
