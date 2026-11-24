@@ -79,7 +79,7 @@
      "links": [
       "https://tdac.immigration.go.th",
       "https://www.srtet.co.th/en/",
-      "https://www.bangkokairportonline.com/"
+      "https://suvarnabhumi.airportthai.co.th/"
      ],
      "warning": "Allow 2.5-3 h from landing to the Old Town; a flight later than ~11:00 means the Grand Palace becomes tight (last ticket 15:30)."
     },
@@ -102,8 +102,8 @@
      ],
      "from_previous": "Taxi/Grab 5-10 min from Old Town hotels or walk; MRT Sanam Chai is 15 min on foot",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-grand-palace.jpg",
+     "image_credit": "Nawit science, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Temple_of_the_Emerald_Buddha.jpg",
      "video": {
       "id": "IA1Fz1GPuNo",
       "title": "Temple of Emerald Buddha and the Grand Palace | 4K HDR Immersive Bangkok Walking Tour with Captions",
@@ -133,8 +133,8 @@
      ],
      "from_previous": "Walk 5-10 min south from the Grand Palace exit along Sanam Chai Road",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-wat-pho.jpg",
+     "image_credit": "Diego Delso, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wat_Pho%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_02.jpg",
      "video": {
       "id": "04JsbuXYT4E",
       "title": "[BANGKOK] Wat Pho \"Temple of the Reclining Buddha Walking Tour\" | Thailand [4K HDR]",
@@ -165,7 +165,7 @@
      "from_previous": "Walk 10 min south from Wat Pho down Maharat/Sanam Chai Road",
      "optional": false,
      "image": "images/bkk-pak-khlong-talat.jpg",
-     "image_credit": null,
+     "image_credit": "Deror Avi, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bangkok_Pak_Khlong_Talat_P1100391.JPG",
      "video": null,
      "links": [
       "https://en.wikipedia.org/wiki/Pak_Khlong_Talat"
@@ -191,7 +191,7 @@
      "from_previous": "Walk 5 min from the flower market",
      "optional": false,
      "image": "images/bkk-chao-phraya-sky-park.jpg",
-     "image_credit": null,
+     "image_credit": "Chainwit., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Chao_Phraya_Sky_Park_%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%84_%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B2_%28October_2021%29_-_img_11.jpg",
      "video": {
       "id": "iP_nQ28yLts",
       "title": "Park in the Sky: Discovering Chao Phraya's Urban Retreat",
@@ -220,8 +220,8 @@
      ],
      "from_previous": "Walk 15-20 min east along Chakkraphet/Yaowarat, or MRT Sanam Chai to Wat Mangkon (1 stop, ~5 min)",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-chinatown.jpg",
+     "image_credit": "Christophe95, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Yaowarat_Road_at_night.jpg",
      "video": {
       "id": "5qFNjtO8kzc",
       "title": "Yaowarat Night Market Bangkok: Chinatown Street Food Walking Tour 4K | Raw Asia Uncut | RAU 021",
@@ -252,7 +252,7 @@
      "from_previous": "Walk 10-15 min south-west from Yaowarat via Soi Wanit 1 or Song Wat",
      "optional": true,
      "image": "images/bkk-talat-noi.jpg",
-     "image_credit": null,
+     "image_credit": "Phoebus 28, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Talat_Noi_Street_Art.jpg",
      "video": {
       "id": "C2KXR1XJ2jY",
       "title": "Bangkok, THAILAND - Bangkok's Best Kept Secret, Talat Noi & Chinatown 4K Walking Tour",
@@ -281,8 +281,8 @@
      ],
      "from_previous": "Grab/taxi 15 min from Chinatown (~100 THB)",
      "optional": true,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-khao-san.jpg",
+     "image_credit": "Michal Dokoupil - User: TypeC, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Khaosan_Road_at_night_in_2012.jpg",
      "video": null,
      "links": [
       "https://en.wikipedia.org/wiki/Khaosan_Road"
@@ -307,7 +307,7 @@
      "from_previous": "Walk 5 min from Khao San",
      "optional": true,
      "image": "images/bkk-phra-sumen-fort.jpg",
-     "image_credit": null,
+     "image_credit": "Supanut Arunoprayote, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Phra_Sumen_Fort_Bangkok_-_Day.jpg",
      "video": null,
      "links": [
       "https://en.wikipedia.org/wiki/Phra_Sumen_Fort"
@@ -347,15 +347,14 @@
      ],
      "from_previous": "Walk to Tha Tien pier (13.74404, 100.49152), then cross-river ferry 3 min",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-wat-arun.jpg",
+     "image_credit": "Supanut Arunoprayote, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Phra_Prang_Wat_Arun_during_day.jpg",
      "video": {
       "id": "WlhjtWD-hMU",
       "title": "Walking tour | Wat Arun, Bangkok : Thailand's Temple Of Dawn [4K]",
       "channel": "TodsaGun All Around"
      },
      "links": [
-      "https://www.watarun1.com/en",
       "https://en.wikipedia.org/wiki/Wat_Arun"
      ],
      "warning": null
@@ -367,7 +366,7 @@
      "description": "Southeast Asia's largest museum, set inside the Front Palace (Wang Na) of the deputy kings of early Bangkok. The Gallery of Thai History and the archaeology halls run from Ban Chiang pottery through Dvaravati, Srivijaya and Khmer sculpture to Sukhothai bronzes and Ayutthaya gold - good preparation for Ayutthaya on Monday and Angkor later. The original palace buildings hold royal palanquins, theatre masks and the gilded royal funeral chariots; the Buddhaisawan Chapel has some of Bangkok's finest early murals and the revered Phra Buddha Sihing image.",
      "tips": [
       "Start in the Siwamokhaphiman Hall (history overview), then the Buddhaisawan Chapel, then the funeral chariot hall.",
-      "Free English guided tours are often run by volunteers on Wed/Thu at 09:30; check the board.",
+      "Volunteer-led English tours run on some weekday mornings (not Saturdays); the free audio/QR labels cover the main halls.",
       "Over New Year the museum has hosted merit-making at the Buddhaisawan Chapel (28 Dec-8 Jan in past years), so expect Thai visitors there."
      ],
      "hours": "Wed-Sun 09:00-16:00 (last ticket ~15:30); closed Mon-Tue",
@@ -378,8 +377,8 @@
      ],
      "from_previous": "Ferry back to Tha Tien, then walk 15-20 min north up Maharat Road (or Chao Phraya Express Tha Tien -> Tha Chang, 5 min, then walk 10 min)",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-national-museum.jpg",
+     "image_credit": "Masgatotkaca, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:National_Museum_Bangkok.JPG",
      "video": {
       "id": "cqaeSMeYiUU",
       "title": "[BANGKOK] Bangkok National Museum \"A Passage To Wisdom Night At Museum 2024\" | Thailand [4K HDR]",
@@ -395,7 +394,7 @@
      "id": "bkk-royal-barges",
      "name": "Royal Barges National Museum",
      "time": "12:15-13:00",
-     "description": "A boat shed on Khlong Bangkok Noi housing eight of the 52 gilded royal barges used in the Royal Barge Procession, which now happens only a few times a reign (the last was in November 2026). The star is Suphannahong, a 46 m barge carved from a single teak trunk with a swan-head prow, rowed by 50 oarsmen. Getting there through a lane of stilt houses beside the canal is part of the charm.",
+     "description": "A boat shed on Khlong Bangkok Noi housing eight of the 52 gilded royal barges used in the Royal Barge Procession, which now happens only a few times a reign (most recently in late 2026). The star is Suphannahong, a 46 m barge carved from a single teak trunk with a swan-head prow, rowed by 50 oarsmen. Getting there through a lane of stilt houses beside the canal is part of the charm.",
      "tips": [
       "Cross on the 4 THB ferry from Tha Phra Chan (behind Thammasat) to Wang Lang, eat at Wang Lang market, then Grab 5 min (or walk 15 min).",
       "Allow 30-45 min; the info boards explain each barge's figurehead (naga, garuda, Hanuman).",
@@ -410,7 +409,7 @@
      "from_previous": "Walk to Tha Phra Chan pier (5 min), ferry to Wang Lang (3 min), then Grab 5 min or walk 15 min",
      "optional": false,
      "image": "images/bkk-royal-barges-museum.jpg",
-     "image_credit": null,
+     "image_credit": "Kathy, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Royal_Barges_National_Museum_-_2014-02-25_-_001.jpg",
      "video": {
       "id": "nV5TAByKaIU",
       "title": "[BANGKOK] Royal Barges National Museum \"The Beauty and Majesty of Thailand's Royal Barges\" [4K HDR]",
@@ -439,8 +438,8 @@
      ],
      "from_previous": "Grab 15-20 min from the Royal Barges museum (~120 THB)",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-bang-luang.jpg",
+     "image_credit": "Supanut Arunoprayote, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Khlong_Bang_Luang_Floating_Market.jpg",
      "video": {
       "id": "qFrBH8UbbDI",
       "title": "[BANGKOK] Klong Bang Luang \"Hidden Gem Community & Artist's House Tour\" | Thailand [4K HDR]",
@@ -469,8 +468,8 @@
      ],
      "from_previous": "Walk 20 min along the canal or Grab 5 min (~60 THB)",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-wat-paknam.jpg",
+     "image_credit": "Don Ramey Logan, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Big_Buddha_at_Wat_Pak_Nam_Phasi_Charoen_Bangkok_Thailand_by_Don_Ramey_Logan.jpg",
      "video": {
       "id": "wS-YiX_Uz_I",
       "title": "Bangkok's Biggest Buddha Statue - Wat Paknam Temple Walk [4K HDR]",
@@ -499,8 +498,8 @@
      ],
      "from_previous": "Grab 10 min to BTS Talat Phlu, then BTS 10 min",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-saphan-taksin.jpg",
+     "image_credit": "Supanut Arunoprayote, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Chao_Phraya_River_-_Bangkok_-_northwards_-_from_King_Taksin_Bridge_-_2021.jpg",
      "video": null,
      "links": [
       "https://www.bts.co.th/eng/"
@@ -525,8 +524,8 @@
      ],
      "from_previous": "Free shuttle boat from Sathorn pier, ~10 min",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-asiatique.jpg",
+     "image_credit": "Boonlert, CC0, https://commons.wikimedia.org/wiki/File:Asiatique_The_Riverfront_08.jpg",
      "video": null,
      "links": [
       "https://www.asiatiquethailand.com/en"
@@ -550,8 +549,8 @@
      ],
      "from_previous": "Grab ~20 min from Tha Tien/Wat Arun (~150 THB)",
      "optional": true,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-taling-chan.jpg",
+     "image_credit": "Sry85, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Talking_Chan_floating_market_2019-02-23.jpg",
      "video": null,
      "links": [
       "https://en.wikipedia.org/wiki/Taling_Chan_floating_market"
@@ -575,8 +574,8 @@
      ],
      "from_previous": "Grab ~10 min from Taling Chan",
      "optional": true,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-lat-mayom.jpg",
+     "image_credit": "Dharmadana, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B8%A1%E0%B8%B0%E0%B8%A2%E0%B8%A1_01.jpg",
      "video": null,
      "links": [
       "https://www.timeout.com/bangkok/things-to-do/khlong-lat-mayom-floating-market"
@@ -616,8 +615,8 @@
      ],
      "from_previous": "MRT Blue Line from Sanam Chai (Old Town) to Kamphaeng Phet, ~30 min, ~40 THB (exit 2 opens into the market); or BTS Mo Chit",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-chatuchak.jpg",
+     "image_credit": "Christophe95, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Chatuchak_Weekend_Market_2.jpg",
      "video": {
       "id": "7zaFfg30oU4",
       "title": "[BANGKOK] Chatuchak Weekend Market \"Bangkok's Famous Weekend Market\" | Thailand [4K HDR]",
@@ -647,8 +646,8 @@
      ],
      "from_previous": "MRT Blue Line Kamphaeng Phet -> Silom or Lumphini, ~25 min, ~40 THB",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-lumphini.jpg",
+     "image_credit": "Supanut Arunoprayote, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Lumphini_Park_%28I%29.jpg",
      "video": {
       "id": "qOi-CqwnUBQ",
       "title": "Lumpini Park Bangkok | One of Bangkok's Best Parks & Wildlife Spots [4K HDR]",
@@ -677,8 +676,8 @@
      ],
      "from_previous": "Walk the elevated Green Bridge from Lumphini's Sarasin gate, ~20 min",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-benjakitti.jpg",
+     "image_credit": "Supanut Arunoprayote, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Benjakitti_Forest_Park_%28I%29.jpg",
      "video": {
       "id": "BwGA2ngkk5A",
       "title": "NOW OPEN! Bangkok's NEW Green Mile SKYBRIDGE | Lumphini to Benjakitti Park | 4K HDR",
@@ -707,8 +706,8 @@
      ],
      "from_previous": "MRT Queen Sirikit National Convention Centre -> Silom (2 stops), then walk 15 min west along Silom Road (or Grab 10 min)",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-mariamman.jpg",
+     "image_credit": "Chainwit., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sri_Maha_Mariamman_Koyil_Bangkok_%28Wat_Khaek_Silom%29_2019_01.jpg",
      "video": null,
      "links": [
       "https://en.wikipedia.org/wiki/Sri_Maha_Mariamman_Temple,_Bangkok"
@@ -733,8 +732,8 @@
      ],
      "from_previous": "Walk 8-10 min from the temple to BTS Chong Nonsi / King Power Mahanakhon entrance on Narathiwat Road",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-mahanakhon.jpg",
+     "image_credit": "Ninaras, CC BY 4.0, https://commons.wikimedia.org/wiki/File:MahaNakhon_the_tallest_skyscraper_in_Bangkok.jpg",
      "video": {
       "id": "d7qY_8rbIWs",
       "title": "Walk 314m Above Bangkok! King Power Mahanakhon SkyWalk at Sunset [4K HDR]",
@@ -763,8 +762,8 @@
      ],
      "from_previous": "BTS Chong Nonsi -> Siam, change -> Chit Lom, ~15 min, ~35 THB",
      "optional": true,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-centralworld.jpg",
+     "image_credit": "Supanut Arunoprayote, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Central_World_%28I%29.jpg",
      "video": null,
      "links": [
       "https://www.centralworld.co.th/"
@@ -804,8 +803,8 @@
      ],
      "from_previous": "MRT Sanam Chai -> Bang Sue, ~30 min, ~42 THB",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-ayutthaya-train.jpg",
+     "image_credit": "Supanut Arunoprayote, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Krung_Thep_Aphiwat_Central_Terminal_%28I%29.jpg",
      "video": null,
      "links": [
       "https://dticket.railway.co.th",
@@ -863,8 +862,8 @@
      ],
      "from_previous": "Cycle ~1.5 km (8 min) from the ferry landing via U-Thong/Chikun Road",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-wat-mahathat-ay.jpg",
+     "image_credit": "Brian Chun (Funwithbchun), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Buddha_Head_in_Tree_Roots%2C_Wat_Mahathat%2C_Ayutthaya.jpg",
      "video": {
       "id": "V44-TwkQRlg",
       "title": "[4K] Walking Tour in Wat Mahathat in Ayutthaya",
@@ -894,8 +893,8 @@
      ],
      "from_previous": "Cycle ~1.2 km west (6 min) past Bueng Phra Ram lake",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-wat-phra-si-sanphet.jpg",
+     "image_credit": "Diego Delso, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Templo_Phra_Si_Sanphet%2C_Ayutthaya%2C_Tailandia%2C_2013-08-23%2C_DD_13.jpg",
      "video": {
       "id": "dWmKoFDWq_E",
       "title": "Cycling Around Ayutthaya - Thailand's Old Capital City",
@@ -950,8 +949,8 @@
      ],
      "from_previous": "Cycle ~2 km west over the bridge (10 min)",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-wat-chaiwatthanaram.jpg",
+     "image_credit": "JJ Harrison (https://www.jjharrison.com.au/), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wat_Chai_Watthanaram_-_Ayutthaya.jpg",
      "video": {
       "id": "45vv3roUxAw",
       "title": "a PERFECT Itinerary for AYUTTHAYA - Ultimate Travel Guide",
@@ -981,7 +980,7 @@
      "from_previous": "Grab ~25 min from Ayutthaya, or ordinary/commuter train to Bang Pa-In station",
      "optional": true,
      "image": "images/bkk-bang-pa-in.jpg",
-     "image_credit": null,
+     "image_credit": "Chainwit., CC BY 4.0, https://commons.wikimedia.org/wiki/File:Bang_Pa-in_-_Ishavaraya_Divya_Asna_Hall_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%84%E0%B8%AD%E0%B8%A8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B8%AD%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%8C_%282025%29_-_img_02.jpg",
      "video": null,
      "links": [
       "https://en.wikipedia.org/wiki/Bang_Pa-in_Royal_Palace"
@@ -1021,8 +1020,8 @@
      ],
      "from_previous": "BTS Sukhumvit Line to the terminus Kheha (from Asok ~50 min; from the Old Town via MRT to Sukhumvit + BTS ~1 h 15 total, ~60-70 THB), then Grab/taxi 5-10 min (~80 THB)",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-ancient-city.jpg",
+     "image_credit": "Don Ramey Logan, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Ancient_City_%28Muang_Boran%29_in_Samut_Prakan_Thailand_by_Don_Ramey_Logan.jpg",
      "video": {
       "id": "E-o0ot6rD9Q",
       "title": "Ancient City Bangkok (Muang Boran) Thailand's Most Beautiful Open Air Museum | Full Tour 2026 4K",
@@ -1052,8 +1051,8 @@
      ],
      "from_previous": "Grab/taxi ~10 min from the Ancient City (~100 THB)",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-bang-pu.jpg",
+     "image_credit": "Rushen, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Chroicocephalus_brunnicephalus_%2C_brown_headed-gull_-_Bang_Pu%2C_Bangkok_%2813403821744%29.jpg",
      "video": {
       "id": "YGv_VoQhSJ0",
       "title": "4K HDR | Bang Pu Seagulls - Thousands of Birds Near Bangkok!",
@@ -1084,7 +1083,7 @@
      "from_previous": "BTS Kheha -> Asok ~55 min (~60 THB), then walk 10 min to Asok pier",
      "optional": false,
      "image": "images/bkk-khlong-saen-saep-boat.jpg",
-     "image_credit": null,
+     "image_credit": "Vyacheslav Argenberg, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Bangkok_river_boat_taxi%2C_Khlong_Saen_Saep%2C_Bangkok%2C_Thailand.jpg",
      "video": {
       "id": "yiLJqhcnCts",
       "title": "The Most UNUSUAL Ferry Trip I've Ever Taken!",
@@ -1112,8 +1111,8 @@
      ],
      "from_previous": "Walk 3 min from Phan Fa Lilat pier",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-wat-ratchanatdaram.jpg",
+     "image_credit": "PEAK99, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Loha_Prasat_%E2%80%93_Wat_Ratchanatdaram_Worawihan_1_%282019%29.jpg",
      "video": {
       "id": "jywHnc5GNr8",
       "title": "4K HDR | Loha Prasat (The Only Metal Castle In The World) | Wat Ratchanatdaram | Bangkok | Thailand",
@@ -1143,7 +1142,7 @@
      "from_previous": "Walk 10 min south-west via Bamrung Mueang Road",
      "optional": false,
      "image": "images/bkk-wat-suthat.jpg",
-     "image_credit": null,
+     "image_credit": "Preecha.MJ, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Giant_Swing%2C_Bangkok.jpg",
      "video": {
       "id": "Z_J-SzYbvX4",
       "title": "Wat Suthat Walking Tour: Bangkok's Most Magical Temple in 4K HDR",
@@ -1173,7 +1172,7 @@
      "from_previous": "Walk 5 min west along Ti Thong/Fuang Nakhon Road",
      "optional": false,
      "image": "images/bkk-wat-ratchabophit.jpg",
-     "image_credit": null,
+     "image_credit": "Kriengsak Jirasirirojanakorn, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wat_Ratchabophit_%282%29.jpg",
      "video": {
       "id": "oBL5bdJ7rY4",
       "title": "Ultimate 4K HDR Bangkok Walking Tour at Wat Ratchabophit",
@@ -1182,7 +1181,7 @@
      "links": [
       "https://en.wikipedia.org/wiki/Wat_Ratchabophit"
      ],
-     "warning": "Royal ashes interred here Dec 2026: access to the hall may be limited."
+     "warning": "Queen Sirikit's royal ashes are due to be interred here after the cremation in mid-December 2026, so access to the hall may be limited."
     },
     {
      "id": "bkk-golden-mount",
@@ -1202,8 +1201,8 @@
      ],
      "from_previous": "Tuk-tuk or Grab 5 min (~60-100 THB), or walk 15 min",
      "optional": false,
-     "image": null,
-     "image_credit": null,
+     "image": "images/bkk-golden-mount.jpg",
+     "image_credit": "Vyacheslav Argenberg, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Wat_Saket%2C_Golden_Mount%2C_Bangkok%2C_Thailand.jpg",
      "video": {
       "id": "4SFHH2XkkCo",
       "title": "Epic Bangkok Sunset at the Golden Mount - 4K DJI Mavic Drone Footage",
@@ -1262,7 +1261,7 @@
    "from_previous": "Minivan from Sai Tai Mai (Southern Bus Terminal) or Mo Chit ~2-2.5 h, ~120-150 THB each way, frequent; or train from Krung Thep Aphiwat ~2.5-3 h",
    "optional": false,
    "image": "images/bkk-phetchaburi.jpg",
-   "image_credit": null,
+   "image_credit": "Supanut Arunoprayote, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Phra_Nakhon_Khiri_%28II%29.jpg",
    "video": {
     "id": "N48S7ka4fkI",
     "title": "The Amazing Khao Luang Caves in Phetchaburi Thailand",
@@ -1296,7 +1295,7 @@
    "from_previous": "See options: weekend train from Hua Lamphong, minivan from Mo Chit 2/Sai Tai Mai, or private driver",
    "optional": false,
    "image": "images/bkk-kanchanaburi.jpg",
-   "image_credit": null,
+   "image_credit": "calflier001, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:THAI_RAILWAYS_KRUPPS_LOCO_HAULED_TRAIN_BOUND_FOR_BANGKOK_AT_THE_WAMPO_VIADUCT_RIVER_KWAI_BRIDGE_THAILAND_JAN_2013_%288509318593%29.jpg",
    "video": {
     "id": "vo4TDQAN9z8",
     "title": "Thailand Death Railway 4K | Scenic Train Journey over Krasae Cave",
@@ -1329,7 +1328,7 @@
    "from_previous": "Grab from the Old Town ~45-60 min (~300-400 THB), or MRT Pink Line to Yaek Pak Kret then 2 km Grab/motorbike taxi to Wat Sanam Nuea pier",
    "optional": false,
    "image": "images/bkk-koh-kret.jpg",
-   "image_credit": null,
+   "image_credit": "Mr.Peerapong Prasutr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nontaburi_Ko_Kret_1.jpg",
    "video": null,
    "links": [
     "https://en.wikivoyage.org/wiki/Ko_Kret",
@@ -1357,7 +1356,7 @@
    "from_previous": "Train from Thonburi (07:45, ~1 h 15) or Krung Thep Aphiwat (~1 h), 10-60 THB; or minivan from Sai Tai Mai (~1 h)",
    "optional": false,
    "image": "images/bkk-nakhon-pathom.jpg",
-   "image_credit": null,
+   "image_credit": "Disthan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Phra_Pathommachedi_3.jpg",
    "video": null,
    "links": [
     "https://en.wikipedia.org/wiki/Phra_Pathommachedi",
@@ -1386,7 +1385,7 @@
    "from_previous": "Train from Krung Thep Aphiwat ~1 h 30-2 h 30 (Special Express 7 at 07:30, Rapid 111 at 07:50) or commuter trains from Hua Lamphong; Sam Yot is a 5-min walk from Lopburi station",
    "optional": false,
    "image": "images/bkk-lopburi.jpg",
-   "image_credit": null,
+   "image_credit": "Supanut Arunoprayote, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Phra_Prang_Sam_Yod_%28II%29.jpg",
    "video": {
     "id": "0NdHk5BPOq8",
     "title": "ESCAPE THE CROWDS: Day Trip to Lopburi from Bangkok",

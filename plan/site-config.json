@@ -1,27 +1,309 @@
 {
-  "title": "Sixteen Nights: KL to Angkor",
-  "dates": "Tue 29 Dec 2026 – Thu 14 Jan 2027 · 16 nights",
-  "summary": "New Year's Eve under the Kuala Lumpur skyline, five days of temples and canals in Bangkok, the mountain temples of Chiang Mai, and four days among the ruins of Angkor.",
-  "hero": "images/sr-ta-som.jpg",
-  "hero_credit": "",
-  "extras_hero": "images/wc-sukhothai-si-satchanalai.jpg",
-  "practical_hero": "images/wc-bangkok-chiang-mai-sleeper.jpg",
-  "principles": [
-    "Your own day-by-day plan is the backbone; every stop you planned is kept unless it is closed on the day it falls on.",
-    "Ideas you scored 7–9 were slotted in where they sit next to something you had already planned, so they add little travel time.",
-    "Ideas you scored 4 or lower were dropped. Ideas you scored 5–6 appear as optional stops or in the backup list.",
-    "Days are deliberately overbooked. Optional stops (dashed numbers) are the first things to cut.",
-    "Days were checked against weekday opening rules — for example Chatuchak and Chiang Mai's Coconut Market are weekend-only, and Bangkok's National Museum is closed Monday and Tuesday."
-  ],
-  "cities": [
-    {"key": "kl", "name": "Kuala Lumpur", "short": "KL", "code": "KL", "color": "#2a5db0", "dates": "29–31 Dec", "nights": 3, "tagline": "Old colonial core, Putrajaya's domes, and New Year's Eve fireworks.", "center": [3.1478, 101.6953], "hero": "images/kl-masjid-wilayah.jpg"},
-    {"key": "bangkok", "name": "Bangkok", "short": "Bangkok", "code": "BKK", "color": "#b8860b", "dates": "1–5 Jan", "nights": 5, "tagline": "Rattanakosin's palaces, Thonburi's canals, Ayutthaya, and rooftop sunsets.", "center": [13.7525, 100.4935], "hero": "images/bkk-wat-ratchabophit.jpg"},
-    {"key": "chiang-mai", "name": "Chiang Mai", "short": "Chiang Mai", "code": "CM", "color": "#3f7d3a", "dates": "6–9 Jan", "nights": 4, "tagline": "Lanna temples, a night on Doi Suthep, and the valleys to the north.", "center": [18.7883, 98.9853], "hero": "images/cm-wat-chedi-luang-night.jpg"},
-    {"key": "siem-reap", "name": "Siem Reap", "short": "Siem Reap", "code": "SR", "color": "#a4502f", "dates": "10–13 Jan", "nights": 4, "tagline": "Angkor at sunrise on foot, the grand circuit by bike, and life on the Tonle Sap.", "center": [13.3671, 103.8448], "hero": "images/sr-baphuon-palilay.jpg"}
-  ],
-  "legs": [],
-  "route_options": [],
-  "checklist": [],
-  "practical": [],
-  "open_questions": []
+ "title": "Sixteen Nights: KL to Angkor",
+ "dates": "Tue 29 Dec 2026 – Thu 14 Jan 2027 · 16 nights",
+ "summary": "New Year's Eve under the Kuala Lumpur skyline, five days of temples and canals in Bangkok, the mountain temples of Chiang Mai, and four days among the ruins of Angkor.",
+ "hero": "images/sr-angkor-wat.jpg",
+ "hero_credit": "",
+ "extras_hero": "images/wc-sukhothai-si-satchanalai.jpg",
+ "practical_hero": "images/wc-bangkok-chiang-mai-sleeper.jpg",
+ "principles": [
+  "Your own day-by-day plan is the backbone; every stop you planned is kept unless it is closed on the day it falls on.",
+  "Ideas you scored 7–9 were slotted in where they sit next to something you had already planned, so they add little travel time.",
+  "Ideas you scored 4 or lower were dropped. Ideas you scored 5–6 appear as optional stops or in the backup list.",
+  "Days are deliberately overbooked. Optional stops (dashed numbers) are the first things to cut.",
+  "Days were checked against weekday opening rules — for example Chatuchak and Chiang Mai's Coconut Market are weekend-only, and Bangkok's National Museum is closed Monday and Tuesday."
+ ],
+ "cities": [
+  {
+   "key": "kl",
+   "name": "Kuala Lumpur",
+   "short": "KL",
+   "code": "KL",
+   "color": "#2a5db0",
+   "dates": "29–31 Dec",
+   "nights": 3,
+   "tagline": "Old colonial core, Putrajaya's domes, and New Year's Eve fireworks.",
+   "center": [
+    3.1478,
+    101.6953
+   ],
+   "hero": "images/kl-klcc.jpg"
+  },
+  {
+   "key": "bangkok",
+   "name": "Bangkok",
+   "short": "Bangkok",
+   "code": "BKK",
+   "color": "#b8860b",
+   "dates": "1–5 Jan",
+   "nights": 5,
+   "tagline": "Rattanakosin's palaces, Thonburi's canals, Ayutthaya, and rooftop sunsets.",
+   "center": [
+    13.7525,
+    100.4935
+   ],
+   "hero": "images/bkk-grand-palace.jpg"
+  },
+  {
+   "key": "chiang-mai",
+   "name": "Chiang Mai",
+   "short": "Chiang Mai",
+   "code": "CM",
+   "color": "#3f7d3a",
+   "dates": "6–10 Jan",
+   "nights": 4,
+   "tagline": "Lanna temples, a night on Doi Suthep, and the valleys to the north.",
+   "center": [
+    18.7883,
+    98.9853
+   ],
+   "hero": "images/cm-doi-suthep-temple.jpg"
+  },
+  {
+   "key": "siem-reap",
+   "name": "Siem Reap",
+   "short": "Siem Reap",
+   "code": "SR",
+   "color": "#a4502f",
+   "dates": "10–13 Jan",
+   "nights": 4,
+   "tagline": "Angkor at sunrise on foot, the grand circuit by bike, and life on the Tonle Sap.",
+   "center": [
+    13.3671,
+    103.8448
+   ],
+   "hero": "images/sr-ta-prohm.jpg"
+  }
+ ],
+ "legs": [
+  {
+   "date": "Tue 29 Dec",
+   "from": "Home",
+   "to": "Kuala Lumpur (KUL)",
+   "how": "Your flight in. KLIA Ekspres to KL Sentral, 28 min, about RM55–65.",
+   "status": "Your call"
+  },
+  {
+   "date": "Fri 1 Jan",
+   "from": "Kuala Lumpur",
+   "to": "Bangkok",
+   "how": "About 2 h flight; Thailand is 1 h behind. AirAsia from KLIA T2 to Don Mueang, or MH/TG from T1 to Suvarnabhumi. Leave between 08:30 and 11:00 to reach the Grand Palace before last entry.",
+   "status": "Book now (your doc has an AirAsia booking link)"
+  },
+  {
+   "date": "Wed 6 Jan",
+   "from": "Bangkok",
+   "to": "Chiang Mai",
+   "how": "About 1 h 15 flight (cheapest from Don Mueang), or the overnight sleeper train 13 on Tue 5 Jan at 20:05 (see Extras).",
+   "status": "Book now"
+  },
+  {
+   "date": "Sun 10 Jan",
+   "from": "Chiang Mai",
+   "to": "Siem Reap (SAI)",
+   "how": "No direct flight. One ticket via Bangkok: Bangkok Airways via Suvarnabhumi (lands about 18:45) or Thai AirAsia via Don Mueang (lands 16:55). SAI is about 1 h from town.",
+   "status": "Book now"
+  },
+  {
+   "date": "Thu 14 Jan",
+   "from": "Siem Reap",
+   "to": "Onward",
+   "how": "Direct flights to Bangkok, Kuala Lumpur, Singapore, Hanoi, Ho Chi Minh City and more. A departure after about 12:00 leaves time for one last sunrise.",
+   "status": "Your call"
+  }
+ ],
+ "route_options": [
+  {
+   "tag": "Rated 7",
+   "title": "Overnight sleeper train to Chiang Mai",
+   "body": "Take the sleeper train from Bangkok on the evening of Tue 5 Jan instead of flying on Wed 6 Jan. Train 13 leaves Krung Thep Aphiwat at 20:05, late enough to see the Golden Mount sunset first, and arrives in Chiang Mai the next morning. You save a hotel night, gain most of a day in Chiang Mai, and get the journey itself: rice fields at dawn and the climb into the northern hills. Tickets have been on sale since early October, so book soon.",
+   "cost": "Nothing on BKK5 with train 13 (20:05). Train 9 (18:40) would cost the Golden Mount sunset."
+  },
+  {
+   "tag": "Rated 8",
+   "title": "Chiang Rai",
+   "body": "You called it exciting but far. As a day trip from Chiang Mai it is about 3 h each way for the White Temple, Blue Temple and Black House. As 1 extra night it becomes relaxed and can add the Golden Triangle or Doi Mae Salong. Best added if the trip grows to 17 nights. Full detail is in the Chiang Mai extras below.",
+   "cost": "1 day (day trip) or 1 night (if 17 nights)."
+  },
+  {
+   "tag": "Rated 8",
+   "title": "Sukhothai stopover on the way north",
+   "body": "Break Bangkok → Chiang Mai with a night in Sukhothai, the first Thai capital: a quiet historical park of lotus ponds and seated Buddhas that you explore by bicycle, with Si Satchanalai nearby. Train or bus north from Bangkok, then bus on to Chiang Mai.",
+   "cost": "1 night, taken from Bangkok (5 → 4) or Chiang Mai."
+  },
+  {
+   "tag": "Rated 8",
+   "title": "Khao Sok floating bungalows",
+   "body": "Raft houses on Cheow Lan Lake among limestone karsts are a different world from the rest of this trip, but they sit far south (fly to Surat Thani, then 2 h by road) and need 2–3 nights. Realistic only on a longer trip or by replacing a whole city leg.",
+   "cost": "2–3 nights plus 2 flights."
+  },
+  {
+   "tag": "15 nights",
+   "title": "Arriving 30 Dec instead",
+   "body": "If the trip is 15 nights, KL1 and KL2 merge into one day (old KL in the morning, Petronas and the skyline in the afternoon), and Batu Caves moves to 07:30 on 31 Dec before Putrajaya. Details are in the KL2 notes.",
+   "cost": "Lose Puncak Alop, Titiwangsa, the eco park and one sunset."
+  },
+  {
+   "tag": "Sun 10 Jan",
+   "title": "Early flight to Siem Reap",
+   "body": "An early flight from Chiang Mai (06:30–08:30) connecting to Thai AirAsia FD 610 lands in Siem Reap at 11:05. You would get an afternoon at Angkor and a sunset (balloon or Pre Rup), but miss the Coconut Market and Changthong on Sunday morning.",
+   "cost": "Lose Sunday morning in Chiang Mai; gain an Angkor afternoon."
+  }
+ ],
+ "checklist": [
+  {
+   "id": "f-kl-bkk",
+   "when": "Now",
+   "text": "Flight Kuala Lumpur → Bangkok on Fri 1 Jan, leaving 08:30–11:00 (check whether your AirAsia booking already covers this)."
+  },
+  {
+   "id": "f-bkk-cm",
+   "when": "Now",
+   "text": "Bangkok → Chiang Mai: flight on Wed 6 Jan, or sleeper train 13 (20:05) on Tue 5 Jan, which has been on sale since early October."
+  },
+  {
+   "id": "f-cm-sr",
+   "when": "Now",
+   "text": "Chiang Mai → Siem Reap on Sun 10 Jan, as one ticket via Bangkok so bags go through."
+  },
+  {
+   "id": "f-sr-out",
+   "when": "Now",
+   "text": "Flight out of Siem Reap on Thu 14 Jan (after about 12:00 if you want a last sunrise)."
+  },
+  {
+   "id": "h-kl",
+   "when": "Now",
+   "text": "KL hotel near KLCC with a tower-facing room and rooftop pool for New Year's Eve (for example Imperial Lexis or The FACE Suites)."
+  },
+  {
+   "id": "h-all",
+   "when": "Now",
+   "text": "Hotels in Bangkok, Chiang Mai and Siem Reap (peak season; see Where to stay on each city page)."
+  },
+  {
+   "id": "cm-elephants",
+   "when": "Now",
+   "text": "Elephant Nature Park half-day for Thu 7 Jan. Ask whether a private driver may collect you at the park around 13:00."
+  },
+  {
+   "id": "cm-driver",
+   "when": "Now",
+   "text": "Private driver for the afternoon of Thu 7 Jan (Wat Ban Den, Mon Cham), about 1,800–2,800 THB."
+  },
+  {
+   "id": "kl-118",
+   "when": "When sales open",
+   "text": "The View at 118 timed sunset ticket for Tue 29 Dec (scheduled to open 15 Dec 2026)."
+  },
+  {
+   "id": "bkk-palace",
+   "when": "30–31 Dec",
+   "text": "Check the Grand Palace website that it is selling tourist tickets on 1 Jan (on 1 Jan 2026 it closed for a royal lying-in-state)."
+  },
+  {
+   "id": "cm-camp",
+   "when": "Mid-December",
+   "text": "Doi Pui campground for Fri 8 Jan, including a tent: phone 086-196-4285."
+  },
+  {
+   "id": "bkk-skywalk",
+   "when": "A week before",
+   "text": "Mahanakhon SkyWalk sunset ticket for Sun 3 Jan."
+  },
+  {
+   "id": "kh-visa",
+   "when": "2 weeks before",
+   "text": "Cambodia e-Visa at evisa.gov.kh (only the .gov.kh site), or bring US$30 cash and a photo for visa on arrival."
+  },
+  {
+   "id": "kh-pass",
+   "when": "Before 10 Jan",
+   "text": "Angkor 3-day pass online at angkorenterprise.gov.kh, starting Mon 11 Jan (photo upload needed)."
+  },
+  {
+   "id": "my-mdac",
+   "when": "3 days before 29 Dec",
+   "text": "Malaysia Digital Arrival Card (MDAC) online."
+  },
+  {
+   "id": "th-tdac",
+   "when": "3 days before 1 Jan",
+   "text": "Thailand Digital Arrival Card (TDAC) online."
+  },
+  {
+   "id": "kh-arrival",
+   "when": "7 days before 10 Jan",
+   "text": "Cambodia e-Arrival card at arrival.gov.kh (required for air arrivals)."
+  },
+  {
+   "id": "apps",
+   "when": "Before you go",
+   "text": "Install Grab (all three countries), PassApp (Cambodia) and an eSIM covering Malaysia, Thailand and Cambodia."
+  }
+ ],
+ "practical": [
+  {
+   "title": "Money",
+   "items": [
+    "Malaysia: ringgit (MYR). Cards almost everywhere; cash for hawker stalls and the KL Forest Eco Park.",
+    "Thailand: baht (THB). Cash for markets, songthaews and small temples; ATMs charge about 220 THB per withdrawal.",
+    "Cambodia: US dollars in small, clean, untorn notes; change under US$1 comes back in riel.",
+    "Tipping is not expected in Malaysia; small tips are welcome in Thailand and Cambodia."
+   ]
+  },
+  {
+   "title": "Temple and mosque dress",
+   "items": [
+    "Cover shoulders and knees anywhere you plan to visit a temple; carry a light scarf or sarong.",
+    "Mosques lend robes and headscarves free; visit outside prayer times.",
+    "Shoes off in temple halls and Hindu temples. Women should not touch monks or hand things to them directly.",
+    "Wat Sri Suphan's silver hall admits men only."
+   ]
+  },
+  {
+   "title": "Time zones",
+   "items": [
+    "Malaysia is UTC+8; Thailand and Cambodia are UTC+7. You gain an hour flying to Bangkok on 1 Jan."
+   ]
+  },
+  {
+   "title": "Weather in Dec–Jan",
+   "items": [
+    "KL: warm and humid (about 24–32°C); afternoon showers are possible.",
+    "Bangkok: the cool, dry season, about 22–32°C; the most comfortable time of year.",
+    "Chiang Mai: warm days and cool nights (about 15°C in town); on Doi Pui overnight it can drop to 5–10°C.",
+    "Siem Reap: dry season, hot middays (about 32°C), cool clear mornings for sunrise."
+   ]
+  },
+  {
+   "title": "Packing extras",
+   "items": [
+    "Head torch for the 04:10 walk to Angkor Wat and the campsite.",
+    "Warm layer and a sleeping-bag liner for the night on Doi Pui.",
+    "Comfortable shoes that slip on and off easily at temples.",
+    "Refillable bottle, sunscreen, mosquito repellent."
+   ]
+  },
+  {
+   "title": "Common scams",
+   "items": [
+    "Use Grab instead of unmetered taxis, and ignore drivers who say a sight is closed.",
+    "In Bangkok, ignore strangers near the Grand Palace who say it is closed today.",
+    "At Angkor, buy passes only from the official office or website; ignore red-string blessings that end in a donation demand."
+   ]
+  }
+ ],
+ "open_questions": [
+  "16 nights (arrive Tue 29 Dec) or 15 nights (arrive Wed 30 Dec)? The site assumes 16.",
+  "When do you land in KL on 29 Dec? KL1 assumes you are in the city by about 09:00.",
+  "Is your AirAsia booking the KL → Bangkok flight on 1 Jan? Which airport and time?",
+  "Bangkok → Chiang Mai: fly on Wed 6 Jan, or take the overnight sleeper train on Tue 5 Jan?",
+  "Sunday 10 Jan: keep the Coconut Market morning (land in Siem Reap around 17:00–19:00), or fly early and get an Angkor afternoon?",
+  "Where do you go after Siem Reap on 14 Jan, and at what time?",
+  "New Year's Eve: in the KLCC Park crowd, or from a hotel room or rooftop?",
+  "Doi Pui camping: will you bring gear, or rent a tent there?",
+  "Would you swap the Ancient City day for Phetchaburi (rated 8) or Kanchanaburi (rated 7)?",
+  "If the trip grows to 17 nights, should the extra night go to Chiang Rai?"
+ ]
 }

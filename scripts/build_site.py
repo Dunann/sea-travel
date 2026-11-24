@@ -144,9 +144,27 @@ def main():
             backup.append({"name": it["name"], "region": it["region"], "score": r["score"], "note": r.get("note", ""), "blurb": it.get("blurb", "")})
     backup.sort(key=lambda b: -b["score"])
 
+    # credits for hero photos, taken from whichever stop uses the same file
+    credits = {}
+    for det_key in [c["key"] for c in cfg["cities"]]:
+        f = ROOT / f"research/details-{det_key}.json"
+        if f.exists():
+            d = json.loads(f.read_text(encoding="utf-8"))
+            for s in [s for day in d["days"] for s in day["stops"]] + d.get("extras", []):
+                if s.get("image") and s.get("image_credit"):
+                    credits[Path(s["image"]).stem] = s["image_credit"]
+    for it in load("ratings-page/items.json"):
+        if it.get("image") and it.get("image_credit"):
+            credits.setdefault(Path(it["image"]).stem, it["image_credit"])
+    for city in cities:
+        if city.get("hero") and not city.get("hero_credit"):
+            city["hero_credit"] = credits.get(Path(city["hero"]).stem, "Wikimedia Commons")
+
     trip = {k: v for k, v in cfg.items() if k != "cities"}
     for k in ("hero", "extras_hero", "practical_hero"):
         if trip.get(k):
+            if not trip.get(k + "_credit"):
+                trip[k + "_credit"] = credits.get(Path(trip[k]).stem, "Wikimedia Commons")
             trip[k] = copy_image(trip[k])
     trip["cities"] = cities
     trip["backup_ideas"] = backup

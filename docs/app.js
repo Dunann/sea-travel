@@ -116,7 +116,7 @@
         }
       });
       if (pts.length > 1) L.polyline(pts, { color: "#c7700f", weight: 2.5, dashArray: "6 6" }).addTo(m);
-      if (pts.length) m.fitBounds(L.latLngBounds(pts).pad(0.25));
+      if (pts.length) m.fitBounds(L.latLngBounds(pts).pad(0.12));
     });
   }
 
