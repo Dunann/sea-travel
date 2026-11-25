@@ -210,6 +210,7 @@
     const qs = (trip.open_questions || []).map(q => `<li>${esc(q)}</li>`).join("");
     app.innerHTML = hero(trip.practical_hero, trip.practical_hero_credit, "Before you go", "Bookings & practical", "What to book and when, money, visas, and the questions still open.") + `
       <div class="wrap">
+        <section class="section"><div class="panel"><h3>Google Maps lists</h3><p>Every place you rated 6 or higher, split by country, ready to save to Google Maps lists or import into My Maps. <a href="lists.html">Open the lists →</a></p></div></section>
         ${list ? `<section class="section"><h2>Booking checklist</h2><p class="lede">Ticks are saved in this browser.</p><div class="panel"><ul class="checklist">${list}</ul></div></section>` : ""}
         ${panels ? `<section class="section"><h2>Good to know</h2><div class="grid2">${panels}</div></section>` : ""}
         ${qs ? `<section class="section"><h2>Open questions for you</h2><div class="panel prose"><ul>${qs}</ul></div></section>` : ""}
